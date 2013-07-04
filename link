@@ -112,13 +112,13 @@ home_link () {
     path="$1"
     link_path="$2"
 
-    if [[ ! -d "$path" ]]; then
-        if [[ -d "$link_path" ]]; then
+    if [[ ! -e "$path" ]]; then
+        if [[ -e "$link_path" ]]; then
             if prompt_bool "$link_path exists and is a directory, move to $path?"; then
                 mkdir -p "${path%/*}"
                 mv "$link_path" "$path"
             fi
-        elif [[ -d "Dropbox/$link_path" ]]; then
+        elif [[ -e "Dropbox/$link_path" ]]; then
             if prompt_bool "Dropbox/$link_path exists and is a directory, move to $path?"; then
                 mkdir -p "${path%/*}"
                 mv "Dropbox/$link_path" "$path"
