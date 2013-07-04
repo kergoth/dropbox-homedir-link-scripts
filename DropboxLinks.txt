@@ -11,6 +11,10 @@ Games/FreeOrion	Library/Application Support/FreeOrion
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
 Games/Doomsday	Library/Application Support/Doomsday Engine
 Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
+Games/Back to the Future Episode 1	Library/Application Support/Telltale Games/Backtothefuture
+Games/Back to the Future Episode 2	Library/Application Support/Telltale Games/BackToTheFuture102
+Games/Back to the Future Episode 3	Library/Application Support/Telltale Games/BackToTheFuture103
+Games/Back to the Future Episode 4	Library/Application Support/Telltale Games/BackToTheFuture104
 ../Movies	Documents/My Video
 ../Movies	Documents/My Videos
 ../Pictures	Documents/My Pictures
