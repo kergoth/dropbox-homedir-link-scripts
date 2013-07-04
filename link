@@ -34,17 +34,20 @@ while IFS="	" read filename from_pattern to_pattern; do
             if [ -n "$orig_dest" ] && [ "$dest" != "$orig_dest" ]; then
                 if [ -e "$orig_dest/$full_from" ]; then
                     echo "Found $full_from in $orig_dest, copying"
-                    mkdir -p "$dest/${full_to%/*}"
+                    dest_to="$dest/$full_to"
+                    mkdir -p "${dest_to%/*}"
                     cp -a "$orig_dest/$full_from" "$dest/$full_to"
                 elif [ -e "$orig_dest/$full_from.zip" ]; then
                     echo "Found $full_from.zip in $orig_dest, extracting"
-                    mkdir -p "$dest/${full_to%/*}"
+                    dest_to="$dest/$full_to"
+                    mkdir -p "${dest_to%/*}"
                     cd "$dest/${full_to%/*}"
                     unzip "$orig_dest/$full_from.zip" >/dev/null
                     cd - >/dev/null
                 elif [ -e "$orig_dest/$full_from.7z" ]; then
                     echo "Found $full_from.7z in $orig_dest, extracting"
-                    mkdir -p "$dest/${full_to%/*}"
+                    dest_to="$dest/$full_to"
+                    mkdir -p "${dest_to%/*}"
                     cd "$dest/${full_to%/*}"
                     7z x "$orig_dest/$full_from.7z" >/dev/null
                     cd - >/dev/null
