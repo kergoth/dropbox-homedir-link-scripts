@@ -1,0 +1,12 @@
+Games/Torchlight	Library/Application Support/runic games/torchlight
+Games/StarCraft II	Library/Application Support/Blizzard/StarCraft II
+Games/Diablo III	Library/Application Support/Blizzard/Diablo III
+Games/A New Beginning	Library/Application Support/Daedalic Entertainment/A New Beginning
+Games/Book of Unwritten Tales	Library/Application Support/Book of Unwritten Tales
+Games/The Cave	Library/Application Support/Doublefine/TheCave
+Games/Broken Sword - The Smoking Mirror - Remastered	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
+Games/Dungeons of Dredmor	Library/Application Support/Dungeons of Dredmor
+Games/Darwinia	Library/Application Support/Darwinia
+Games/FreeOrion	Library/Application Support/FreeOrion
+Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
+Games/Doomsday	Library/Application Support/Doomsday Engine

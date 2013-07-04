@@ -1,0 +1,61 @@
+#!/bin/sh
+
+if [ "$PWD" = "$HOME" ]; then
+    exit 3
+fi
+
+link () {
+    mkdir -p "${1%/*}"
+    rm -f "$1"
+    ln -s "$2" "$1"
+}
+
+dest="$PWD"
+orig_dest="$HOME"
+
+while IFS="	" read filename from_pattern to_pattern; do
+    if [ ! -e "$filename" ]; then
+        continue
+    fi
+
+    while IFS="	" read to_path from_path; do
+        if [ -z "$from_path" ]; then
+            from_path="$to_path"
+        fi
+
+        full_from="$(printf "$from_pattern" "$from_path")"
+        full_to="$(printf "$to_pattern" "$to_path")"
+
+        if [ ! -e "$dest/$full_to" ]; then
+            if [ -n "$orig_dest" ] && [ "$dest" != "$orig_dest" ]; then
+                if [ -e "$orig_dest/$full_from" ]; then
+                    echo "Found $full_from in $orig_dest, copying"
+                    mkdir -p "$dest/${full_to%/*}"
+                    cp -a "$orig_dest/$full_from" "$dest/$full_to"
+                elif [ -e "$orig_dest/$full_from.zip" ]; then
+                    echo "Found $full_from.zip in $orig_dest, extracting"
+                    mkdir -p "$dest/${full_to%/*}"
+                    cd "$dest/${full_to%/*}"
+                    unzip "$orig_dest/$full_from.zip" >/dev/null
+                    cd - >/dev/null
+                elif [ -e "$orig_dest/$full_from.7z" ]; then
+                    echo "Found $full_from.7z in $orig_dest, extracting"
+                    mkdir -p "$dest/${full_to%/*}"
+                    cd "$dest/${full_to%/*}"
+                    7z x "$orig_dest/$full_from.7z" >/dev/null
+                    cd - >/dev/null
+                else
+                    echo >&2 "Warning: $dest/$full_to does not exist, skipping"
+                fi
+            else
+                echo >&2 "Warning: $dest/$full_to does not exist, skipping"
+            fi
+        fi
+
+        link "$dest/$full_from" "$dest/$full_to"
+    done <$filename
+done <<END
+DropboxLinks.txt	%s	Dropbox/%s
+DropboxGames.txt	Documents/%s	Dropbox/Games/%s
+DropboxApps.txt	Documents/%s	Dropbox/Apps/%s
+END
