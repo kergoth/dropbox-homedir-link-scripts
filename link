@@ -18,9 +18,13 @@ while IFS="	" read filename from_pattern to_pattern; do
         continue
     fi
 
-    while IFS="	" read to_path from_path; do
+    grep -v "^#" "$filename" | while IFS="	" read to_path from_path; do
         if [ -z "$from_path" ]; then
             from_path="$to_path"
+        fi
+
+        if [ -z "$to_path" ]; then
+            continue
         fi
 
         full_from="$(printf "$from_pattern" "$from_path")"
@@ -53,7 +57,7 @@ while IFS="	" read filename from_pattern to_pattern; do
         fi
 
         link "$dest/$full_from" "$dest/$full_to"
-    done <$filename
+    done
 done <<END
 DropboxLinks.txt	%s	Dropbox/%s
 DropboxGames.txt	Documents/%s	Dropbox/Games/%s
