@@ -1,0 +1,10 @@
+#!/bin/sh
+
+for i in $HOME/Documents/*; do
+    i="${i#$HOME/Documents/}"
+    if [ ! -e "Documents/$i" ]; then
+        if [ -d "$HOME/Documents/$i" ]; then
+            echo "$i"
+        fi
+    fi
+done | grep -v '\.'

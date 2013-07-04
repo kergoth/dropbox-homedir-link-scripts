@@ -1,0 +1,10 @@
+#!/bin/sh
+
+for i in $HOME/Documents/*; do
+    i="${i#$HOME/Documents/}"
+    if [ ! -e "RealDocuments/$i" ] && [ ! -e "Documents/$i" ]; then
+        dest="RealDocuments/$i"
+        mkdir -p "${dest%/*}"
+        cp -a "$HOME/Documents/$i" "$dest"
+    fi
+done
