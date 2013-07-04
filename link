@@ -1,71 +1,164 @@
-#!/bin/sh
+#!/bin/bash
 
-if [ "$PWD" = "$HOME" ]; then
-    exit 3
-fi
+set -u
+
+force=0
 
 link () {
-    mkdir -p "${1%/*}"
-    rm -f "$1"
-    ln -s "$2" "$1"
+    # Link a file to a destination using a relative path
+    path="$(abspath "$path")"
+
+    if [ $# -gt 1 ]; then
+        link_path="$(abspath "$2")"
+    else
+        link_path="$HOME/$path"
+    fi
+    destdir="${link_path%/*}"
+    if [ "$destdir" != "$link_path" ]; then
+        mkdir -p "$destdir"
+    fi
+    relative_path="$(relpath "$destdir" "$path")"
+
+    # Sanity check
+    link_resolved="$(normalize_path "${link_path%/*}/$relative_path")"
+    if [ ! -e "$link_resolved" ]; then
+        echo >&2 "Error: $link_resolved does not exist"
+        return 1
+    fi
+
+    if [ -L "$link_path" ] || [ -e "$link_path" ]; then
+        if [ $force -eq 0 ] && [ "$(readlink "$link_path")" != "$relative_path" ]; then
+            echo >&2 "Warning: $link_path already exists and does not link to $relative_path"
+            if prompt_bool "Replace $link_path?"; then
+                rm -rf "$link_path.old"
+                mv "$link_path" "$link_path.old"
+                echo >&2 "Removed $link_path (backed up as $link_path.old)"
+            else
+                rm -rf "$link_path.new"
+                ln -s "$relative_path" "$link_path.new"
+                echo >&2 "Linked $link_path.new"
+                return 1
+            fi
+        else
+            rm -f "$link_path"
+        fi
+    fi
+    ln -s "$relative_path" "$link_path"
+    echo >&2 "Linked $link_path"
 }
 
-dest="$PWD"
-orig_dest="$HOME"
+abspath () {
+    # Return an absolute path for the specified argument
+    _path="$1"
+    if [ -n "${_path##/*}" ]; then
+        _path="$PWD/$1"
+    fi
+    echo "$_path"
+}
 
-while IFS="	" read filename from_pattern to_pattern; do
+normalize_path () {
+    # Attempt to normalize the specified path, removing . and ..
+
+    # Remove all /./ sequences.
+    local path="${1//\/.\//\/}"
+
+    # Remove dir/.. sequences.
+    while [[ $path =~ ([^/][^/]*/\.\./) ]]; do
+        path="${path/${BASH_REMATCH[0]}/}"
+    done
+    echo "$path"
+}
+
+prompt_bool () {
+    if [[ $# -gt 1 ]]; then
+        default="$2"
+    else
+        default="y"
+    fi
+    case $default in
+        [yY])
+            y_side="Y"
+            n_side="n"
+            default_code=0
+            ;;
+        [nN])
+            n_side="N"
+            y_side="y"
+            default_code=1
+            ;;
+    esac
+
+    while true; do
+        read -n 1 -p "$1 [$y_side|$n_side] " result </dev/tty
+        printf "\n"
+        case "$result" in
+            [yY])
+                return 0
+                ;;
+            [nN])
+                return 1
+                ;;
+            "")
+                return $default_code
+                ;;
+            *)
+                echo >&2 "Invalid input '$result'"
+                ;;
+        esac
+    done
+}
+
+home_link () {
+    path="$1"
+    link_path="$2"
+
+    if [[ ! -d "$path" ]]; then
+        if [[ -d "$link_path" ]]; then
+            if prompt_bool "$link_path exists and is a directory, move to $path?"; then
+                mkdir -p "${path%/*}"
+                mv "$link_path" "$path"
+            fi
+        elif [[ -d "Dropbox/$link_path" ]]; then
+            if prompt_bool "Dropbox/$link_path exists and is a directory, move to $path?"; then
+                mkdir -p "${path%/*}"
+                mv "Dropbox/$link_path" "$path"
+            fi
+        else
+            echo >&2 "Error: source $link_path does not exist, skipping"
+            return 1
+        fi
+    fi
+
+    mkdir -p "${link_path%/*}"
+    link "$path" "$link_path"
+}
+
+
+scriptdir="$(cd "${0%/*}" && pwd)"
+cd
+
+while IFS="	" read filename path_pattern link_path_pattern; do
     if [ ! -e "$filename" ]; then
         continue
     fi
 
-    grep -v "^#" "$filename" | while IFS="	" read to_path from_path; do
-        if [ -z "$from_path" ]; then
-            from_path="$to_path"
-        fi
-
-        if [ -z "$to_path" ]; then
+    grep -v "^#" "$filename" | while IFS="	" read rel_path rel_link_path; do
+        if [[ -z "$rel_path" ]]; then
             continue
         fi
 
-        full_from="$(printf "$from_pattern" "$from_path")"
-        full_to="$(printf "$to_pattern" "$to_path")"
-
-        if [ ! -e "$dest/$full_to" ]; then
-            if [ -n "$orig_dest" ] && [ "$dest" != "$orig_dest" ]; then
-                if [ -e "$orig_dest/$full_from" ]; then
-                    echo "Found $full_from in $orig_dest, copying"
-                    dest_to="$dest/$full_to"
-                    mkdir -p "${dest_to%/*}"
-                    cp -a "$orig_dest/$full_from" "$dest/$full_to"
-                elif [ -e "$orig_dest/$full_from.zip" ]; then
-                    echo "Found $full_from.zip in $orig_dest, extracting"
-                    dest_to="$dest/$full_to"
-                    mkdir -p "${dest_to%/*}"
-                    cd "$dest/${full_to%/*}"
-                    unzip "$orig_dest/$full_from.zip" >/dev/null
-                    cd - >/dev/null
-                elif [ -e "$orig_dest/$full_from.7z" ]; then
-                    echo "Found $full_from.7z in $orig_dest, extracting"
-                    dest_to="$dest/$full_to"
-                    mkdir -p "${dest_to%/*}"
-                    cd "$dest/${full_to%/*}"
-                    7z x "$orig_dest/$full_from.7z" >/dev/null
-                    cd - >/dev/null
-                else
-                    echo >&2 "Warning: $orig_dest/$full_from does not exist, skipping"
-                fi
-            else
-                echo >&2 "Warning: $dest/$full_to does not exist, skipping"
-            fi
-        elif [ ! -h "$dest/$full_from" ]; then
-            echo >&2 "Warning: destination $dest/$full_from already exists and is not a symlink"
+        if [[ -z "$rel_link_path" ]]; then
+            rel_link_path="$rel_path"
         fi
 
-        link "$dest/$full_from" "$dest/$full_to"
+        path="$(printf "$path_pattern" "$rel_path")"
+        link_path="$(printf "$link_path_pattern" "$rel_link_path")"
+
+        home_link "$path" "$link_path"
     done
 done <<END
-Links.txt	%s	%s
-DropboxLinks.txt	%s	Dropbox/%s
-DropboxGames.txt	Documents/%s	Dropbox/Games/%s
-DropboxApps.txt	Documents/%s	Dropbox/Apps/%s
+$scriptdir/Links.txt	%s	%s
+$scriptdir/DropboxLinks.txt	Dropbox/%s	%s
+$scriptdir/DropboxGames.txt	Dropbox/Games/%s	Documents/%s
+$scriptdir/DropboxApps.txt	Dropbox/Apps/%s	Documents/%s
 END
