@@ -10,3 +10,4 @@ Games/Darwinia	Library/Application Support/Darwinia
 Games/FreeOrion	Library/Application Support/FreeOrion
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
 Games/Doomsday	Library/Application Support/Doomsday Engine
+Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
