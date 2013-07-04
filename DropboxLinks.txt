@@ -15,7 +15,3 @@ Games/Back to the Future Episode 1	Library/Application Support/Telltale Games/Ba
 Games/Back to the Future Episode 2	Library/Application Support/Telltale Games/BackToTheFuture102
 Games/Back to the Future Episode 3	Library/Application Support/Telltale Games/BackToTheFuture103
 Games/Back to the Future Episode 4	Library/Application Support/Telltale Games/BackToTheFuture104
-../Movies	Documents/My Video
-../Movies	Documents/My Videos
-../Pictures	Documents/My Pictures
-../Music	Documents/My Music

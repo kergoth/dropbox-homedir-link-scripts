@@ -1,0 +1,4 @@
+Movies	Documents/My Videos
+Documents/My Videos	Documents/My Video
+Music	Documents/My Music
+Pictures	Documents/My Pictures
