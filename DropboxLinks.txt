@@ -12,6 +12,6 @@ Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - Th
 Games/Doomsday	Library/Application Support/Doomsday Engine
 Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
 ../Movies	Documents/My Video
-../Movies	Documents/My Video
+../Movies	Documents/My Videos
 ../Pictures	Documents/My Pictures
 ../Music	Documents/My Music
