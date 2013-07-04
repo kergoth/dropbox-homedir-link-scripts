@@ -45,7 +45,7 @@ while IFS="	" read filename from_pattern to_pattern; do
                     7z x "$orig_dest/$full_from.7z" >/dev/null
                     cd - >/dev/null
                 else
-                    echo >&2 "Warning: $dest/$full_to does not exist, skipping"
+                    echo >&2 "Warning: $orig_dest/$full_from does not exist, skipping"
                 fi
             else
                 echo >&2 "Warning: $dest/$full_to does not exist, skipping"
