@@ -2,3 +2,5 @@ Movies	Documents/My Videos
 Documents/My Videos	Documents/My Video
 Music	Documents/My Music
 Pictures	Documents/My Pictures
+Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content	My Kindle Content
+Dropbox/Books	Books
