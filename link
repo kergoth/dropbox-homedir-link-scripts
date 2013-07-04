@@ -54,6 +54,8 @@ while IFS="	" read filename from_pattern to_pattern; do
             else
                 echo >&2 "Warning: $dest/$full_to does not exist, skipping"
             fi
+        elif [ ! -h "$dest/$full_to" ]; then
+            echo >&2 "Warning: destination $dest/$full_to already exists and is not a symlink"
         fi
 
         link "$dest/$full_from" "$dest/$full_to"
