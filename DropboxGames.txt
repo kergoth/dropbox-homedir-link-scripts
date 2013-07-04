@@ -64,6 +64,9 @@ Syberia	Syberia Saves
 Dead Space	Electronic Arts/Dead Space
 Return to Castle Wolfenstein	rtcwcoop
 Gray Matter	GrayMatter
+
+Wallace & Gromit's Grand Adventures Episode 1	Telltale Games/Episode 101 - Fright of the Bumblebees
+
 Grotesque-Tactics
 Giana Sisters - Twisted Dreams
 Broken Sword - Director's Cut
