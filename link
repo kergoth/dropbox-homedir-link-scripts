@@ -65,7 +65,7 @@ while IFS="	" read filename from_pattern to_pattern; do
     done
 done <<END
 Links.txt	%s	%s
-DropboxLinks.txt       %s      Dropbox/%s
-DropboxGames.txt       Documents/%s    Dropbox/Games/%s
-DropboxApps.txt        Documents/%s    Dropbox/Apps/%s
+DropboxLinks.txt	%s	Dropbox/%s
+DropboxGames.txt	Documents/%s	Dropbox/Games/%s
+DropboxApps.txt	Documents/%s	Dropbox/Apps/%s
 END
