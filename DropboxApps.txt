@@ -3,6 +3,7 @@ Alcohol 52%
 Amazon MP3
 Amazon MP3 Uploader
 Digital Editions
+Parallels
 Neat	Neat Data
 Colloquy/Transcripts	Colloquy Transcripts
 Sametime/Transcripts	SametimeTranscripts
