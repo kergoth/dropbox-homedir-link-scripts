@@ -9,3 +9,4 @@ Colloquy/Transcripts	Colloquy Transcripts
 Sametime/Transcripts	SametimeTranscripts
 Amazon Downloader/Logs	Amazon Downloader Logs
 Burn/Temporary.localized	Burn Temporary.localized
+Curse Client	My Curse/Curse Client
