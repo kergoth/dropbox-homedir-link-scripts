@@ -10,3 +10,7 @@ Sametime/Transcripts	SametimeTranscripts
 Amazon Downloader/Logs	Amazon Downloader Logs
 Burn/Temporary.localized	Burn Temporary.localized
 Curse Client	My Curse/Curse Client
+Reader	My Books/Reader
+Nook	My Barnes & Noble eBooks
+Messages	iChats
+NoMachine Player	Virtual Desktops
