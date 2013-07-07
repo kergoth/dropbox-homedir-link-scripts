@@ -17,6 +17,7 @@ Games/xonotic	Library/Application Support/xonotic
 Games/Dune Legacy	Library/Application Support/Dune Legacy
 Games/OpenTyrian	Library/Application Support/OpenTyrian
 Games/OpenArena	Library/Application Support/OpenArena
+Games/OpenRA	Library/Application Support/OpenRA
 Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
 Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
 Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
@@ -37,3 +38,5 @@ Games/Back to the Future Episode 4	Library/Application Support/Telltale Games/Ba
 Games/Back to the Future Episode 4	Documents/Telltale Games/back to the future 104
 Games/Bejeweled 3	Library/Application Support/PopCap/Bejeweled3
 Games/Shatter	Library/Application Support/Sidhe/Shatter
+Games/Jack Keane	Documents/Jack Keane
+#Games/Jack Keane	Library/Application Support/RuneSoft/JackKeane
