@@ -33,6 +33,7 @@ Games/OpenArena	Library/Application Support/OpenArena
 Games/OpenRA	Library/Application Support/OpenRA
 Games/OpenTyrian	Library/Application Support/OpenTyrian
 Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
+Games/Puzzle Agent	Library/Application Support/Telltale Games/Puzzle Agent
 Games/Quake 3	Library/Application Support/Quake3
 Games/ScummVMWrapper	Library/Application Support/SVWrapper
 Games/Shatter	Library/Application Support/Sidhe/Shatter
