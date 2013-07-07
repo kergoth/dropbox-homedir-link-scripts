@@ -1,3 +1,4 @@
+Apps/doc2dash	Library/Application Support/doc2dash
 Games/0ad	Library/Application Support/0ad
 Games/A New Beginning	Library/Application Support/Daedalic Entertainment/A New Beginning
 Games/Back to the Future Episode 1	Documents/Telltale Games/back to the future 101
