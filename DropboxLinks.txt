@@ -24,6 +24,7 @@ Games/Jack Keane	Documents/Jack Keane
 #Games/Jack Keane	Library/Application Support/RuneSoft/JackKeane
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
 Games/Leisure Suit Larry 7	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
+Games/Nestopia	Library/Application Support/Bannister/Nestopia
 Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
 Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
 Games/Nox	Library/Application Support/GOG.com/Nox
@@ -34,6 +35,7 @@ Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
 Games/Quake 3	Library/Application Support/Quake3
 Games/ScummVMWrapper	Library/Application Support/SVWrapper
 Games/Shatter	Library/Application Support/Sidhe/Shatter
+Games/Snes9x	Library/Application Support/Snes9x
 Games/StarCraft II	Library/Application Support/Blizzard/StarCraft II
 Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
 Games/The Cave	Library/Application Support/Doublefine/TheCave
