@@ -1,42 +1,44 @@
-Games/Torchlight	Library/Application Support/runic games/torchlight
-Games/StarCraft II	Library/Application Support/Blizzard/StarCraft II
-Games/Diablo III	Library/Application Support/Blizzard/Diablo III
-Games/A New Beginning	Library/Application Support/Daedalic Entertainment/A New Beginning
-Games/Book of Unwritten Tales	Library/Application Support/Book of Unwritten Tales
-Games/The Cave	Library/Application Support/Doublefine/TheCave
-Games/Broken Sword - The Smoking Mirror - Remastered	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
-Games/Dungeons of Dredmor	Library/Application Support/Dungeons of Dredmor
-Games/Darwinia	Library/Application Support/Darwinia
-Games/FreeOrion	Library/Application Support/FreeOrion
 Games/0ad	Library/Application Support/0ad
-Games/Quake 3	Library/Application Support/Quake3
-Games/Hexen 2	Library/Application Support/Hexen2
-Games/darkplaces	Library/Application Support/darkplaces
-Games/Harvest	Library/Application Support/Harvest
-Games/xonotic	Library/Application Support/xonotic
-Games/Dune Legacy	Library/Application Support/Dune Legacy
-Games/OpenTyrian	Library/Application Support/OpenTyrian
-Games/OpenArena	Library/Application Support/OpenArena
-Games/OpenRA	Library/Application Support/OpenRA
-Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
-Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
-Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
-Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
-Games/Doomsday	Library/Application Support/Doomsday Engine
-Games/Unreal Tournament 3	Library/Application Support/Unreal Tournament 3
-Games/Deathspank	Library/Application Support/com.hotheadgames.deathspank
-Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
-Games/ScummVMWrapper	Library/Application Support/SVWrapper
-Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
-Games/Back to the Future Episode 1	Library/Application Support/Telltale Games/Backtothefuture
+Games/A New Beginning	Library/Application Support/Daedalic Entertainment/A New Beginning
 Games/Back to the Future Episode 1	Documents/Telltale Games/back to the future 101
-Games/Back to the Future Episode 2	Library/Application Support/Telltale Games/BackToTheFuture102
+Games/Back to the Future Episode 1	Library/Application Support/Telltale Games/Backtothefuture
 Games/Back to the Future Episode 2	Documents/Telltale Games/back to the future 102
-Games/Back to the Future Episode 3	Library/Application Support/Telltale Games/BackToTheFuture103
+Games/Back to the Future Episode 2	Library/Application Support/Telltale Games/BackToTheFuture102
 Games/Back to the Future Episode 3	Documents/Telltale Games/back to the future 103
-Games/Back to the Future Episode 4	Library/Application Support/Telltale Games/BackToTheFuture104
+Games/Back to the Future Episode 3	Library/Application Support/Telltale Games/BackToTheFuture103
 Games/Back to the Future Episode 4	Documents/Telltale Games/back to the future 104
+Games/Back to the Future Episode 4	Library/Application Support/Telltale Games/BackToTheFuture104
 Games/Bejeweled 3	Library/Application Support/PopCap/Bejeweled3
-Games/Shatter	Library/Application Support/Sidhe/Shatter
+Games/Book of Unwritten Tales	Library/Application Support/Book of Unwritten Tales
+Games/Broken Sword - The Smoking Mirror - Remastered	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
+Games/Darwinia	Library/Application Support/Darwinia
+Games/Deathspank	Library/Application Support/com.hotheadgames.deathspank
+Games/Diablo III	Library/Application Support/Blizzard/Diablo III
+Games/Doomsday	Library/Application Support/Doomsday Engine
+Games/Dune Legacy	Library/Application Support/Dune Legacy
+Games/Dungeons of Dredmor	Library/Application Support/Dungeons of Dredmor
+Games/FreeOrion	Library/Application Support/FreeOrion
+Games/Harvest	Library/Application Support/Harvest
+Games/Hexen 2	Library/Application Support/Hexen2
 Games/Jack Keane	Documents/Jack Keane
 #Games/Jack Keane	Library/Application Support/RuneSoft/JackKeane
+Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
+Games/Leisure Suit Larry 7	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
+Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
+Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
+Games/Nox	Library/Application Support/GOG.com/Nox
+Games/OpenArena	Library/Application Support/OpenArena
+Games/OpenRA	Library/Application Support/OpenRA
+Games/OpenTyrian	Library/Application Support/OpenTyrian
+Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
+Games/Quake 3	Library/Application Support/Quake3
+Games/ScummVMWrapper	Library/Application Support/SVWrapper
+Games/Shatter	Library/Application Support/Sidhe/Shatter
+Games/StarCraft II	Library/Application Support/Blizzard/StarCraft II
+Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
+Games/The Cave	Library/Application Support/Doublefine/TheCave
+Games/Torchlight	Library/Application Support/runic games/torchlight
+Games/Unreal Tournament 3	Library/Application Support/Unreal Tournament 3
+Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
+Games/darkplaces	Library/Application Support/darkplaces
+Games/xonotic	Library/Application Support/xonotic
