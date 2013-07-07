@@ -24,6 +24,10 @@ Games/Harvest	Library/Application Support/Harvest
 Games/Hexen 2	Library/Application Support/Hexen2
 Games/Jack Keane	Documents/Jack Keane
 #Games/Jack Keane	Library/Application Support/RuneSoft/JackKeane
+Games/Jurassic Park Episode 1	Library/Application Support/Telltale Games/JurassicPark100
+Games/Jurassic Park Episode 2	Library/Application Support/Telltale Games/JurassicPark101
+Games/Jurassic Park Episode 3	Library/Application Support/Telltale Games/JurassicPark103
+Games/Jurassic Park Episode 4	Library/Application Support/Telltale Games/JurassicPark104
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
 Games/Leisure Suit Larry 7	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
 Games/Nestopia	Library/Application Support/Bannister/Nestopia
@@ -35,11 +39,22 @@ Games/OpenRA	Library/Application Support/OpenRA
 Games/OpenTyrian	Library/Application Support/OpenTyrian
 Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
 Games/Puzzle Agent	Library/Application Support/Telltale Games/Puzzle Agent
+Games/Puzzle Agent 2	Library/Application Support/Telltale Games/Grickle102
 Games/Quake 3	Library/Application Support/Quake3
 Games/ScummVMWrapper	Library/Application Support/SVWrapper
 Games/Shatter	Library/Application Support/Sidhe/Shatter
 Games/Snes9x	Library/Application Support/Snes9x
 Games/StarCraft II	Library/Application Support/Blizzard/StarCraft II
+Games/Strong Bad Episode 1	Library/Application Support/Telltale Games/Homestar 101
+Games/Strong Bad Episode 2	Library/Application Support/Telltale Games/Homestar 202
+Games/Strong Bad Episode 3	Library/Application Support/Telltale Games/Homestar 303
+Games/Strong Bad Episode 4	Library/Application Support/Telltale Games/Homestar 404
+Games/Strong Bad Episode 5	Library/Application Support/Telltale Games/Homestar 505
+Games/Tales of Monkey Island Episode 1	Library/Application Support/Telltale Games/Chapter 1 - Launch of the Screaming Narwhal
+Games/Tales of Monkey Island Episode 2	Library/Application Support/Telltale Games/Chapter 2 - The Siege of Spinner Cay
+Games/Tales of Monkey Island Episode 3	Library/Application Support/Telltale Games/Chapter 3 - Lair of the Leviathan
+Games/Tales of Monkey Island Episode 4	Library/Application Support/Telltale Games/Chapter 4 - The Trial and Exectution of Guybrush Threepwood
+Games/Tales of Monkey Island Episode 5	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
 Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
 Games/The Cave	Library/Application Support/Doublefine/TheCave
 Games/Torchlight	Library/Application Support/runic games/torchlight
