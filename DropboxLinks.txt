@@ -12,6 +12,10 @@ Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
 Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
 Games/Doomsday	Library/Application Support/Doomsday Engine
+Games/Unreal Tournament 3	Library/Application Support/Unreal Tournament 3
+Games/Deathspank	Library/Application Support/com.hotheadgames.deathspank
+Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
+Games/ScummVMWrapper	Library/Application Support/SVWrapper
 Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
 Games/Back to the Future Episode 1	Library/Application Support/Telltale Games/Backtothefuture
 Games/Back to the Future Episode 1	Documents/Telltale Games/back to the future 101
