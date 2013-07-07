@@ -8,6 +8,8 @@ Games/Broken Sword - The Smoking Mirror - Remastered	Library/Application Support
 Games/Dungeons of Dredmor	Library/Application Support/Dungeons of Dredmor
 Games/Darwinia	Library/Application Support/Darwinia
 Games/FreeOrion	Library/Application Support/FreeOrion
+Games/0ad	Library/Application Support/0ad
+Games/Bejeweled 3	Library/Application Support/PopCap/Bejeweled3
 Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
 Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
