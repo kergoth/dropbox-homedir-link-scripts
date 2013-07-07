@@ -9,7 +9,15 @@ Games/Dungeons of Dredmor	Library/Application Support/Dungeons of Dredmor
 Games/Darwinia	Library/Application Support/Darwinia
 Games/FreeOrion	Library/Application Support/FreeOrion
 Games/0ad	Library/Application Support/0ad
-Games/Bejeweled 3	Library/Application Support/PopCap/Bejeweled3
+Games/Quake 3	Library/Application Support/Quake3
+Games/Hexen 2	Library/Application Support/Hexen2
+Games/darkplaces	Library/Application Support/darkplaces
+Games/Harvest	Library/Application Support/Harvest
+Games/xonotic	Library/Application Support/xonotic
+Games/Dune Legacy	Library/Application Support/Dune Legacy
+Games/OpenTyrian	Library/Application Support/OpenTyrian
+Games/OpenArena	Library/Application Support/OpenArena
+Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
 Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
 Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
@@ -27,3 +35,5 @@ Games/Back to the Future Episode 3	Library/Application Support/Telltale Games/Ba
 Games/Back to the Future Episode 3	Documents/Telltale Games/back to the future 103
 Games/Back to the Future Episode 4	Library/Application Support/Telltale Games/BackToTheFuture104
 Games/Back to the Future Episode 4	Documents/Telltale Games/back to the future 104
+Games/Bejeweled 3	Library/Application Support/PopCap/Bejeweled3
+Games/Shatter	Library/Application Support/Sidhe/Shatter
