@@ -44,6 +44,7 @@ Games/Quake 3	Library/Application Support/Quake3
 Games/ScummVMWrapper	Library/Application Support/SVWrapper
 Games/Shatter	Library/Application Support/Sidhe/Shatter
 Games/Snes9x	Library/Application Support/Snes9x
+Games/Spring	.spring
 Games/StarCraft II	Library/Application Support/Blizzard/StarCraft II
 Games/Strong Bad Episode 1	Library/Application Support/Telltale Games/Homestar 101
 Games/Strong Bad Episode 2	Library/Application Support/Telltale Games/Homestar 202
