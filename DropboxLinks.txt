@@ -1,6 +1,7 @@
 Apps/doc2dash	Library/Application Support/doc2dash
 Apps/WriteRoom	Library/Application Support/WriteRoom
 Games/0ad	Library/Application Support/0ad
+Games/And Yet It Moves	Library/Application Support/Broken Rules/And Yet It Moves
 Games/A New Beginning	Library/Application Support/Daedalic Entertainment/A New Beginning
 Games/Back to the Future Episode 1	Documents/Telltale Games/back to the future 101
 Games/Back to the Future Episode 1	Library/Application Support/Telltale Games/Backtothefuture
@@ -40,6 +41,7 @@ Games/OpenArena	Library/Application Support/OpenArena
 Games/OpenRA	Library/Application Support/OpenRA
 Games/OpenTyrian	Library/Application Support/OpenTyrian
 Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
+Games/Puddle	Library/Puddle
 Games/Puzzle Agent	Library/Application Support/Telltale Games/Puzzle Agent
 Games/Puzzle Agent 2	Library/Application Support/Telltale Games/Grickle102
 Games/Quake 3	Library/Application Support/Quake3
