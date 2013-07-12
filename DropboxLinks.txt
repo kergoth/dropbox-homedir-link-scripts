@@ -20,6 +20,7 @@ Games/Diablo III	Library/Application Support/Blizzard/Diablo III
 Games/Doomsday	Library/Application Support/Doomsday Engine
 Games/Dune Legacy	Library/Application Support/Dune Legacy
 Games/Dungeons of Dredmor	Library/Application Support/Dungeons of Dredmor
+Games/Edge	Library/com.twotribes.edge
 Games/FreeOrion	Library/Application Support/FreeOrion
 Games/Harvest	Library/Application Support/Harvest
 Games/Hexen 2	Library/Application Support/Hexen2
@@ -42,6 +43,7 @@ Games/Pid	Documents/Library/Application Support/Might and Delight/Pid
 Games/Puzzle Agent	Library/Application Support/Telltale Games/Puzzle Agent
 Games/Puzzle Agent 2	Library/Application Support/Telltale Games/Grickle102
 Games/Quake 3	Library/Application Support/Quake3
+Games/Rush	Library/com.twotribes.rush
 Games/ScummVMWrapper	Library/Application Support/SVWrapper
 Games/Shatter	Library/Application Support/Sidhe/Shatter
 Games/Snes9x	Library/Application Support/Snes9x
@@ -59,6 +61,7 @@ Games/Tales of Monkey Island Episode 4	Library/Application Support/Telltale Game
 Games/Tales of Monkey Island Episode 5	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
 Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
 Games/The Cave	Library/Application Support/Doublefine/TheCave
+Games/Toki Tori	Library/com.twotribes.tokitorimac
 Games/Torchlight	Library/Application Support/runic games/torchlight
 Games/Unreal Tournament 3	Library/Application Support/Unreal Tournament 3
 Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
