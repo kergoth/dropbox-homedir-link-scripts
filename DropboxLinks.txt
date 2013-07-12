@@ -13,6 +13,7 @@ Games/Back to the Future Episode 4	Library/Application Support/Telltale Games/Ba
 Games/Bejeweled 3	Library/Application Support/PopCap/Bejeweled3
 Games/Book of Unwritten Tales	Library/Application Support/Book of Unwritten Tales
 Games/Broken Sword - The Smoking Mirror - Remastered	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
+Games/CorsixTH	.config/CorsixTH
 Games/Darwinia	Library/Application Support/Darwinia
 Games/Deathspank	Library/Application Support/com.hotheadgames.deathspank
 Games/Diablo III	Library/Application Support/Blizzard/Diablo III
