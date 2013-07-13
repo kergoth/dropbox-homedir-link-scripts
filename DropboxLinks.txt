@@ -34,6 +34,7 @@ Games/Jurassic Park Episode 3	Library/Application Support/Telltale Games/Jurassi
 Games/Jurassic Park Episode 4	Library/Application Support/Telltale Games/JurassicPark104
 Games/King's Bounty - The Legend	Library/Application Support/King' s Bounty - The Legend
 Games/Leisure Suit Larry 7	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
+Games/MegaGlest	.megaglest
 Games/Nestopia	Library/Application Support/Bannister/Nestopia
 Games/Neverwinter Nights 2	Documents/Neverwinter Nights 2
 Games/Neverwinter Nights 2	Library/Application Support/Neverwinter Nights 2
@@ -66,6 +67,7 @@ Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
 Games/The Cave	Library/Application Support/Doublefine/TheCave
 Games/Toki Tori	Library/com.twotribes.tokitorimac
 Games/Torchlight	Library/Application Support/runic games/torchlight
+Games/Unknown Horizons	.unknown-horizons
 Games/Unreal Tournament 3	Library/Application Support/Unreal Tournament 3
 Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
 Games/darkplaces	Library/Application Support/darkplaces

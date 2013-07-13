@@ -55,6 +55,7 @@ The Walking Dead Episode 4	Telltale Games/The Walking Dead Episode 4
 The Walking Dead Episode 5	Telltale Games/The Walking Dead Episode 5
 Torchlight	My Saved Games/Torchlight
 Torchlight 2	My Games/Runic Games/Torchlight 2
+UFO - Alien Invasion 2.4	UFOAI-2.4
 Unmechanical	My Games/Unmechanical
 UnrealEngine3	My Games/UnrealEngine3
 Volvo - The Game	SimBin/Volvo - The Game
