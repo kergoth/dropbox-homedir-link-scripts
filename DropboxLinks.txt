@@ -69,6 +69,7 @@ Games/Toki Tori	Library/com.twotribes.tokitorimac
 Games/Torchlight	Library/Application Support/runic games/torchlight
 Games/Unknown Horizons	.unknown-horizons
 Games/Unreal Tournament 3	Library/Application Support/Unreal Tournament 3
+Games/Warzone 2100 3.1	Library/Application Support/Warzone 2100 3.1
 Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
 Games/darkplaces	Library/Application Support/darkplaces
 Games/xonotic	Library/Application Support/xonotic
