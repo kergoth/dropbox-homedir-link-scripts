@@ -4,3 +4,9 @@ Music	Documents/My Music
 Pictures	Documents/My Pictures
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content	My Kindle Content
 Dropbox/Books	Books
+
+Dropbox/Apps/OSX/Calendars	Library/Calendars
+Dropbox/Apps/OSX/Keychains	Library/Keychains
+Dropbox/Apps/OSX/AddressBook	Library/Application Support/AddressBook
+Dropbox/Apps/OSX/Fonts	Library/Fonts
+Dropbox/Apps/Messages	Library/Messages/Archive
