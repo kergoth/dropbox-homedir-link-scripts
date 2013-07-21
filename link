@@ -6,7 +6,7 @@ force=0
 
 link () {
     # Link a file to a destination using a relative path
-    path="$(abspath "$path")"
+    path="$(abspath "$1")"
 
     if [ $# -gt 1 ]; then
         link_path="$(abspath "$2")"
@@ -113,8 +113,8 @@ home_link () {
     link_path="$2"
 
     if [[ ! -e "$path" ]]; then
-        if [[ -e "$link_path" ]]; then
-            if prompt_bool "$link_path exists and is a directory, move to $path?"; then
+        if [[ -e "$link_path" && ! -L "$link_path" ]]; then
+            if prompt_bool "$link_path exists and is not a symlink, move to $path?"; then
                 mkdir -p "${path%/*}"
                 mv "$link_path" "$path"
             fi
@@ -129,36 +129,95 @@ home_link () {
         fi
     fi
 
-    mkdir -p "${link_path%/*}"
     link "$path" "$link_path"
+}
+
+move_and_link_back () {
+    local path="$1"
+    local home_path="$2"
+
+    if [[ -L "$path" ]]; then
+        resolved_link="$(normalize_path "${path%/*}/$(readlink "$path")")"
+        if [[ "$resolved_link" = "$home_path" ]]; then
+            return
+        fi
+    elif [[ -e "$path" ]]; then
+        if [[ -e "$home_path" ]]; then
+            if prompt_bool "Replace existing $home_path with $path?"; then
+                rm -rf "$home_path.old"
+                mv "$home_path" "$home_path.old"
+                echo >&2 "Backed up existing $home_path to $home_path.old"
+            else
+                home_path="${home_path}.new"
+            fi
+        fi
+
+        echo "Moved $path to $home_path"
+        mv "$path" "$home_path"
+    fi
+
+    link "$home_path" "$path"
+}
+
+move_and_link_contents () {
+    local path="$1"
+    local home_path="$2"
+
+    if [[ ! -e "$home_path" ]]; then
+        if prompt_bool "Create missing directory $home_path?"; then
+            mkdir -p "$home_path"
+        else
+            return 1
+        fi
+    fi
+
+    {
+        find "$path" -type f -o -type d -mindepth 1 -maxdepth 1 | sed 's,^.*/,,'
+        find "$home_path" -type f -o -type d -mindepth 1 -maxdepth 1 | sed 's,^.*/,,'
+    } | sort -u | while read filename; do
+        move_and_link_back "$path/$filename" "$home_path/$filename"
+    done
+}
+
+process_rule_file () {
+    local callback="$1"
+    local filename="$2"
+    local path_pattern="$3"
+    local home_path_pattern="$4"
+
+    if [[ ! -e "$filename" ]]; then
+        return 1
+    fi
+
+    local ret=0
+    grep -v "^#" "$filename" | while IFS="	" read rel_path rel_home_path; do
+        if [[ -z "$rel_path" ]]; then
+            continue
+        fi
+
+        if [[ -z "$rel_home_path" ]]; then
+            rel_home_path="$rel_path"
+        fi
+
+        path="$(printf "$path_pattern" "$rel_path")"
+        home_path="$(printf "$home_path_pattern" "$rel_home_path")"
+
+        "$callback" "$path" "$home_path" || ret=$?
+    done
+    return $ret
 }
 
 
 scriptdir="$(cd "${0%/*}" && pwd)"
 cd
 
-while IFS="	" read filename path_pattern link_path_pattern; do
-    if [ ! -e "$filename" ]; then
-        continue
-    fi
+process_rule_file home_link $scriptdir/Links.txt %s %s
+process_rule_file home_link $scriptdir/DropboxLinks.txt Dropbox/%s %s
+process_rule_file home_link $scriptdir/DropboxGames.txt Dropbox/Games/%s Documents/%s
+process_rule_file home_link $scriptdir/DropboxApps.txt Dropbox/Apps/%s Documents/%s
 
-    grep -v "^#" "$filename" | while IFS="	" read rel_path rel_link_path; do
-        if [[ -z "$rel_path" ]]; then
-            continue
-        fi
-
-        if [[ -z "$rel_link_path" ]]; then
-            rel_link_path="$rel_path"
-        fi
-
-        path="$(printf "$path_pattern" "$rel_path")"
-        link_path="$(printf "$link_path_pattern" "$rel_link_path")"
-
-        home_link "$path" "$link_path"
-    done
-done <<END
-$scriptdir/Links.txt	%s	%s
-$scriptdir/DropboxLinks.txt	Dropbox/%s	%s
-$scriptdir/DropboxGames.txt	Dropbox/Games/%s	Documents/%s
-$scriptdir/DropboxApps.txt	Dropbox/Apps/%s	Documents/%s
-END
+# Here, dropbox links to the homedir paths, not vice versa. This is necessary
+# for sandboxed applications, as they can't leave the bounds of the sandbox to
+# access files/directories in the dropbox.
+process_rule_file move_and_link_back $scriptdir/BackupLinks.txt Dropbox/%s %s
+process_rule_file move_and_link_contents $scriptdir/BackupContentsLinks.txt Dropbox/%s %s
