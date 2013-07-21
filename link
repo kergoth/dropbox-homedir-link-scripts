@@ -126,8 +126,8 @@ home_link () {
                 mv "Dropbox/$link_path" "$path"
             fi
         else
-            echo >&2 "Warning: created empty directory destination for $link_path"
-            mkdir -p "$link_path"
+            echo >&2 "Warning: created empty directory destination for $path"
+            mkdir -p "$path"
             # echo >&2 "Error: source $link_path does not exist, skipping"
             # return 1
         fi
