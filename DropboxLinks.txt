@@ -69,6 +69,7 @@ Games/The Baconing	Library/Application Support/com.hotheadgames.thebaconing
 Games/The Cave	Library/Application Support/Doublefine/TheCave
 Games/Toki Tori	Library/com.twotribes.tokitorimac
 Games/Torchlight	Library/Application Support/runic games/torchlight
+Games/Total Annihilation	Library/Application Support/GOG.com/Total Annihilation
 Games/Unknown Horizons	.unknown-horizons
 Games/Unreal Tournament 3	Library/Application Support/Unreal Tournament 3
 Games/Warzone 2100 3.1	Library/Application Support/Warzone 2100 3.1
