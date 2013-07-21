@@ -74,6 +74,7 @@ ScummVM	ScummVM Savegames
 Syberia 2	Syberia 2 Saves
 Syberia	Syberia Saves
 Dead Space	Electronic Arts/Dead Space
+Stacking	Doublefine/Stacking
 Return to Castle Wolfenstein	rtcwcoop
 Gray Matter	GrayMatter
 
