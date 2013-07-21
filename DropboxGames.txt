@@ -8,6 +8,9 @@ Blackwell Legacy v1.7	My Saved Games/Blackwell Legacy v1.7
 Blackwell Unbound	My Saved Games/Blackwell Unbound
 Borderlands	My Games/Borderlands
 Command & Conquer 3 Tiberium Wars	My Saved Games/Command & Conquer 3 Tiberium Wars
+Command & Conquer 3 Tiberium Wars	Command & Conquer 3 Tiberium Wars
+Command & Conquer Generals	Command and Conquer Generals Data
+Command & Conquer Generals Zero Hour	Command and Conquer Generals Zero Hour Data
 Company of Heroes	My Games/company of heroes
 Dawn of War 2	My Games/Dawn of War 2
 Dragon Age	BioWare/Dragon Age
