@@ -75,5 +75,7 @@ Games/Warzone 2100 3.1	Library/Application Support/Warzone 2100 3.1
 Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
 Games/darkplaces	Library/Application Support/darkplaces
 Games/xonotic	Library/Application Support/xonotic
+
 Games/Two Worlds/Players	Documents/Reality Pump/Two Worlds Files/Players
 Games/Two Worlds/Saves	Documents/Two Worlds Saves
+Games/To the Moon	Documents/To the Moon - Freebird Games
