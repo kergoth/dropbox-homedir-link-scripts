@@ -79,3 +79,4 @@ Games/xonotic	Library/Application Support/xonotic
 Games/Two Worlds/Players	Documents/Reality Pump/Two Worlds Files/Players
 Games/Two Worlds/Saves	Documents/Two Worlds Saves
 Games/To the Moon	Documents/To the Moon - Freebird Games
+Games/The Whispered World	Documents/Daedalic Entertainment/The Whispered World
