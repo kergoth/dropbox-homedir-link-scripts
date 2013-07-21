@@ -54,6 +54,7 @@ Games/Snes9x	Library/Application Support/Snes9x
 Games/Spring	.spring
 Games/StarCraft II	Library/Application Support/Blizzard/StarCraft II
 Games/Stratagus	Library/Stratagus
+Games/Stratagus	Documents/Stratagus
 Games/Strong Bad Episode 1	Library/Application Support/Telltale Games/Homestar 101
 Games/Strong Bad Episode 2	Library/Application Support/Telltale Games/Homestar 202
 Games/Strong Bad Episode 3	Library/Application Support/Telltale Games/Homestar 303
@@ -74,3 +75,5 @@ Games/Warzone 2100 3.1	Library/Application Support/Warzone 2100 3.1
 Games/Wesnoth_1.10	Library/Application Support/Wesnoth_1.10
 Games/darkplaces	Library/Application Support/darkplaces
 Games/xonotic	Library/Application Support/xonotic
+Games/Two Worlds/Players	Documents/Reality Pump/Two Worlds Files/Players
+Games/Two Worlds/Saves	Documents/Two Worlds Saves

@@ -114,9 +114,11 @@ home_link () {
 
     if [[ ! -e "$path" ]]; then
         if [[ -e "$link_path" && ! -L "$link_path" ]]; then
-            if prompt_bool "$link_path exists and is not a symlink, move to $path?"; then
-                mkdir -p "${path%/*}"
-                mv "$link_path" "$path"
+            if [[ ! -d "$link_path" || -n "$(ls "$link_path")" ]]; then
+                if prompt_bool "$link_path exists and is not a symlink, move to $path?"; then
+                    mkdir -p "${path%/*}"
+                    mv "$link_path" "$path"
+                fi
             fi
         elif [[ -e "Dropbox/$link_path" ]]; then
             if prompt_bool "Dropbox/$link_path exists and is a directory, move to $path?"; then
@@ -124,8 +126,10 @@ home_link () {
                 mv "Dropbox/$link_path" "$path"
             fi
         else
-            echo >&2 "Error: source $link_path does not exist, skipping"
-            return 1
+            echo >&2 "Warning: created empty directory destination for $link_path"
+            mkdir -p "$link_path"
+            # echo >&2 "Error: source $link_path does not exist, skipping"
+            # return 1
         fi
     fi
 
