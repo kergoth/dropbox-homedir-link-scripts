@@ -23,6 +23,7 @@ Games/Doomsday	Library/Application Support/Doomsday Engine
 Games/Dune Legacy	Library/Application Support/Dune Legacy
 Games/Dungeons of Dredmor	Library/Application Support/Dungeons of Dredmor
 Games/Edge	Library/com.twotribes.edge
+Games/EDuke32	Library/Application Support/EDuke32
 Games/FreeOrion	Library/Application Support/FreeOrion
 Games/Harvest	Library/Application Support/Harvest
 Games/Hexen 2	Library/Application Support/Hexen2
