@@ -81,3 +81,9 @@ Games/Two Worlds/Players	Documents/Reality Pump/Two Worlds Files/Players
 Games/Two Worlds/Saves	Documents/Two Worlds Saves
 Games/To the Moon	Documents/To the Moon - Freebird Games
 Games/The Whispered World	Documents/Daedalic Entertainment/The Whispered World
+Games/The Dark Eye - Chains of Satinav	Documents/Daedalic Entertainment/Satinav
+Games/Edna & Harvey 2 - Harvey's New Eyes	Documents/Daedalic Entertainment/Harvey
+Games/Betrayal in Antara	Documents/Sierra/Betrayal in Antara
+Games/Broken Sword 2.5	Documents/Broken Sword 2.5
+Games/Mutant Mudds	Documents/Renegade Kid/Mutant Mudds
+Games/Scratches Director's Cut	Documents/Nucleosys/Scratches Director's Cut
