@@ -232,4 +232,4 @@ process_rules home_link Dropbox/Apps/%s Documents/%s <$scriptdir/DropboxApps.txt
 # for sandboxed applications, as they can't leave the bounds of the sandbox to
 # access files/directories in the dropbox.
 process_rules move_and_link_back %s %s <$scriptdir/Linkbacks.txt
-process_rules move_and_link_contents Dropbox/%s %s <$scriptdir/BackupContentsLinks.txt
+process_rules move_and_link_contents Dropbox/%s %s <$scriptdir/LinkbackContents.txt
