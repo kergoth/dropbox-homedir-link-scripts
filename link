@@ -149,15 +149,28 @@ move_and_link_back () {
         if [[ -e "$home_path" ]]; then
             if prompt_bool "Replace existing $home_path with $path?"; then
                 rm -rf "$home_path.old"
-                mv "$home_path" "$home_path.old"
-                echo >&2 "Backed up existing $home_path to $home_path.old"
+                if [[ -d "$home_path" ]]; then
+                    mkdir -p "$home_path.old"
+                    cp -pPR "$home_path/." "$home_path.old/"
+                    rm -rf "$home_path/*" "$home_path/.*"
+                else
+                    mv "$home_path" "$home_path.old"
+                fi
+                echo >&2 "Backed up existing $home_path content to $home_path.old"
             else
                 home_path="${home_path}.new"
             fi
         fi
 
-        echo "Moved $path to $home_path"
-        mv "$path" "$home_path"
+        if [[ -d "$path" ]]; then
+            mkdir -p "$home_path"
+            cp -pPR "$path/." "$home_path/"
+            rm -rf "$path/*" "$path/.*"
+            rmdir "$path"
+        else
+            mv "$path" "$home_path"
+        fi
+        echo >&2 "Moved $path content to $home_path"
     fi
 
     link "$home_path" "$path"
@@ -206,30 +219,17 @@ process_rules () {
     return $ret
 }
 
-process_rule_file () {
-    local callback="$1"
-    local filename="$2"
-    local path_pattern="$3"
-    local home_path_pattern="$4"
-
-    if [[ ! -e "$filename" ]]; then
-        return 1
-    fi
-
-    process_rules "$callback" "$path_pattern" "$home_path_pattern" <"$filename"
-}
-
 
 scriptdir="$(cd "${0%/*}" && pwd)"
 cd
 
-process_rule_file home_link $scriptdir/Links.txt %s %s
-process_rule_file home_link $scriptdir/DropboxLinks.txt Dropbox/%s %s
-process_rule_file home_link $scriptdir/DropboxGames.txt Dropbox/Games/%s Documents/%s
-process_rule_file home_link $scriptdir/DropboxApps.txt Dropbox/Apps/%s Documents/%s
+process_rules home_link %s %s <$scriptdir/Links.txt
+process_rules home_link Dropbox/%s %s <$scriptdir/DropboxLinks.txt
+process_rules home_link Dropbox/Games/%s Documents/%s <$scriptdir/DropboxGames.txt
+process_rules home_link Dropbox/Apps/%s Documents/%s <$scriptdir/DropboxApps.txt
 
 # Here, dropbox links to the homedir paths, not vice versa. This is necessary
 # for sandboxed applications, as they can't leave the bounds of the sandbox to
 # access files/directories in the dropbox.
-process_rule_file move_and_link_back $scriptdir/BackupLinks.txt Dropbox/%s %s
-process_rule_file move_and_link_contents $scriptdir/BackupContentsLinks.txt Dropbox/%s %s
+process_rules move_and_link_back %s %s <$scriptdir/Linkbacks.txt
+process_rules move_and_link_contents Dropbox/%s %s <$scriptdir/BackupContentsLinks.txt
