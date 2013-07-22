@@ -87,3 +87,4 @@ Games/Betrayal in Antara	Documents/Sierra/Betrayal in Antara
 Games/Broken Sword 2.5	Documents/Broken Sword 2.5
 Games/Mutant Mudds	Documents/Renegade Kid/Mutant Mudds
 Games/Scratches Director's Cut	Documents/Nucleosys/Scratches Director's Cut
+Games/The Lost Inca Prophecy 2	Documents/Seppia/LostInca2

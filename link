@@ -183,18 +183,13 @@ move_and_link_contents () {
     done
 }
 
-process_rule_file () {
+process_rules () {
     local callback="$1"
-    local filename="$2"
-    local path_pattern="$3"
-    local home_path_pattern="$4"
-
-    if [[ ! -e "$filename" ]]; then
-        return 1
-    fi
+    local path_pattern="$2"
+    local home_path_pattern="$3"
 
     local ret=0
-    grep -v "^#" "$filename" | while IFS="	" read rel_path rel_home_path; do
+    grep -v "^#" | while IFS="	" read rel_path rel_home_path; do
         if [[ -z "$rel_path" ]]; then
             continue
         fi
@@ -209,6 +204,19 @@ process_rule_file () {
         "$callback" "$path" "$home_path" || ret=$?
     done
     return $ret
+}
+
+process_rule_file () {
+    local callback="$1"
+    local filename="$2"
+    local path_pattern="$3"
+    local home_path_pattern="$4"
+
+    if [[ ! -e "$filename" ]]; then
+        return 1
+    fi
+
+    process_rules "$callback" "$path_pattern" "$home_path_pattern" <"$filename"
 }
 
 
