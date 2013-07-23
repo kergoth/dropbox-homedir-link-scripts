@@ -9,9 +9,12 @@ Blackwell Unbound	My Saved Games/Blackwell Unbound
 Borderlands	My Games/Borderlands
 Command & Conquer 3 Tiberium Wars	My Saved Games/Command & Conquer 3 Tiberium Wars
 Command & Conquer 3 Tiberium Wars	Command & Conquer 3 Tiberium Wars
+Command & Conquer 3 Kane's Wrath	My Saved Games/Command & Conquer 3 Kane's Wrath
+Command & Conquer 3 Kane's Wrath	Command & Conquer 3 Kane's Wrath
 Command & Conquer Generals	Command and Conquer Generals Data
 Command & Conquer Generals Zero Hour	Command and Conquer Generals Zero Hour Data
 Company of Heroes	My Games/company of heroes
+Edna & Harvey - The Breakout	EdnaSE
 Dawn of War 2	My Games/Dawn of War 2
 Dragon Age	BioWare/Dragon Age
 Dragon Age 2	BioWare/Dragon Age 2
@@ -88,11 +91,9 @@ Broken Sword - The Angel of Death
 Broken Sword II - Remastered
 Ceville
 Civilization IV
-Command & Conquer 3 Tiberium Wars
 Anki
 APOX
 BIT.TRIP RUNNER
-Command & Conquer 3 Tiberium Wars
 Diablo III
 Dungeon Siege
 Dungeon Siege LOA
