@@ -89,3 +89,5 @@ Games/Broken Sword 2.5	Documents/Broken Sword 2.5
 Games/Mutant Mudds	Documents/Renegade Kid/Mutant Mudds
 Games/Scratches Director's Cut	Documents/Nucleosys/Scratches Director's Cut
 Games/The Lost Inca Prophecy 2	Documents/Seppia/LostInca2
+Games/Napoleon - Total War	Documents/The Creative Assembly/Napoleon
+Games/Empire - Total War	Documents/The Creative Assembly/Empire
