@@ -91,5 +91,6 @@ Games/Scratches Director's Cut	Documents/Nucleosys/Scratches Director's Cut
 Games/The Lost Inca Prophecy 2	Documents/Seppia/LostInca2
 Games/Napoleon - Total War	Documents/The Creative Assembly/Napoleon
 Games/Empire - Total War	Documents/The Creative Assembly/Empire
+Games/Symphony	Documents/Empty Clip Studios/Symphony
 Games/Fable 3	Documents/Fable 3
 Games/Fable 3/Saved Games	Documents/My Saved Games/Lionhead Studios/Fable 3
