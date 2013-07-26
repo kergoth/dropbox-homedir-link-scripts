@@ -67,6 +67,7 @@ Unmechanical	My Games/Unmechanical
 UnrealEngine3	My Games/UnrealEngine3
 Volvo - The Game	SimBin/Volvo - The Game
 Wings of Prey	My Games/Wings of Prey
+Grand Theft Auto IV	Rockstar Games/GTA IV
 Worms Reloaded	Team17/WormsReloaded
 Residual	Residual Savegames
 ResidualVM	ResidualVM Savegames
