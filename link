@@ -2,198 +2,27 @@
 
 set -u
 
-force=0
-
-link () {
-    # Link a file to a destination using a relative path
-    path="$(abspath "$1")"
-
-    if [ $# -gt 1 ]; then
-        link_path="$(abspath "$2")"
-    else
-        link_path="$HOME/$path"
-    fi
-    destdir="${link_path%/*}"
-    if [ "$destdir" != "$link_path" ]; then
-        mkdir -p "$destdir"
-    fi
-    relative_path="$(relpath "$destdir" "$path")"
-
-    # Sanity check
-    link_resolved="$(normalize_path "${link_path%/*}/$relative_path")"
-    if [ ! -e "$link_resolved" ]; then
-        echo >&2 "Error: $link_resolved does not exist"
-        return 1
-    fi
-
-    if [ -L "$link_path" ] || [ -e "$link_path" ]; then
-        if [ $force -eq 0 ] && [ "$(readlink "$link_path")" != "$relative_path" ]; then
-            echo >&2 "Warning: $link_path already exists and does not link to $relative_path"
-            if prompt_bool "Replace $link_path?"; then
-                rm -rf "$link_path.old"
-                mv "$link_path" "$link_path.old"
-                echo >&2 "Removed $link_path (backed up as $link_path.old)"
-            else
-                rm -rf "$link_path.new"
-                ln -s "$relative_path" "$link_path.new"
-                echo >&2 "Linked $link_path.new"
-                return 1
-            fi
-        else
-            rm -f "$link_path"
-        fi
-    fi
-    ln -s "$relative_path" "$link_path"
-    echo >&2 "Linked $link_path"
-}
-
-abspath () {
-    # Return an absolute path for the specified argument
-    _path="$1"
-    if [ -n "${_path##/*}" ]; then
-        _path="$PWD/$1"
-    fi
-    echo "$_path"
-}
-
-normalize_path () {
-    # Attempt to normalize the specified path, removing . and ..
-
-    # Remove all /./ sequences.
-    local path="${1//\/.\//\/}"
-
-    # Remove dir/.. sequences.
-    while [[ $path =~ ([^/][^/]*/\.\./) ]]; do
-        path="${path/${BASH_REMATCH[0]}/}"
-    done
-    echo "$path"
-}
-
-prompt_bool () {
-    if [[ $# -gt 1 ]]; then
-        default="$2"
-    else
-        default="y"
-    fi
-    case $default in
-        [yY])
-            y_side="Y"
-            n_side="n"
-            default_code=0
-            ;;
-        [nN])
-            n_side="N"
-            y_side="y"
-            default_code=1
-            ;;
-    esac
-
-    while true; do
-        read -n 1 -p "$1 [$y_side|$n_side] " result </dev/tty
-        printf "\n"
-        case "$result" in
-            [yY])
-                return 0
-                ;;
-            [nN])
-                return 1
-                ;;
-            "")
-                return $default_code
-                ;;
-            *)
-                echo >&2 "Invalid input '$result'"
-                ;;
-        esac
-    done
-}
-
-home_link () {
-    path="$1"
-    link_path="$2"
-
-    if [[ ! -e "$path" ]]; then
-        if [[ -e "$link_path" && ! -L "$link_path" ]]; then
-            if [[ ! -d "$link_path" || -n "$(ls "$link_path")" ]]; then
-                if prompt_bool "$link_path exists and is not a symlink, move to $path?"; then
-                    mkdir -p "${path%/*}"
-                    mv "$link_path" "$path"
-                fi
-            fi
-        elif [[ -e "Dropbox/$link_path" ]]; then
-            if prompt_bool "Dropbox/$link_path exists and is a directory, move to $path?"; then
-                mkdir -p "${path%/*}"
-                mv "Dropbox/$link_path" "$path"
-            fi
-        else
-            echo >&2 "Warning: created empty directory destination for $path"
-            mkdir -p "$path"
-            # echo >&2 "Error: source $link_path does not exist, skipping"
-            # return 1
-        fi
-    fi
-
-    link "$path" "$link_path"
-}
-
-move_and_link_back () {
+link_contents () {
     local path="$1"
     local home_path="$2"
-
-    if [[ -L "$path" ]]; then
-        resolved_link="$(normalize_path "${path%/*}/$(readlink "$path")")"
-        if [[ "$resolved_link" = "$home_path" ]]; then
-            return
-        fi
-    elif [[ -e "$path" ]]; then
-        if [[ -e "$home_path" ]]; then
-            if prompt_bool "Replace existing $home_path with $path?"; then
-                rm -rf "$home_path.old"
-                if [[ -d "$home_path" ]]; then
-                    mkdir -p "$home_path.old"
-                    cp -pPR "$home_path/." "$home_path.old/"
-                    rm -rf "$home_path/*" "$home_path/.*"
-                else
-                    mv "$home_path" "$home_path.old"
-                fi
-                echo >&2 "Backed up existing $home_path content to $home_path.old"
-            else
-                home_path="${home_path}.new"
-            fi
-        fi
-
-        if [[ -d "$path" ]]; then
-            mkdir -p "$home_path"
-            cp -pPR "$path/." "$home_path/"
-            rm -rf "$path/*" "$path/.*"
-            rmdir "$path"
-        else
-            mv "$path" "$home_path"
-        fi
-        echo >&2 "Moved $path content to $home_path"
-    fi
-
-    link "$home_path" "$path"
-}
-
-move_and_link_contents () {
-    local path="$1"
-    local home_path="$2"
-
-    if [[ ! -e "$home_path" ]]; then
-        if prompt_bool "Create missing directory $home_path?"; then
-            mkdir -p "$home_path"
-        else
-            return 1
-        fi
-    fi
 
     {
         find "$path" -type f -o -type d -mindepth 1 -maxdepth 1 | sed 's,^.*/,,'
         find "$home_path" -type f -o -type d -mindepth 1 -maxdepth 1 | sed 's,^.*/,,'
     } | sort -u | while read filename; do
-        move_and_link_back "$path/$filename" "$home_path/$filename"
+        link "$path/$filename" "$home_path/$filename"
     done
+}
+
+link () {
+    if [ "${home_path%Library/Containers/}" != "$home_path" ]; then
+        # Do not create leading directories for containers links
+        :
+    else
+        mkdir -p "$PWD/${2%/*}"
+    fi
+
+    $scriptdir/iln -visb "$PWD/$1" "$PWD/$2"
 }
 
 process_rules () {
@@ -223,13 +52,10 @@ process_rules () {
 scriptdir="$(cd "${0%/*}" && pwd)"
 cd
 
-process_rules home_link %s %s <$scriptdir/Links.txt
-process_rules home_link Dropbox/%s %s <$scriptdir/DropboxLinks.txt
-process_rules home_link Dropbox/Games/%s Documents/%s <$scriptdir/DropboxGames.txt
-process_rules home_link Dropbox/Apps/%s Documents/%s <$scriptdir/DropboxApps.txt
+if [ ! -e "$scriptdir/6096187" ]; then
+    git clone git://gist.github.com/6096187 $scriptdir/6096187
+fi
+ln -sf 6096187/iln $scriptdir/iln
 
-# Here, dropbox links to the homedir paths, not vice versa. This is necessary
-# for sandboxed applications, as they can't leave the bounds of the sandbox to
-# access files/directories in the dropbox.
-process_rules move_and_link_back %s %s <$scriptdir/Linkbacks.txt
-process_rules move_and_link_contents Dropbox/%s %s <$scriptdir/LinkbackContents.txt
+process_rules link %s %s <$scriptdir/Links.txt
+process_rules link_contents %s %s <$scriptdir/ContentsLinks.txt

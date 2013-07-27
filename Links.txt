@@ -1,11 +1,246 @@
-Movies	Documents/My Videos
-Documents/My Videos	Documents/My Video
-Music	Documents/My Music
-Pictures	Documents/My Pictures
-Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content	My Kindle Content
-Dropbox/Books	Books
+#Dropbox/Games/Jack Keane/	Library/Application Support/RuneSoft/JackKeane
+Documents/My Videos/	Documents/My Video
+Dropbox/Apps/Alcohol 52%/	Documents/Alcohol 52%
+Dropbox/Apps/Amazon Downloader/Logs/	Documents/Amazon Downloader Logs
+Dropbox/Apps/Amazon MP3 Uploader/	Documents/Amazon MP3 Uploader
+Dropbox/Apps/Amazon MP3/	Documents/Amazon MP3
+Dropbox/Apps/Colloquy/Transcripts/	Documents/Colloquy Transcripts
+Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
+Dropbox/Apps/Digital Editions/	Documents/Digital Editions
+Dropbox/Apps/Messages/	Documents/iChats
+Dropbox/Apps/Messages/	Library/Messages/Archive
+Dropbox/Apps/Neat/	Documents/Neat Data
+Dropbox/Apps/NoMachine Player/	Documents/Virtual Desktops
+Dropbox/Apps/Nook/	Documents/My Barnes & Noble eBooks
+Dropbox/Apps/OSX/AddressBook/	Library/Application Support/AddressBook
+Dropbox/Apps/OSX/Calendars/	Library/Calendars
+Dropbox/Apps/OSX/Keychains/	Library/Keychains
+Dropbox/Apps/Parallels/	Documents/Parallels
+Dropbox/Apps/Reader/	Documents/My Books/Reader
+Dropbox/Apps/Sametime/Transcripts/	Documents/SametimeTranscripts
+Dropbox/Apps/WebEx/	Documents/WebEx
+Dropbox/Apps/WriteRoom/	Library/Application Support/WriteRoom
+Dropbox/Apps/doc2dash/	Library/Application Support/doc2dash
+Dropbox/Books/	Books
+Dropbox/Games/0ad/	Library/Application Support/0ad
+Dropbox/Games/A New Beginning/	Library/Application Support/Daedalic Entertainment/A New Beginning
+Dropbox/Games/APOX/	Documents/APOX
+Dropbox/Games/Age of Empires 3/	Documents/My Games/Age of Empires 3
+Dropbox/Games/Al Emmo and the Lost Dutchmans Mine/	Documents/My Saved Games/Al Emmo and the Lost Dutchmans Mine
+Dropbox/Games/And Yet It Moves/	Library/Application Support/Broken Rules/And Yet It Moves
+Dropbox/Games/Anki/	Documents/Anki
+Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
+Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
+Dropbox/Games/Back to the Future Episode 1/	Documents/Telltale Games/back to the future 101
+Dropbox/Games/Back to the Future Episode 1/	Library/Application Support/Telltale Games/Backtothefuture
+Dropbox/Games/Back to the Future Episode 2/	Documents/Telltale Games/back to the future 102
+Dropbox/Games/Back to the Future Episode 2/	Library/Application Support/Telltale Games/BackToTheFuture102
+Dropbox/Games/Back to the Future Episode 3/	Documents/Telltale Games/back to the future 103
+Dropbox/Games/Back to the Future Episode 3/	Library/Application Support/Telltale Games/BackToTheFuture103
+Dropbox/Games/Back to the Future Episode 4/	Documents/Telltale Games/back to the future 104
+Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale Games/BackToTheFuture104
+Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
+Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
+Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
+Dropbox/Games/Bioshock/	Documents/Bioshock
+Dropbox/Games/Blackwell Convergence/	Documents/My Saved Games/Blackwell Convergence
+Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
+Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v1.6
+Dropbox/Games/Blackwell Legacy v1.7/	Documents/My Saved Games/Blackwell Legacy v1.7
+Dropbox/Games/Blackwell Unbound/	Documents/My Saved Games/Blackwell Unbound
+Dropbox/Games/Book of Unwritten Tales/	Library/Application Support/Book of Unwritten Tales
+Dropbox/Games/Borderlands/	Documents/My Games/Borderlands
+Dropbox/Games/Boxer/	Library/Application Support/Boxer
+Dropbox/Games/Broken Sword - Director's Cut/	Documents/Broken Sword - Director's Cut
+Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
+Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
+Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
+Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remastered
+Dropbox/Games/Ceville/	Documents/Ceville
+Dropbox/Games/Civilization IV/	Documents/Civilization IV
+Dropbox/Games/Command & Conquer 3 Kane's Wrath/	Documents/Command & Conquer 3 Kane's Wrath
+Dropbox/Games/Command & Conquer 3 Kane's Wrath/	Documents/My Saved Games/Command & Conquer 3 Kane's Wrath
+Dropbox/Games/Command & Conquer 3 Tiberium Wars/	Documents/Command & Conquer 3 Tiberium Wars
+Dropbox/Games/Command & Conquer 3 Tiberium Wars/	Documents/My Saved Games/Command & Conquer 3 Tiberium Wars
+Dropbox/Games/Command & Conquer Generals Zero Hour/	Documents/Command and Conquer Generals Zero Hour Data
+Dropbox/Games/Command & Conquer Generals/	Documents/Command and Conquer Generals Data
+Dropbox/Games/Company of Heroes/	Documents/My Games/company of heroes
+Dropbox/Games/CorsixTH/	.config/CorsixTH
+Dropbox/Games/Darwinia/	Library/Application Support/Darwinia
+Dropbox/Games/Dawn of War 2/	Documents/My Games/Dawn of War 2
+Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
+Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
+Dropbox/Games/Deponia/	Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia
+Dropbox/Games/Diablo III/	Documents/Diablo III
+Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
+Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
+Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
+Dropbox/Games/Dragon Age/	Documents/BioWare/Dragon Age
+Dropbox/Games/Driftmoon/	Documents/Driftmoon
+Dropbox/Games/Dune Legacy/	Library/Application Support/Dune Legacy
+Dropbox/Games/Dungeon Siege III/	Documents/My Games/Dungeon Siege III
+Dropbox/Games/Dungeon Siege LOA/	Documents/Dungeon Siege LOA
+Dropbox/Games/Dungeon Siege/	Documents/Dungeon Siege
+Dropbox/Games/Dungeons of Dredmor/	Documents/Gaslamp Games/Dungeons of Dredmor
+Dropbox/Games/Dungeons of Dredmor/	Library/Application Support/Dungeons of Dredmor
+Dropbox/Games/EDuke32/	Library/Application Support/EDuke32
+Dropbox/Games/Earth 2160/	Documents/Earth 2160
+Dropbox/Games/Edge/	Library/com.twotribes.edge
+Dropbox/Games/Edna & Harvey - The Breakout/	Documents/EdnaSE
+Dropbox/Games/Edna & Harvey 2 - Harvey's New Eyes/	Documents/Daedalic Entertainment/Harvey
+Dropbox/Games/Elfsquad7/	Documents/SavedGames/Elfsquad7
+Dropbox/Games/Empire - Total War/	Documents/The Creative Assembly/Empire
+Dropbox/Games/Empire Earth II The Art of Supremacy/	Documents/Empire Earth II The Art of Supremacy
+Dropbox/Games/Empire Earth II/	Documents/Empire Earth II
+Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
+Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
+Dropbox/Games/Fable 3/	Documents/Fable 3
+Dropbox/Games/Fable 3/Saved Games/	Documents/My Saved Games/Lionhead Studios/Fable 3
+Dropbox/Games/Fable/	Documents/My Games/Fable
+Dropbox/Games/Fahrenheit/	Documents/atari/Fahrenheit Profile
+Dropbox/Games/Fallout 3/	Documents/My Games/Fallout3
+Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
+Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
+Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
+Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
+Dropbox/Games/Geneforge 5/	Documents/Spiderweb Software/Geneforge 5 Saved Games
+Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
+Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
+Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
+Dropbox/Games/Gray Matter/	Documents/GrayMatter
+Dropbox/Games/Grotesque-Tactics/	Documents/Grotesque-Tactics
+Dropbox/Games/Harvest/	Library/Application Support/Harvest
+Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
+Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
+Dropbox/Games/Inquisitor/	Documents/Inquisitor_SaveGames
+Dropbox/Games/Jack Keane/	Documents/Jack Keane
+Dropbox/Games/Jurassic Park Episode 1/	Library/Application Support/Telltale Games/JurassicPark100
+Dropbox/Games/Jurassic Park Episode 2/	Library/Application Support/Telltale Games/JurassicPark101
+Dropbox/Games/Jurassic Park Episode 3/	Library/Application Support/Telltale Games/JurassicPark103
+Dropbox/Games/Jurassic Park Episode 4/	Library/Application Support/Telltale Games/JurassicPark104
+Dropbox/Games/King's Bounty - The Legend/	Library/Application Support/King' s Bounty - The Legend
+Dropbox/Games/King's Quest IV Remake/	Documents/My Saved Games/King's Quest IV Remake
+Dropbox/Games/La-Mulana/	Documents/NIGORO/La-Mulana
+Dropbox/Games/Leisure Suit Larry 7/	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
+Dropbox/Games/Loom/	Documents/My Saved Games/Loom
+Dropbox/Games/Lost Horizon/	Documents/Lost Horizon
+Dropbox/Games/Mage's Initiation Demo/	Documents/My Saved Games/Mage's Initiation Demo
+Dropbox/Games/Mage's Initiation/	Documents/My Saved Games/Mage's Initiation
+Dropbox/Games/Mass Effect 2/	Documents/BioWare/Mass Effect 2
+Dropbox/Games/Mass Effect/	Documents/BioWare/Mass Effect
+Dropbox/Games/MataHari/	Documents/MataHari
+Dropbox/Games/MegaGlest/	.megaglest
+Dropbox/Games/Men of War - Condemned Heroes/	Documents/My Games/mow condemned heroes
+Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
+Dropbox/Games/Napoleon - Total War/	Documents/The Creative Assembly/Napoleon
+Dropbox/Games/Nestopia/	Library/Application Support/Bannister/Nestopia
+Dropbox/Games/Neverwinter Nights 2/	Documents/Neverwinter Nights 2
+Dropbox/Games/Neverwinter Nights 2/	Library/Application Support/Neverwinter Nights 2
+Dropbox/Games/Nox/	Library/Application Support/GOG.com/Nox
+Dropbox/Games/Oblivion/	Documents/My Games/Oblivion
+Dropbox/Games/Oddworld/	Documents/Oddworld
+Dropbox/Games/OpenArena/	Library/Application Support/OpenArena
+Dropbox/Games/OpenRA/	Library/Application Support/OpenRA
+Dropbox/Games/OpenTTD/	Documents/OpenTTD
+Dropbox/Games/OpenTyrian/	Library/Application Support/OpenTyrian
+Dropbox/Games/Orcs Must Die/	Documents/Orcs Must Die
+Dropbox/Games/Overlord II/	Documents/My Games/Overlord II
+Dropbox/Games/Overlord/	Documents/Overlord
+Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
+Dropbox/Games/Puddle/	Library/Puddle
+Dropbox/Games/Puzzle Agent 2/	Library/Application Support/Telltale Games/Grickle102
+Dropbox/Games/Puzzle Agent/	Library/Application Support/Telltale Games/Puzzle Agent
+Dropbox/Games/QFI - Demo 2.0/	Documents/My Saved Games/QFI - Demo 2.0
+Dropbox/Games/Quake 3/	Library/Application Support/Quake3
+Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 VGA
+Dropbox/Games/RIFT/	Documents/RIFT
+Dropbox/Games/Red Alert 3/	Documents/Red Alert 3
+Dropbox/Games/RelicDownloader/	Documents/My Games/RelicDownloader
+Dropbox/Games/Residual/	Documents/Residual Savegames
+Dropbox/Games/ResidualVM/	Documents/ResidualVM Savegames
+Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
+Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
+Dropbox/Games/Risen/	Documents/Risen
+Dropbox/Games/Rush/	Library/com.twotribes.rush
+Dropbox/Games/Scratches Director's Cut/	Documents/Nucleosys/Scratches Director's Cut
+Dropbox/Games/ScummVM/	Documents/ScummVM Savegames
+Dropbox/Games/ScummVMWrapper/	Library/Application Support/SVWrapper
+Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
+Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
+Dropbox/Games/Sid Meier's Civilization 5/	Documents/Aspyr/Sid Meier's Civilization 5
+Dropbox/Games/Sid Meier's Civilization 5/	Documents/My Games/Sid Meier's Civilization 5
+Dropbox/Games/Sid Meier's Civilization iv/	Documents/My Games/Sid Meier's Civilization iv
+Dropbox/Games/SimCity 4/	Documents/SimCity 4
+Dropbox/Games/Skyrim/	Documents/My Games/Skyrim
+Dropbox/Games/Snes9x/	Library/Application Support/Snes9x
+Dropbox/Games/Soul Reaver 2/	Documents/Soul Reaver 2
+Dropbox/Games/Space Quest 2 VGA/	Documents/My Saved Games/Space Quest 2 VGA
+Dropbox/Games/Spring/	.spring
+Dropbox/Games/Stacking/	Documents/Doublefine/Stacking
+Dropbox/Games/StarCraft II/	Documents/StarCraft II
+Dropbox/Games/StarCraft II/	Library/Application Support/Blizzard/StarCraft II
+Dropbox/Games/Stratagus/	Documents/Stratagus
+Dropbox/Games/Stratagus/	Library/Stratagus
+Dropbox/Games/Strong Bad Episode 1/	Library/Application Support/Telltale Games/Homestar 101
+Dropbox/Games/Strong Bad Episode 2/	Library/Application Support/Telltale Games/Homestar 202
+Dropbox/Games/Strong Bad Episode 3/	Library/Application Support/Telltale Games/Homestar 303
+Dropbox/Games/Strong Bad Episode 4/	Library/Application Support/Telltale Games/Homestar 404
+Dropbox/Games/Strong Bad Episode 5/	Library/Application Support/Telltale Games/Homestar 505
+Dropbox/Games/Supreme Commander 2/	Documents/My Games/Gas Powered Games/Supreme Commander 2
+Dropbox/Games/Supreme Commander/	Documents/Gas Powered Games/SupremeCommander
+Dropbox/Games/Syberia 2/	Documents/Syberia 2 Saves
+Dropbox/Games/Syberia/	Documents/Syberia Saves
+Dropbox/Games/Symphony/	Documents/Empty Clip Studios/Symphony
+Dropbox/Games/Tales of Monkey Island Episode 1/	Library/Application Support/Telltale Games/Chapter 1 - Launch of the Screaming Narwhal
+Dropbox/Games/Tales of Monkey Island Episode 2/	Library/Application Support/Telltale Games/Chapter 2 - The Siege of Spinner Cay
+Dropbox/Games/Tales of Monkey Island Episode 3/	Library/Application Support/Telltale Games/Chapter 3 - Lair of the Leviathan
+Dropbox/Games/Tales of Monkey Island Episode 4/	Library/Application Support/Telltale Games/Chapter 4 - The Trial and Exectution of Guybrush Threepwood
+Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
+Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaconing
+Dropbox/Games/The Cat Lady/	Documents/My Saved Games/Cat Lady
+Dropbox/Games/The Cave/	Library/Application Support/Doublefine/TheCave
+Dropbox/Games/The Dark Eye - Chains of Satinav/	Documents/Daedalic Entertainment/Satinav
+Dropbox/Games/The Lost Inca Prophecy 2/	Documents/Seppia/LostInca2
+Dropbox/Games/The Misadventures of P.B. Winterbottom/	Documents/2K Play/The Misadventures of P.B. Winterbottom
+Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/The Secret of Monkey Island Special Edition
+Dropbox/Games/The Walking Dead Episode 1/	Documents/Telltale Games/The Walking Dead Episode 1
+Dropbox/Games/The Walking Dead Episode 2/	Documents/Telltale Games/The Walking Dead Episode 2
+Dropbox/Games/The Walking Dead Episode 3/	Documents/Telltale Games/The Walking Dead Episode 3
+Dropbox/Games/The Walking Dead Episode 4/	Documents/Telltale Games/The Walking Dead Episode 4
+Dropbox/Games/The Walking Dead Episode 5/	Documents/Telltale Games/The Walking Dead Episode 5
+Dropbox/Games/The Whispered World/	Documents/Daedalic Entertainment/The Whispered World
+Dropbox/Games/The Witcher/	Documents/The Witcher
+Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
+Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
+Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
+Dropbox/Games/Tomb Raider - Anniversary/	Documents/Eidos/Tomb Raider - Anniversary
+Dropbox/Games/Tomb Raider - Underworld/	Documents/Eidos/Tomb Raider - Underworld
+Dropbox/Games/Torchlight 2/	Documents/My Games/Runic Games/Torchlight 2
+Dropbox/Games/Torchlight/	Documents/My Saved Games/Torchlight
+Dropbox/Games/Torchlight/	Library/Application Support/runic games/torchlight
+Dropbox/Games/Total Annihilation/	Library/Application Support/GOG.com/Total Annihilation
+Dropbox/Games/Two Worlds/Players/	Documents/Reality Pump/Two Worlds Files/Players
+Dropbox/Games/Two Worlds/Saves/	Documents/Two Worlds Saves
+Dropbox/Games/UFO - Alien Invasion 2.4/	Documents/UFOAI-2.4
+Dropbox/Games/Unknown Horizons/	.unknown-horizons
+Dropbox/Games/Unmechanical/	Documents/My Games/Unmechanical
+Dropbox/Games/Unreal Tournament 3/	Library/Application Support/Unreal Tournament 3
+Dropbox/Games/UnrealEngine3/	Documents/My Games/UnrealEngine3
+Dropbox/Games/VVVVVV/	Documents/VVVVVV
+Dropbox/Games/Volvo - The Game/	Documents/SimBin/Volvo - The Game
+Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 1/	Documents/Telltale Games/Episode 101 - Fright of the Bumblebees
+Dropbox/Games/Warlords Battlecry II/	Documents/Warlords Battlecry II
+Dropbox/Games/Warlords Battlecry III/	Documents/Warlords Battlecry III
+Dropbox/Games/Warzone 2100 3.1/	Library/Application Support/Warzone 2100 3.1
+Dropbox/Games/Wesnoth_1.10/	Library/Application Support/Wesnoth_1.10
+Dropbox/Games/Wings of Prey/	Documents/My Games/Wings of Prey
+Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
+Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
+Dropbox/Games/xonotic/	Library/Application Support/xonotic
 
-Dropbox/Apps/OSX/Calendars	Library/Calendars
-Dropbox/Apps/OSX/Keychains	Library/Keychains
-Dropbox/Apps/OSX/AddressBook	Library/Application Support/AddressBook
-Dropbox/Apps/Messages	Library/Messages/Archive
+Library/Fonts/	Dropbox/Apps/OSX/Fonts
+
+Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
+Movies/	Documents/My Videos
+Music/	Documents/My Music
+Pictures/	Documents/My Pictures
