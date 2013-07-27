@@ -15,7 +15,7 @@ link_contents () {
 }
 
 link () {
-    if [ "${home_path%Library/Containers/}" != "$home_path" ]; then
+    if [ "${2%Library/Containers/}" != "$2" ]; then
         # Do not create leading directories for containers links
         :
     else
