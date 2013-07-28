@@ -10,7 +10,7 @@ link_contents () {
         find "$path" -type f -o -type d -mindepth 1 -maxdepth 1 | sed 's,^.*/,,'
         find "$home_path" -type f -o -type d -mindepth 1 -maxdepth 1 | sed 's,^.*/,,'
     } | sort -u | while read filename; do
-        link "$path/$filename" "$home_path/$filename"
+        link "${path%/}/$filename" "${home_path%/}/$filename"
     done
 }
 
