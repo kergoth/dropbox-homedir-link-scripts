@@ -22,7 +22,7 @@ link () {
         mkdir -p "$PWD/${2%/*}"
     fi
 
-    $scriptdir/iln -visb "$PWD/$1" "$PWD/$2"
+    $scriptdir/iln/iln -visb "$PWD/$1" "$PWD/$2"
 }
 
 process_rules () {
@@ -52,10 +52,9 @@ process_rules () {
 scriptdir="$(cd "${0%/*}" && pwd)"
 cd
 
-if [ ! -e "$scriptdir/6096187" ]; then
-    git clone git://gist.github.com/6096187 $scriptdir/6096187
+if [ ! -e "$scriptdir/iln" ]; then
+    git clone https://github.com/kergoth/iln $scriptdir/iln
 fi
-ln -sf 6096187/iln $scriptdir/iln
 
 process_rules link %s %s <$scriptdir/Links.txt
 process_rules link_contents %s %s <$scriptdir/ContentsLinks.txt
