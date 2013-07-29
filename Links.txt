@@ -245,4 +245,6 @@ Movies/	Documents/My Videos
 Music/	Documents/My Music
 Pictures/	Documents/My Pictures
 
+Dropbox/Games/D1X Rebirth/	Library/Preferences/D1X Rebirth
+Dropbox/Games/D2X Rebirth/	Library/Preferences/D2X Rebirth
 Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferences
