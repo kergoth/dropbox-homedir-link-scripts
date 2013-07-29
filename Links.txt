@@ -244,3 +244,5 @@ Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My 
 Movies/	Documents/My Videos
 Music/	Documents/My Music
 Pictures/	Documents/My Pictures
+
+Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferences
