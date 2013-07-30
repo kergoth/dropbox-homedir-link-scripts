@@ -22,7 +22,7 @@ link () {
         mkdir -p "$PWD/${2%/*}"
     fi
 
-    $scriptdir/iln/iln -visb "$PWD/$1" "$PWD/$2"
+    $scriptdir/iln/iln -visb "$PWD/$1" "$PWD/$2" 2>&1 | grep -v "Same file as"
 }
 
 process_rules () {
