@@ -188,6 +188,7 @@ Dropbox/Games/Strong Bad Episode 4/	Library/Application Support/Telltale Games/H
 Dropbox/Games/Strong Bad Episode 5/	Library/Application Support/Telltale Games/Homestar 505
 Dropbox/Games/Supreme Commander 2/	Documents/My Games/Gas Powered Games/Supreme Commander 2
 Dropbox/Games/Supreme Commander/	Documents/Gas Powered Games/SupremeCommander
+Dropbox/Games/Supreme Commander Forged Alliance/	Documents/My Games/Gas Powered Games/Supreme Commander Forged Alliance
 Dropbox/Games/Syberia 2/	Documents/Syberia 2 Saves
 Dropbox/Games/Syberia/	Documents/Syberia Saves
 Dropbox/Games/Symphony/	Documents/Empty Clip Studios/Symphony
