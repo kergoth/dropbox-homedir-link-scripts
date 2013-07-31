@@ -69,6 +69,7 @@ Dropbox/Games/CorsixTH/	.config/CorsixTH
 Dropbox/Games/Darwinia/	Library/Application Support/Darwinia
 Dropbox/Games/Dawn of War 2/	Documents/My Games/Dawn of War 2
 Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
+Dropbox/Games/Dead Island/	Documents/DeadIsland
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
 Dropbox/Games/Deponia/	Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia
 Dropbox/Games/Diablo III/	Documents/Diablo III
@@ -162,6 +163,8 @@ Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
 Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
 Dropbox/Games/Risen/	Documents/Risen
 Dropbox/Games/Rush/	Library/com.twotribes.rush
+Dropbox/Games/Sacred 2/	Documents/Ascaron Entertainment/Sacred 2
+Dropbox/Games/Saints Row 2/	Documents/THQ/Saints Row 2
 Dropbox/Games/Scratches Director's Cut/	Documents/Nucleosys/Scratches Director's Cut
 Dropbox/Games/ScummVM/	Documents/ScummVM Savegames
 Dropbox/Games/ScummVMWrapper/	Library/Application Support/SVWrapper
