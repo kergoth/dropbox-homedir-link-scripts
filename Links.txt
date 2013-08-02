@@ -236,6 +236,7 @@ Dropbox/Games/Warzone 2100 3.1/	Library/Application Support/Warzone 2100 3.1
 Dropbox/Games/Wesnoth_1.10/	Library/Application Support/Wesnoth_1.10
 Dropbox/Games/Wings of Prey/	Documents/My Games/Wings of Prey
 Dropbox/Games/World of Tanks/	Documents/Wargaming.net/WorldOfTanks
+Dropbox/Games/World of Warplanes/	Documents/Wargaming.net/World of Warplanes
 Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
