@@ -242,6 +242,10 @@ Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
 
+Dropbox/Games/D1X Rebirth/	Library/Preferences/D1X Rebirth
+Dropbox/Games/D2X Rebirth/	Library/Preferences/D2X Rebirth
+Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferences
+
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
@@ -249,6 +253,6 @@ Movies/	Documents/My Videos
 Music/	Documents/My Music
 Pictures/	Documents/My Pictures
 
-Dropbox/Games/D1X Rebirth/	Library/Preferences/D1X Rebirth
-Dropbox/Games/D2X Rebirth/	Library/Preferences/D2X Rebirth
-Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferences
+/System/Library/CoreServices/Wireless Diagnostics.app/		Applications/Wireless Diagnostics.app
+/System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
+/System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
