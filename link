@@ -19,10 +19,18 @@ link () {
         # Do not create leading directories for containers links
         :
     else
-        mkdir -p "$PWD/${2%/*}"
+        mkdir -p "$(dirname "$(abspath "$2")")"
     fi
 
-    $scriptdir/iln/iln -visb "$PWD/$1" "$PWD/$2" 2>&1 | grep -v "Same file as"
+    $scriptdir/iln/iln -visb "$(abspath "$1")" "$(abspath "$2")" 2>&1 | grep -v "Same file as"
+}
+
+abspath () {
+	_path="$1"
+	if [ -n "${_path##/*}" ]; then
+	    _path="$PWD/$1"
+	fi
+	echo "$_path"
 }
 
 process_rules () {
