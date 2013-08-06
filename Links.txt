@@ -145,6 +145,7 @@ Dropbox/Games/Orcs Must Die/	Documents/Orcs Must Die
 Dropbox/Games/Overlord II/	Documents/My Games/Overlord II
 Dropbox/Games/Overlord/	Documents/Overlord
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
+Dropbox/Games/Psychonauts/	Library/Application Support/Psychonauts
 Dropbox/Games/Puddle/	Library/Puddle
 Dropbox/Games/Puzzle Agent 2/	Library/Application Support/Telltale Games/Grickle102
 Dropbox/Games/Puzzle Agent/	Library/Application Support/Telltale Games/Puzzle Agent
