@@ -63,6 +63,7 @@ Dropbox/Games/Command & Conquer Generals Zero Hour/	Documents/Command and Conque
 Dropbox/Games/Command & Conquer Generals/	Documents/Command and Conquer Generals Data
 Dropbox/Games/Company of Heroes/	Documents/My Games/company of heroes
 Dropbox/Games/CorsixTH/	.config/CorsixTH
+Dropbox/Games/Costume Quest/	Documents/Doublefine/CostumeQuest
 Dropbox/Games/Darwinia/	Library/Application Support/Darwinia
 Dropbox/Games/Dawn of War 2/	Documents/My Games/Dawn of War 2
 Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
