@@ -132,6 +132,7 @@ Dropbox/Games/MataHari/	Documents/MataHari
 Dropbox/Games/MegaGlest/	.megaglest
 Dropbox/Games/Men of War - Condemned Heroes/	Documents/My Games/mow condemned heroes
 Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
+Dropbox/Games/Metro 2033/	Documents/4A Games/Metro 2033
 Dropbox/Games/Napoleon - Total War/	Documents/The Creative Assembly/Napoleon
 Dropbox/Games/Nestopia/	Library/Application Support/Bannister/Nestopia
 Dropbox/Games/Neverwinter Nights 2/	Documents/Neverwinter Nights 2
@@ -163,6 +164,7 @@ Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
 Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
 Dropbox/Games/Risen/	Documents/Risen
 Dropbox/Games/Rush/	Library/com.twotribes.rush
+Dropbox/Games/Sacred Citadel/	Documents/Sacred Citadel
 Dropbox/Games/Sacred 2/	Documents/Ascaron Entertainment/Sacred 2
 Dropbox/Games/Saints Row 2/	Documents/THQ/Saints Row 2
 Dropbox/Games/Scratches Director's Cut/	Documents/Nucleosys/Scratches Director's Cut
