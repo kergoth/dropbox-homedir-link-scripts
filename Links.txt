@@ -171,6 +171,7 @@ Dropbox/Games/Scratches Director's Cut/	Documents/Nucleosys/Scratches Director's
 Dropbox/Games/ScummVM/	Documents/ScummVM Savegames
 Dropbox/Games/ScummVMWrapper/	Library/Application Support/SVWrapper
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
+Dropbox/Games/Sherlock Holmes - Mystery of the Persian Carpet/	Documents/Games/mystery of the persian carpet
 Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/Aspyr/Sid Meier's Civilization 5
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/My Games/Sid Meier's Civilization 5
