@@ -22,7 +22,7 @@ link () {
         mkdir -p "$(dirname "$(abspath "$2")")"
     fi
 
-    $scriptdir/iln/iln -visb "$(abspath "$1")" "$(abspath "$2")" 2>&1 | grep -v "Same file as"
+    iln -visb "$(abspath "$1")" "$(abspath "$2")" 2>&1 | grep -v "Same file as"
 }
 
 abspath () {
@@ -58,6 +58,7 @@ process_rules () {
 
 
 scriptdir="$(cd "${0%/*}" && pwd)"
+PATH=$scriptdir/iln:$PATH
 cd
 
 if [ ! -e "$scriptdir/iln" ]; then
