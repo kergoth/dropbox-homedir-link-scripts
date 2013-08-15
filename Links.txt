@@ -1,5 +1,4 @@
 #Dropbox/Games/Jack Keane/	Library/Application Support/RuneSoft/JackKeane
-Documents/My Videos/	Documents/My Video
 Dropbox/Apps/Alcohol 52%/	Documents/Alcohol 52%
 Dropbox/Apps/Amazon Downloader/Logs/	Documents/Amazon Downloader Logs
 Dropbox/Apps/Amazon MP3 Uploader/	Documents/Amazon MP3 Uploader
@@ -259,6 +258,7 @@ Library/Fonts/	Dropbox/Apps/OSX/Fonts
 
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
 Movies/	Documents/My Videos
+Documents/My Videos/	Documents/My Video
 Music/	Documents/My Music
 Pictures/	Documents/My Pictures
 
