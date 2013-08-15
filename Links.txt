@@ -212,6 +212,7 @@ Dropbox/Games/The Cave/	Library/Application Support/Doublefine/TheCave
 Dropbox/Games/The Dark Eye - Chains of Satinav/	Documents/Daedalic Entertainment/Satinav
 Dropbox/Games/The Lost Inca Prophecy 2/	Documents/Seppia/LostInca2
 Dropbox/Games/The Longest Journey/	Documents/The Longest Journey
+Dropbox/Games/The Sims 3/	Documents/Electronic Arts/The Sims 3
 Dropbox/Games/The Misadventures of P.B. Winterbottom/	Documents/2K Play/The Misadventures of P.B. Winterbottom
 Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/The Secret of Monkey Island Special Edition
 Dropbox/Games/The Walking Dead Episode 1/	Documents/Telltale Games/The Walking Dead Episode 1
