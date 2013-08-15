@@ -41,12 +41,22 @@ process_rules () {
     local callback="$1"
     local path_pattern="$2"
     local home_path_pattern="$3"
+    local os_condition="@$(uname -s)@"
 
     local ret=0
     grep -v "^#" | while IFS="	" read rel_path rel_home_path; do
         if [[ -z "$rel_path" ]]; then
             continue
         fi
+
+        case "$rel_path" in
+            $os_condition*)
+                rel_path="${rel_path#$os_condition}"
+                ;;
+            @*)
+                continue
+                ;;
+        esac
 
         if [[ -z "$rel_home_path" ]]; then
             rel_home_path="$rel_path"
