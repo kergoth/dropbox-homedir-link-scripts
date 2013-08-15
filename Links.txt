@@ -52,6 +52,7 @@ Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The An
 Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
 Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remastered
+Dropbox/Games/Burnout Paradise/	Documents/Criterion Games/Burnout Paradise
 Dropbox/Games/Ceville/	Documents/Ceville
 Dropbox/Games/Civilization IV/	Documents/Civilization IV
 Dropbox/Games/Command & Conquer 3 Kane's Wrath/	Documents/Command & Conquer 3 Kane's Wrath
