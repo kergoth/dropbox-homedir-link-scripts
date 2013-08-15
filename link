@@ -22,6 +22,10 @@ link () {
         mkdir -p "$(dirname "$(abspath "$2")")"
     fi
 
+    if [ -h "$2" ]; then
+        rm -f "$2"
+    fi
+
     iln -visb "$(abspath "$1")" "$(abspath "$2")" 2>&1 | grep -v "Same file as"
 }
 
