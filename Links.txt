@@ -70,7 +70,6 @@ Dropbox/Games/Dawn of War 2/	Documents/My Games/Dawn of War 2
 Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
 Dropbox/Games/Dead Island/	Documents/DeadIsland
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
-Dropbox/Games/Deponia/	Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia
 Dropbox/Games/Diablo III/	Documents/Diablo III
 Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
 Dropbox/Games/Divinity 2/	Documents/Divinity 2
@@ -259,6 +258,7 @@ Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferenc
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
+Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
 Movies/	Documents/My Videos
 Documents/My Videos/	Documents/My Video
 Music/	Documents/My Music
