@@ -122,6 +122,7 @@ Dropbox/Games/King's Bounty - The Legend/	Library/Application Support/King' s Bo
 Dropbox/Games/King's Quest IV Remake/	Documents/My Saved Games/King's Quest IV Remake
 Dropbox/Games/La-Mulana/	Documents/NIGORO/La-Mulana
 Dropbox/Games/Leisure Suit Larry 7/	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
+Dropbox/Games/Leisure Suit Larry Reloaded/	Library/Caches/unity.N-Fusion Interactive.LarryReloaded
 Dropbox/Games/Loom/	Documents/My Saved Games/Loom
 Dropbox/Games/Lost Horizon/	Documents/Lost Horizon
 Dropbox/Games/Mage's Initiation Demo/	Documents/My Saved Games/Mage's Initiation Demo
