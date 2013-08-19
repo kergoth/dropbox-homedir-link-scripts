@@ -1,0 +1,17 @@
+#!/bin/sh
+
+source="$1"
+source="${source#~/}"
+source="${source#$HOME/}"
+target="$2"
+if [ -d "$target" ]; then
+    source="${source%/}/"
+fi
+target="${target#~/}"
+target="${target#$HOME/}"
+target="${target%/}"
+
+
+printf "%s -> %s\n" "$target" "$source"
+printf "%s\t%s\n" "$source" "$target" >>Links.txt
+sort -u Links.txt > Links.txt.new && mv Links.txt.new Links.txt
