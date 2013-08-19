@@ -1,4 +1,12 @@
+# Local Settings/Application Data linked to My Documents in the wine prefix
 #Dropbox/Games/Jack Keane/	Library/Application Support/RuneSoft/JackKeane
+/System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
+/System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
+/System/Library/CoreServices/Wireless Diagnostics.app/		Applications/Wireless Diagnostics.app
+@Darwin@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Documents/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
+@Linux@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Documents/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
+@Windows@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Local Settings/Application Data/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
+Documents/My Videos/	Documents/My Video
 Dropbox/Apps/Alcohol 52%/	Documents/Alcohol 52%
 Dropbox/Apps/Amazon Downloader/Logs/	Documents/Amazon Downloader Logs
 Dropbox/Apps/Amazon MP3 Uploader/	Documents/Amazon MP3 Uploader
@@ -65,6 +73,7 @@ Dropbox/Games/Command & Conquer Generals/	Documents/Command and Conquer Generals
 Dropbox/Games/Company of Heroes/	Documents/My Games/company of heroes
 Dropbox/Games/CorsixTH/	.config/CorsixTH
 Dropbox/Games/Costume Quest/	Documents/Doublefine/CostumeQuest
+Dropbox/Games/Crysis 2/	Documents/Crysis2
 Dropbox/Games/D1X Rebirth/	Library/Preferences/D1X Rebirth
 Dropbox/Games/D2X Rebirth/	Library/Preferences/D2X Rebirth
 Dropbox/Games/Darwinia/	Library/Application Support/Darwinia
@@ -256,21 +265,9 @@ Dropbox/Games/World of Warplanes/	Documents/Wargaming.net/World of Warplanes
 Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
-
-# Local Settings/Application Data linked to My Documents in the wine prefix
-@Windows@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Local Settings/Application Data/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
-@Darwin@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Documents/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
-@Linux@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Documents/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
-
-Library/Fonts/	Dropbox/Apps/OSX/Fonts
-
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
 Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
+Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
-Documents/My Videos/	Documents/My Video
 Music/	Documents/My Music
 Pictures/	Documents/My Pictures
-
-/System/Library/CoreServices/Wireless Diagnostics.app/		Applications/Wireless Diagnostics.app
-/System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
-/System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
