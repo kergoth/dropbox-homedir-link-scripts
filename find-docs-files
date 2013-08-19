@@ -1,0 +1,3 @@
+#!/bin/sh
+
+find ~/Documents/ \( -name \$RECYCLE.BIN -prune \) -o \( -type f -not -name .DS_Store -not -name desktop.ini -not -name Thumbs.db -print \)
