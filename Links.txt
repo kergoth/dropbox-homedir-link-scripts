@@ -22,6 +22,7 @@ Dropbox/Apps/NoMachine Player/	Documents/Virtual Desktops
 Dropbox/Apps/Nook/	Documents/My Barnes & Noble eBooks
 Dropbox/Apps/Parallels/	Documents/Parallels
 Dropbox/Apps/Reader/	Documents/My Books/Reader
+Dropbox/Apps/Textual/	Library/Application Support/Textual
 Dropbox/Apps/Sametime/Transcripts/	Documents/SametimeTranscripts
 Dropbox/Apps/WebEx/	Documents/WebEx
 Dropbox/Apps/WriteRoom/	Library/Application Support/WriteRoom
