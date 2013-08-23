@@ -13,6 +13,7 @@ Dropbox/Apps/Amazon MP3 Uploader/	Documents/Amazon MP3 Uploader
 Dropbox/Apps/Amazon MP3/	Documents/Amazon MP3
 Dropbox/Apps/Colloquy/Transcripts/	Documents/Colloquy Transcripts
 Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
+Dropbox/Apps/CoverScout 3/com.equinux.CoverScout3.plist	Library/Preferences/com.equinux.CoverScout3.plist
 Dropbox/Apps/Digital Editions/	Documents/Digital Editions
 Dropbox/Apps/ForkLift/	Library/Application Support/ForkLift
 Dropbox/Apps/Messages/	Documents/iChats
