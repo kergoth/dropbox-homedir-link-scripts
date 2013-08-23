@@ -16,6 +16,7 @@ Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
 Dropbox/Apps/CoverScout 3/com.equinux.CoverScout3.plist	Library/Preferences/com.equinux.CoverScout3.plist
 Dropbox/Apps/Digital Editions/	Documents/Digital Editions
 Dropbox/Apps/ForkLift/	Library/Application Support/ForkLift
+Dropbox/Apps/iTerm 2/com.googlecode.iterm2.plist	Library/Preferences/com.googlecode.iterm2.plist
 Dropbox/Apps/Messages/	Documents/iChats
 Dropbox/Apps/Messages/	Library/Messages/Archive
 Dropbox/Apps/Neat/	Documents/Neat Data
