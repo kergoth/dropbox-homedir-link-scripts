@@ -24,6 +24,7 @@ Dropbox/Apps/NoMachine Player/	Documents/Virtual Desktops
 Dropbox/Apps/Nook/	Documents/My Barnes & Noble eBooks
 Dropbox/Apps/Parallels/	Documents/Parallels
 Dropbox/Apps/Reader/	Documents/My Books/Reader
+Dropbox/Apps/ScreenFlow/	Library/Application Support/Telestream/ScreenFlow
 Dropbox/Apps/Textual/	Library/Application Support/Textual
 Dropbox/Apps/Sametime/Transcripts/	Documents/SametimeTranscripts
 Dropbox/Apps/WebEx/	Documents/WebEx
@@ -51,6 +52,7 @@ Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanc
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Bioshock/	Documents/Bioshock
+Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
 Dropbox/Games/Blackwell Convergence/	Documents/My Saved Games/Blackwell Convergence
 Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
 Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v1.6
@@ -89,6 +91,7 @@ Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspan
 Dropbox/Games/Diablo III/	Documents/Diablo III
 Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
 Dropbox/Games/Divinity 2/	Documents/Divinity 2
+Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
 Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
 Dropbox/Games/Dragon Age/	Documents/BioWare/Dragon Age
@@ -116,6 +119,7 @@ Dropbox/Games/Fable/	Documents/My Games/Fable
 Dropbox/Games/Fahrenheit/	Documents/atari/Fahrenheit Profile
 Dropbox/Games/Fallout 3/	Documents/My Games/Fallout3
 Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
+Dropbox/Games/FEZ/	Library/Application Support/FEZ
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
