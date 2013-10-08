@@ -229,6 +229,7 @@ Dropbox/Games/Tales of Monkey Island Episode 2/	Library/Application Support/Tell
 Dropbox/Games/Tales of Monkey Island Episode 3/	Library/Application Support/Telltale Games/Chapter 3 - Lair of the Leviathan
 Dropbox/Games/Tales of Monkey Island Episode 4/	Library/Application Support/Telltale Games/Chapter 4 - The Trial and Exectution of Guybrush Threepwood
 Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
+Dropbox/Games/Terraria/	Documents/My Games/Terraria
 Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaconing
 Dropbox/Games/The Cat Lady/	Documents/My Saved Games/Cat Lady
 Dropbox/Games/The Cave/	Library/Application Support/Doublefine/TheCave
