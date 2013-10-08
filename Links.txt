@@ -12,11 +12,10 @@ Dropbox/Apps/Amazon Downloader/Logs/	Documents/Amazon Downloader Logs
 Dropbox/Apps/Amazon MP3 Uploader/	Documents/Amazon MP3 Uploader
 Dropbox/Apps/Amazon MP3/	Documents/Amazon MP3
 Dropbox/Apps/Colloquy/Transcripts/	Documents/Colloquy Transcripts
-Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
 Dropbox/Apps/CoverScout 3/com.equinux.CoverScout3.plist	Library/Preferences/com.equinux.CoverScout3.plist
+Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
 Dropbox/Apps/Digital Editions/	Documents/Digital Editions
 Dropbox/Apps/ForkLift/	Library/Application Support/ForkLift
-Dropbox/Apps/iTerm 2/com.googlecode.iterm2.plist	Library/Preferences/com.googlecode.iterm2.plist
 Dropbox/Apps/Messages/	Documents/iChats
 Dropbox/Apps/Messages/	Library/Messages/Archive
 Dropbox/Apps/Neat/	Documents/Neat Data
@@ -24,12 +23,13 @@ Dropbox/Apps/NoMachine Player/	Documents/Virtual Desktops
 Dropbox/Apps/Nook/	Documents/My Barnes & Noble eBooks
 Dropbox/Apps/Parallels/	Documents/Parallels
 Dropbox/Apps/Reader/	Documents/My Books/Reader
+Dropbox/Apps/Sametime/Transcripts/	Documents/SametimeTranscripts
 Dropbox/Apps/ScreenFlow/	Library/Application Support/Telestream/ScreenFlow
 Dropbox/Apps/Textual/	Library/Application Support/Textual
-Dropbox/Apps/Sametime/Transcripts/	Documents/SametimeTranscripts
 Dropbox/Apps/WebEx/	Documents/WebEx
 Dropbox/Apps/WriteRoom/	Library/Application Support/WriteRoom
 Dropbox/Apps/doc2dash/	Library/Application Support/doc2dash
+Dropbox/Apps/iTerm 2/com.googlecode.iterm2.plist	Library/Preferences/com.googlecode.iterm2.plist
 Dropbox/Books/	Books
 Dropbox/Games/0ad/	Library/Application Support/0ad
 Dropbox/Games/A New Beginning/	Library/Application Support/Daedalic Entertainment/A New Beginning
@@ -51,8 +51,9 @@ Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale
 Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
-Dropbox/Games/Bioshock/	Documents/Bioshock
+Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
 Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
+Dropbox/Games/Bioshock/	Documents/Bioshock
 Dropbox/Games/Blackwell Convergence/	Documents/My Saved Games/Blackwell Convergence
 Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
 Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v1.6
@@ -88,10 +89,10 @@ Dropbox/Games/Dead Island/	Documents/DeadIsland
 Dropbox/Games/Dead Space 3/	Documents/EA Games/Dead Space 3
 Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
+Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Diablo III/	Documents/Diablo III
 Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
 Dropbox/Games/Divinity 2/	Documents/Divinity 2
-Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
 Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
 Dropbox/Games/Dragon Age/	Documents/BioWare/Dragon Age
@@ -113,13 +114,13 @@ Dropbox/Games/Empire Earth II The Art of Supremacy/	Documents/Empire Earth II Th
 Dropbox/Games/Empire Earth II/	Documents/Empire Earth II
 Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
 Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
+Dropbox/Games/FEZ/	Library/Application Support/FEZ
 Dropbox/Games/Fable 3/	Documents/Fable 3
 Dropbox/Games/Fable 3/Saved Games/	Documents/My Saved Games/Lionhead Studios/Fable 3
 Dropbox/Games/Fable/	Documents/My Games/Fable
 Dropbox/Games/Fahrenheit/	Documents/atari/Fahrenheit Profile
 Dropbox/Games/Fallout 3/	Documents/My Games/Fallout3
 Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
-Dropbox/Games/FEZ/	Library/Application Support/FEZ
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
@@ -274,8 +275,8 @@ Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
-Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
 Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
+Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
