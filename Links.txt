@@ -124,6 +124,7 @@ Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
+Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
 Dropbox/Games/Geneforge 5/	Documents/Spiderweb Software/Geneforge 5 Saved Games
 Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
@@ -231,6 +232,7 @@ Dropbox/Games/Tales of Monkey Island Episode 4/	Library/Application Support/Tell
 Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
 Dropbox/Games/Terraria/	Documents/My Games/Terraria
 Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaconing
+Dropbox/Games/The Bard's Tale/	Library/Application Support/The Bard's Tale
 Dropbox/Games/The Cat Lady/	Documents/My Saved Games/Cat Lady
 Dropbox/Games/The Cave/	Library/Application Support/Doublefine/TheCave
 Dropbox/Games/The Dark Eye - Chains of Satinav/	Documents/Daedalic Entertainment/Satinav
