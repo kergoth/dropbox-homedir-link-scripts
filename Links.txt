@@ -172,6 +172,7 @@ Dropbox/Games/OpenTyrian/	Library/Application Support/OpenTyrian
 Dropbox/Games/Orcs Must Die/	Documents/Orcs Must Die
 Dropbox/Games/Overlord II/	Documents/My Games/Overlord II
 Dropbox/Games/Overlord/	Documents/Overlord
+Dropbox/Games/Path of Exile/	Documents/My Games/Path of Exile
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
 Dropbox/Games/Psychonauts/	Library/Application Support/Psychonauts
 Dropbox/Games/Puddle/	Library/Puddle
@@ -235,6 +236,7 @@ Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaco
 Dropbox/Games/The Bard's Tale/	Library/Application Support/The Bard's Tale
 Dropbox/Games/The Cat Lady/	Documents/My Saved Games/Cat Lady
 Dropbox/Games/The Cave/	Library/Application Support/Doublefine/TheCave
+Dropbox/Games/The Chronicles of Riddick - Assault on Dark Athena/	Documents/atari/The Chronicles of Riddick - Assault on Dark Athena
 Dropbox/Games/The Dark Eye - Chains of Satinav/	Documents/Daedalic Entertainment/Satinav
 Dropbox/Games/The Longest Journey/	Documents/The Longest Journey
 Dropbox/Games/The Lost Inca Prophecy 2/	Documents/Seppia/LostInca2
