@@ -181,6 +181,7 @@ Dropbox/Games/Puzzle Agent/	Library/Application Support/Telltale Games/Puzzle Ag
 Dropbox/Games/QFI - Demo 2.0/	Documents/My Saved Games/QFI - Demo 2.0
 Dropbox/Games/Quake 3/	Library/Application Support/Quake3
 Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 VGA
+Dropbox/Games/Rayman Origins/	Documents/My Games/Rayman Origins
 Dropbox/Games/RIFT/	Documents/RIFT
 Dropbox/Games/Red Alert 3/	Documents/Red Alert 3
 Dropbox/Games/RelicDownloader/	Documents/My Games/RelicDownloader
