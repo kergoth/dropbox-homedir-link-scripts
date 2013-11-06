@@ -50,6 +50,7 @@ Dropbox/Games/Back to the Future Episode 4/	Documents/Telltale Games/back to the
 Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale Games/BackToTheFuture104
 Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
+Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
 Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
@@ -123,6 +124,7 @@ Dropbox/Games/Fallout 3/	Documents/My Games/Fallout3
 Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
+Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
 Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
 Dropbox/Games/Geneforge 5/	Documents/Spiderweb Software/Geneforge 5 Saved Games
