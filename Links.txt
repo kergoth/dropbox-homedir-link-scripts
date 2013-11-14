@@ -17,7 +17,6 @@ Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
 Dropbox/Apps/Digital Editions/	Documents/Digital Editions
 Dropbox/Apps/ForkLift/	Library/Application Support/ForkLift
 Dropbox/Apps/Messages/	Documents/iChats
-Dropbox/Apps/Messages/	Library/Messages/Archive
 Dropbox/Apps/Neat/	Documents/Neat Data
 Dropbox/Apps/NoMachine Player/	Documents/Virtual Desktops
 Dropbox/Apps/Nook/	Documents/My Barnes & Noble eBooks
@@ -285,6 +284,7 @@ Dropbox/Games/xonotic/	Library/Application Support/xonotic
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
 Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
 Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
+Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
