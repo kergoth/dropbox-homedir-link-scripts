@@ -26,7 +26,14 @@ link () {
         rm -f "$2"
     fi
 
-    iln -vrisb "$(abspath "$1")" "$(abspath "$2")" 2>&1 | grep -v "Same file as"
+    case "$1" in
+        /*)
+            iln -visb "$1" "$(abspath "$2")" 2>&1 | grep -v "Same file as"
+            ;;
+        *)
+            iln -vrisb "$(abspath "$1")" "$(abspath "$2")" 2>&1 | grep -v "Same file as"
+            ;;
+    esac
 }
 
 abspath () {

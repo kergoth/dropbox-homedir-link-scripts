@@ -1,4 +1,3 @@
-# Local Settings/Application Data linked to My Documents in the wine prefix
 #Dropbox/Games/Jack Keane/	Library/Application Support/RuneSoft/JackKeane
 /System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
 /System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
