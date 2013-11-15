@@ -221,6 +221,7 @@ Dropbox/Games/Stacking/	Documents/Doublefine/Stacking
 Dropbox/Games/Stacking/	Library/Application Support/Doublefine/Stacking
 Dropbox/Games/StarCraft II/	Documents/StarCraft II
 Dropbox/Games/StarCraft II/	Library/Application Support/Blizzard/StarCraft II
+Dropbox/Games/Still Life/	Library/Application Support/GOG.com/Still Life
 Dropbox/Games/Stratagus/	Documents/Stratagus
 Dropbox/Games/Stratagus/	Library/Stratagus
 Dropbox/Games/Strong Bad Episode 1/	Library/Application Support/Telltale Games/Homestar 101
@@ -257,6 +258,7 @@ Dropbox/Games/The Walking Dead Episode 3/	Documents/Telltale Games/The Walking D
 Dropbox/Games/The Walking Dead Episode 4/	Documents/Telltale Games/The Walking Dead Episode 4
 Dropbox/Games/The Walking Dead Episode 5/	Documents/Telltale Games/The Walking Dead Episode 5
 Dropbox/Games/The Whispered World/	Documents/Daedalic Entertainment/The Whispered World
+Dropbox/Games/The Whispered World/	Library/Application Support/GOG.com/The Whispered World
 Dropbox/Games/The Witcher/	Documents/The Witcher
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
 Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
