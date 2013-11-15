@@ -80,6 +80,7 @@ Dropbox/Games/Command & Conquer Generals/	Documents/Command and Conquer Generals
 Dropbox/Games/Company of Heroes/	Documents/My Games/company of heroes
 Dropbox/Games/CorsixTH/	.config/CorsixTH
 Dropbox/Games/Costume Quest/	Documents/Doublefine/CostumeQuest
+Dropbox/Games/Costume Quest/	Library/Application Support/Doublefine/CostumeQuest
 Dropbox/Games/Crysis 2/	Documents/Crysis2
 Dropbox/Games/D1X Rebirth/	Library/Preferences/D1X Rebirth
 Dropbox/Games/D2X Rebirth/	Library/Preferences/D2X Rebirth
@@ -113,6 +114,7 @@ Dropbox/Games/Empire - Total War/	Documents/The Creative Assembly/Empire
 Dropbox/Games/Empire Earth II The Art of Supremacy/	Documents/Empire Earth II The Art of Supremacy
 Dropbox/Games/Empire Earth II/	Documents/Empire Earth II
 Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
+Dropbox/Games/Enclave/	Library/Application Support/GOG.com/Enclave
 Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
 Dropbox/Games/FEZ/	Library/Application Support/FEZ
 Dropbox/Games/Fable 3/	Documents/Fable 3
@@ -121,6 +123,7 @@ Dropbox/Games/Fable/	Documents/My Games/Fable
 Dropbox/Games/Fahrenheit/	Documents/atari/Fahrenheit Profile
 Dropbox/Games/Fallout 3/	Documents/My Games/Fallout3
 Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
+Dropbox/Games/Fallout Tactics/	Library/Application Support/GOG.com/Fallout Tactics
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
 Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
@@ -201,6 +204,8 @@ Dropbox/Games/Saints Row 2/	Documents/THQ/Saints Row 2
 Dropbox/Games/Scratches Director's Cut/	Documents/Nucleosys/Scratches Director's Cut
 Dropbox/Games/ScummVM/	Documents/ScummVM Savegames
 Dropbox/Games/ScummVMWrapper/	Library/Application Support/SVWrapper
+Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septerra Core
+Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septtera Core
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
 Dropbox/Games/Sherlock Holmes - Mystery of the Persian Carpet/	Documents/Games/mystery of the persian carpet
 Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
@@ -214,6 +219,7 @@ Dropbox/Games/Soul Reaver 2/	Documents/Soul Reaver 2
 Dropbox/Games/Space Quest 2 VGA/	Documents/My Saved Games/Space Quest 2 VGA
 Dropbox/Games/Spring/	.spring
 Dropbox/Games/Stacking/	Documents/Doublefine/Stacking
+Dropbox/Games/Stacking/	Library/Application Support/Doublefine/Stacking
 Dropbox/Games/StarCraft II/	Documents/StarCraft II
 Dropbox/Games/StarCraft II/	Library/Application Support/Blizzard/StarCraft II
 Dropbox/Games/Stratagus/	Documents/Stratagus
