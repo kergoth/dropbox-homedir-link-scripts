@@ -1,22 +1,22 @@
 #!/bin/sh
 
 if [ $# -lt 2 ]; then
-    echo >&2 "Usage: $0 SOURCE TARGET"
+    echo >&2 "Usage: $0 PATH LINKTARGET"
     exit 1
 fi
 
-source="$1"
-source="${source#~/}"
-source="${source#$HOME/}"
+path="$1"
+path="${path#~/}"
+path="${path#$HOME/}"
 target="$2"
 if [ -d "$target" ]; then
-    source="${source%/}/"
+    path="${path%/}/"
 fi
 target="${target#~/}"
 target="${target#$HOME/}"
 target="${target%/}"
 
 
-printf "%s -> %s\n" "$target" "$source"
-printf "%s\t%s\n" "$source" "$target" >>Links.txt
+printf "%s -> %s\n" "$target" "$path"
+printf "%s\t%s\n" "$path" "$target" >>Links.txt
 sort -u Links.txt > Links.txt.new && mv Links.txt.new Links.txt
