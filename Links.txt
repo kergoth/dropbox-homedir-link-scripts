@@ -50,7 +50,6 @@ Dropbox/Games/Back to the Future Episode 4/	Documents/Telltale Games/back to the
 Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale Games/BackToTheFuture104
 Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
-Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
 Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
@@ -62,6 +61,7 @@ Dropbox/Games/Blackwell Legacy v1.7/	Documents/My Saved Games/Blackwell Legacy v
 Dropbox/Games/Blackwell Unbound/	Documents/My Saved Games/Blackwell Unbound
 Dropbox/Games/Book of Unwritten Tales/	Library/Application Support/Book of Unwritten Tales
 Dropbox/Games/Borderlands/	Documents/My Games/Borderlands
+Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Boxer/	Library/Application Support/Boxer
 Dropbox/Games/Broken Sword - Director's Cut/	Documents/Broken Sword - Director's Cut
 Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
@@ -118,6 +118,7 @@ Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
 Dropbox/Games/Enclave/	Library/Application Support/GOG.com/Enclave
 Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
 Dropbox/Games/FEZ/	Library/Application Support/FEZ
+Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
 Dropbox/Games/Fable 3/	Documents/Fable 3
 Dropbox/Games/Fable 3/Saved Games/	Documents/My Saved Games/Lionhead Studios/Fable 3
 Dropbox/Games/Fable/	Documents/My Games/Fable
@@ -127,9 +128,8 @@ Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
 Dropbox/Games/Fallout Tactics/	Library/Application Support/GOG.com/Fallout Tactics
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
-Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
-Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
 Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
+Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
 Dropbox/Games/Geneforge 5/	Documents/Spiderweb Software/Geneforge 5 Saved Games
 Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
@@ -187,8 +187,8 @@ Dropbox/Games/Puzzle Agent/	Library/Application Support/Telltale Games/Puzzle Ag
 Dropbox/Games/QFI - Demo 2.0/	Documents/My Saved Games/QFI - Demo 2.0
 Dropbox/Games/Quake 3/	Library/Application Support/Quake3
 Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 VGA
-Dropbox/Games/Rayman Origins/	Documents/My Games/Rayman Origins
 Dropbox/Games/RIFT/	Documents/RIFT
+Dropbox/Games/Rayman Origins/	Documents/My Games/Rayman Origins
 Dropbox/Games/Red Alert 3/	Documents/Red Alert 3
 Dropbox/Games/RelicDownloader/	Documents/My Games/RelicDownloader
 Dropbox/Games/Residual/	Documents/Residual Savegames
@@ -261,6 +261,7 @@ Dropbox/Games/The Walking Dead Episode 4/	Documents/Telltale Games/The Walking D
 Dropbox/Games/The Walking Dead Episode 5/	Documents/Telltale Games/The Walking Dead Episode 5
 Dropbox/Games/The Whispered World/	Documents/Daedalic Entertainment/The Whispered World
 Dropbox/Games/The Whispered World/	Library/Application Support/GOG.com/The Whispered World
+Dropbox/Games/The Witcher 2/	Library/Application Support/com.vpltd.TheWitcher2
 Dropbox/Games/The Witcher/	Documents/The Witcher
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
 Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
@@ -270,6 +271,7 @@ Dropbox/Games/Tomb Raider - Underworld/	Documents/Eidos/Tomb Raider - Underworld
 Dropbox/Games/Torchlight 2/	Documents/My Games/Runic Games/Torchlight 2
 Dropbox/Games/Torchlight/	Documents/My Saved Games/Torchlight
 Dropbox/Games/Torchlight/	Library/Application Support/runic games/torchlight
+Dropbox/Games/Total Annihilation Kingdoms/	Library/Application Support/GOG.com/Total Annihilation Kingdoms
 Dropbox/Games/Total Annihilation/	Library/Application Support/GOG.com/Total Annihilation
 Dropbox/Games/Two Worlds/Players/	Documents/Reality Pump/Two Worlds Files/Players
 Dropbox/Games/Two Worlds/Saves/	Documents/Two Worlds Saves
@@ -280,9 +282,11 @@ Dropbox/Games/Unreal Tournament 3/	Library/Application Support/Unreal Tournament
 Dropbox/Games/UnrealEngine3/	Documents/My Games/UnrealEngine3
 Dropbox/Games/VVVVVV/	Documents/VVVVVV
 Dropbox/Games/Volvo - The Game/	Documents/SimBin/Volvo - The Game
+Dropbox/Games/Waking Mars/	Library/Application Support/Waking Mars
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 1/	Documents/Telltale Games/Episode 101 - Fright of the Bumblebees
 Dropbox/Games/Warlords Battlecry II/	Documents/Warlords Battlecry II
 Dropbox/Games/Warlords Battlecry III/	Documents/Warlords Battlecry III
+Dropbox/Games/Warsow-1.0/	Library/Application Support/Warsow-1.0
 Dropbox/Games/Warzone 2100 3.1/	Library/Application Support/Warzone 2100 3.1
 Dropbox/Games/Wesnoth_1.10/	Library/Application Support/Wesnoth_1.10
 Dropbox/Games/Wings of Prey/	Documents/My Games/Wings of Prey
@@ -292,9 +296,9 @@ Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
+Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
 Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
 Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
-Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
