@@ -261,8 +261,9 @@ Dropbox/Games/The Walking Dead Episode 4/	Documents/Telltale Games/The Walking D
 Dropbox/Games/The Walking Dead Episode 5/	Documents/Telltale Games/The Walking Dead Episode 5
 Dropbox/Games/The Whispered World/	Documents/Daedalic Entertainment/The Whispered World
 Dropbox/Games/The Whispered World/	Library/Application Support/GOG.com/The Whispered World
-Dropbox/Games/The Witcher 2/	Library/Application Support/com.vpltd.TheWitcher2
+Dropbox/Games/The Witcher 2/	Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2
 Dropbox/Games/The Witcher/	Documents/The Witcher
+Dropbox/Games/The Witcher/	Library/com.cdprojektred.TheWitcher/The Witcher
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
 Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
 Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
