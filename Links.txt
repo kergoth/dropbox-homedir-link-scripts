@@ -60,6 +60,7 @@ Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v
 Dropbox/Games/Blackwell Legacy v1.7/	Documents/My Saved Games/Blackwell Legacy v1.7
 Dropbox/Games/Blackwell Unbound/	Documents/My Saved Games/Blackwell Unbound
 Dropbox/Games/Book of Unwritten Tales/	Library/Application Support/Book of Unwritten Tales
+Dropbox/Games/Book of Unwritten Tales - Critter Chronicles/	Library/Application Support/Unwritten Tales - Critter Chronicles
 Dropbox/Games/Borderlands/	Documents/My Games/Borderlands
 Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Boxer/	Library/Application Support/Boxer
@@ -123,6 +124,7 @@ Dropbox/Games/Fable 3/	Documents/Fable 3
 Dropbox/Games/Fable 3/Saved Games/	Documents/My Saved Games/Lionhead Studios/Fable 3
 Dropbox/Games/Fable/	Documents/My Games/Fable
 Dropbox/Games/Fahrenheit/	Documents/atari/Fahrenheit Profile
+Dropbox/Games/Fallout 2/	Library/Application Support/GOG.com/Fallout 2
 Dropbox/Games/Fallout 3/	Documents/My Games/Fallout3
 Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
 Dropbox/Games/Fallout Tactics/	Library/Application Support/GOG.com/Fallout Tactics
@@ -180,6 +182,7 @@ Dropbox/Games/Overlord II/	Documents/My Games/Overlord II
 Dropbox/Games/Overlord/	Documents/Overlord
 Dropbox/Games/Path of Exile/	Documents/My Games/Path of Exile
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
+Dropbox/Games/Primordia/	Documents/My Saved Games/Primordia
 Dropbox/Games/Psychonauts/	Library/Application Support/Psychonauts
 Dropbox/Games/Puddle/	Library/Puddle
 Dropbox/Games/Puzzle Agent 2/	Library/Application Support/Telltale Games/Grickle102
@@ -210,6 +213,7 @@ Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septtera Core
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
 Dropbox/Games/Sherlock Holmes - Mystery of the Persian Carpet/	Documents/Games/mystery of the persian carpet
 Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
+Dropbox/Games/Sid Meier's Alpha Centauri/	Library/Application Support/GOG.com/Sid Meier's Alpha Centauri
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/Aspyr/Sid Meier's Civilization 5
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/My Games/Sid Meier's Civilization 5
 Dropbox/Games/Sid Meier's Civilization iv/	Documents/My Games/Sid Meier's Civilization iv
