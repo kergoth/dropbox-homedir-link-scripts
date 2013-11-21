@@ -118,6 +118,7 @@ Dropbox/Games/Empire Earth II/	Documents/Empire Earth II
 Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
 Dropbox/Games/Enclave/	Library/Application Support/GOG.com/Enclave
 Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
+Dropbox/Games/Eschalon Book 2/	Library/Application Support/Basilisk Games/Book 2 Saved Games
 Dropbox/Games/FEZ/	Library/Application Support/FEZ
 Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
 Dropbox/Games/Fable 3/	Documents/Fable 3
@@ -130,10 +131,14 @@ Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
 Dropbox/Games/Fallout Tactics/	Library/Application Support/GOG.com/Fallout Tactics
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
+Dropbox/Games/Freespace/	Library/Application Support/GOG.com/Freespace
 Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
-Dropbox/Games/Geneforge 5/	Documents/Spiderweb Software/Geneforge 5 Saved Games
 Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
+Dropbox/Games/Geneforge 2/	Documents/Spiderweb Software/Geneforge 2 Saved Games
+Dropbox/Games/Geneforge 3/	Documents/Spiderweb Software/Geneforge 3 Saved Games
+Dropbox/Games/Geneforge 4/	Library/Application Support/GOG.com/Geneforge 4/Geneforge 4 Files
+Dropbox/Games/Geneforge 5/	Documents/Geneforge 5 Saved Games
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
 Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
 Dropbox/Games/Gray Matter/	Documents/GrayMatter
