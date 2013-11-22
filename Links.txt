@@ -227,6 +227,7 @@ Dropbox/Games/Skyrim/	Documents/My Games/Skyrim
 Dropbox/Games/Snes9x/	Library/Application Support/Snes9x
 Dropbox/Games/Soul Reaver 2/	Documents/Soul Reaver 2
 Dropbox/Games/Space Quest 2 VGA/	Documents/My Saved Games/Space Quest 2 VGA
+Dropbox/Games/SpaceChem/	Documents/Zachtronics Industries/SpaceChem
 Dropbox/Games/Spring/	.spring
 Dropbox/Games/Stacking/	Documents/Doublefine/Stacking
 Dropbox/Games/Stacking/	Library/Application Support/Doublefine/Stacking
