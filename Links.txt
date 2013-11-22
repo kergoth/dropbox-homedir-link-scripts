@@ -49,6 +49,7 @@ Dropbox/Games/Back to the Future Episode 3/	Library/Application Support/Telltale
 Dropbox/Games/Back to the Future Episode 4/	Documents/Telltale Games/back to the future 104
 Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale Games/BackToTheFuture104
 Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
+Dropbox/Games/Baldur's Gate II - Enhanced Edition/	Documents/Baldur's Gate II - Enhanced Edition
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
@@ -80,6 +81,11 @@ Dropbox/Games/Command & Conquer 3 Tiberium Wars/	Documents/My Saved Games/Comman
 Dropbox/Games/Command & Conquer Generals Zero Hour/	Documents/Command and Conquer Generals Zero Hour Data
 Dropbox/Games/Command & Conquer Generals/	Documents/Command and Conquer Generals Data
 Dropbox/Games/Company of Heroes/	Documents/My Games/company of heroes
+Dropbox/Games/Cognition - Episode 1/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 1
+Dropbox/Games/Cognition - Episode 2/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 2
+Dropbox/Games/Cognition - Episode 3/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 3
+Dropbox/Games/Cognition - Episode 4/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 4
+Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
 Dropbox/Games/CorsixTH/	.config/CorsixTH
 Dropbox/Games/Costume Quest/	Documents/Doublefine/CostumeQuest
 Dropbox/Games/Costume Quest/	Library/Application Support/Doublefine/CostumeQuest
