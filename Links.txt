@@ -66,6 +66,7 @@ Dropbox/Games/Borderlands/	Documents/My Games/Borderlands
 Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Boxer/	Library/Application Support/Boxer
 Dropbox/Games/Broken Sword - Director's Cut/	Documents/Broken Sword - Director's Cut
+Dropbox/Games/Broken Sword - Director's Cut/	Library/Application Support/Broken Sword - Director's Cut
 Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
 Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
