@@ -102,6 +102,7 @@ Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspan
 Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Diablo III/	Documents/Diablo III
 Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
+Dropbox/Games/Divine Divinity/	Library/Application Support/GOG.com/Divine Divinity
 Dropbox/Games/Divinity 2/	Documents/Divinity 2
 Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
 Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
