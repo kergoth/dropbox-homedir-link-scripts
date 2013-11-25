@@ -40,6 +40,7 @@ Dropbox/Games/Anomaly Korea/	Library/Application Support/Anomaly Korea
 Dropbox/Games/Aquaria/	Library/Application Support/Aquaria
 Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
+Dropbox/Games/BIT.TRIP RUNNER/	Documents/Gaijin Games/BIT.TRIP RUNNER
 Dropbox/Games/Back to the Future Episode 1/	Documents/Telltale Games/back to the future 101
 Dropbox/Games/Back to the Future Episode 1/	Library/Application Support/Telltale Games/Backtothefuture
 Dropbox/Games/Back to the Future Episode 2/	Documents/Telltale Games/back to the future 102
@@ -50,6 +51,7 @@ Dropbox/Games/Back to the Future Episode 4/	Documents/Telltale Games/back to the
 Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale Games/BackToTheFuture104
 Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
 Dropbox/Games/Baldur's Gate II - Enhanced Edition/	Documents/Baldur's Gate II - Enhanced Edition
+Dropbox/Games/Batman Arkham Asylum GOTY/	Documents/Square Enix/Batman Arkham Asylum GOTY
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
@@ -72,7 +74,9 @@ Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Applicatio
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
 Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remastered
 Dropbox/Games/Brutal Legend/	Library/Application Support/Doublefine/BrutalLegend
+Dropbox/Games/Burning Monkey Solitaire 4/	Library/Application Support/BMS4
 Dropbox/Games/Burnout Paradise/	Documents/Criterion Games/Burnout Paradise
+Dropbox/Games/Cave Story+/	Library/Application Support/Cave Story+
 Dropbox/Games/Ceville/	Documents/Ceville
 Dropbox/Games/Civilization IV/	Documents/Civilization IV
 Dropbox/Games/Command & Conquer 3 Kane's Wrath/	Documents/Command & Conquer 3 Kane's Wrath
@@ -86,6 +90,7 @@ Dropbox/Games/Cognition - Episode 1/	Library/Caches/unity.Phoenix Online Studios
 Dropbox/Games/Cognition - Episode 2/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 2
 Dropbox/Games/Cognition - Episode 3/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 3
 Dropbox/Games/Cognition - Episode 4/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 4
+Dropbox/Games/Cogs/	Library/Application Support/Cogs
 Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
 Dropbox/Games/CorsixTH/	.config/CorsixTH
 Dropbox/Games/Costume Quest/	Documents/Doublefine/CostumeQuest
@@ -168,6 +173,7 @@ Dropbox/Games/Leisure Suit Larry 7/	Library/Application Support/GOG.com/Larry 7/
 Dropbox/Games/Leisure Suit Larry Reloaded/	Library/Caches/unity.N-Fusion Interactive.LarryReloaded
 Dropbox/Games/Loom/	Documents/My Saved Games/Loom
 Dropbox/Games/Lost Horizon/	Documents/Lost Horizon
+Dropbox/Games/Lugaru/	Library/Application Support/Lugaru
 Dropbox/Games/Mage's Initiation Demo/	Documents/My Saved Games/Mage's Initiation Demo
 Dropbox/Games/Mage's Initiation/	Documents/My Saved Games/Mage's Initiation
 Dropbox/Games/Mass Effect 2/	Documents/BioWare/Mass Effect 2
@@ -292,6 +298,7 @@ Dropbox/Games/Torchlight/	Documents/My Saved Games/Torchlight
 Dropbox/Games/Torchlight/	Library/Application Support/runic games/torchlight
 Dropbox/Games/Total Annihilation Kingdoms/	Library/Application Support/GOG.com/Total Annihilation Kingdoms
 Dropbox/Games/Total Annihilation/	Library/Application Support/GOG.com/Total Annihilation
+Dropbox/Games/Tremulous/	Library/Application Support/Tremulous
 Dropbox/Games/Two Worlds/Players/	Documents/Reality Pump/Two Worlds Files/Players
 Dropbox/Games/Two Worlds/Saves/	Documents/Two Worlds Saves
 Dropbox/Games/UFO - Alien Invasion 2.4/	Documents/UFOAI-2.4
@@ -299,8 +306,9 @@ Dropbox/Games/Unknown Horizons/	.unknown-horizons
 Dropbox/Games/Unmechanical/	Documents/My Games/Unmechanical
 Dropbox/Games/Unreal Tournament 3/	Library/Application Support/Unreal Tournament 3
 Dropbox/Games/UnrealEngine3/	Documents/My Games/UnrealEngine3
-Dropbox/Games/VVVVVV/	Documents/VVVVVV
+Dropbox/Games/Vega Strike 0.5.0/	.vegastrike-0.5.0
 Dropbox/Games/Volvo - The Game/	Documents/SimBin/Volvo - The Game
+Dropbox/Games/VVVVVV/	Documents/VVVVVV
 Dropbox/Games/Waking Mars/	Library/Application Support/Waking Mars
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 1/	Documents/Telltale Games/Episode 101 - Fright of the Bumblebees
 Dropbox/Games/Warlords Battlecry II/	Documents/Warlords Battlecry II
