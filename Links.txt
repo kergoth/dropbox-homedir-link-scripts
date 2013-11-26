@@ -62,8 +62,8 @@ Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
 Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v1.6
 Dropbox/Games/Blackwell Legacy v1.7/	Documents/My Saved Games/Blackwell Legacy v1.7
 Dropbox/Games/Blackwell Unbound/	Documents/My Saved Games/Blackwell Unbound
-Dropbox/Games/Book of Unwritten Tales/	Library/Application Support/Book of Unwritten Tales
 Dropbox/Games/Book of Unwritten Tales - Critter Chronicles/	Library/Application Support/Unwritten Tales - Critter Chronicles
+Dropbox/Games/Book of Unwritten Tales/	Library/Application Support/Book of Unwritten Tales
 Dropbox/Games/Borderlands/	Documents/My Games/Borderlands
 Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Boxer/	Library/Application Support/Boxer
@@ -79,6 +79,11 @@ Dropbox/Games/Burnout Paradise/	Documents/Criterion Games/Burnout Paradise
 Dropbox/Games/Cave Story+/	Library/Application Support/Cave Story+
 Dropbox/Games/Ceville/	Documents/Ceville
 Dropbox/Games/Civilization IV/	Documents/Civilization IV
+Dropbox/Games/Cognition - Episode 1/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 1
+Dropbox/Games/Cognition - Episode 2/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 2
+Dropbox/Games/Cognition - Episode 3/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 3
+Dropbox/Games/Cognition - Episode 4/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 4
+Dropbox/Games/Cogs/	Library/Application Support/Cogs
 Dropbox/Games/Command & Conquer 3 Kane's Wrath/	Documents/Command & Conquer 3 Kane's Wrath
 Dropbox/Games/Command & Conquer 3 Kane's Wrath/	Documents/My Saved Games/Command & Conquer 3 Kane's Wrath
 Dropbox/Games/Command & Conquer 3 Tiberium Wars/	Documents/Command & Conquer 3 Tiberium Wars
@@ -86,15 +91,10 @@ Dropbox/Games/Command & Conquer 3 Tiberium Wars/	Documents/My Saved Games/Comman
 Dropbox/Games/Command & Conquer Generals Zero Hour/	Documents/Command and Conquer Generals Zero Hour Data
 Dropbox/Games/Command & Conquer Generals/	Documents/Command and Conquer Generals Data
 Dropbox/Games/Company of Heroes/	Documents/My Games/company of heroes
-Dropbox/Games/Cognition - Episode 1/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 1
-Dropbox/Games/Cognition - Episode 2/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 2
-Dropbox/Games/Cognition - Episode 3/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 3
-Dropbox/Games/Cognition - Episode 4/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 4
-Dropbox/Games/Cogs/	Library/Application Support/Cogs
-Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
 Dropbox/Games/CorsixTH/	.config/CorsixTH
 Dropbox/Games/Costume Quest/	Documents/Doublefine/CostumeQuest
 Dropbox/Games/Costume Quest/	Library/Application Support/Doublefine/CostumeQuest
+Dropbox/Games/Crayon Physics Deluxe/	Library/Application Support/Crayon Physics Deluxe
 Dropbox/Games/Crysis 2/	Documents/Crysis2
 Dropbox/Games/D1X Rebirth/	Library/Preferences/D1X Rebirth
 Dropbox/Games/D2X Rebirth/	Library/Preferences/D2X Rebirth
@@ -125,6 +125,7 @@ Dropbox/Games/Edge/	Library/com.twotribes.edge
 Dropbox/Games/Edna & Harvey - The Breakout/	Documents/EdnaSE
 Dropbox/Games/Edna & Harvey 2 - Harvey's New Eyes/	Documents/Daedalic Entertainment/Harvey
 Dropbox/Games/Elfsquad7/	Documents/SavedGames/Elfsquad7
+Dropbox/Games/Emerald City Confidential/	Library/Preferences/Emerald City Confidential
 Dropbox/Games/Empire - Total War/	Documents/The Creative Assembly/Empire
 Dropbox/Games/Empire Earth II The Art of Supremacy/	Documents/Empire Earth II The Art of Supremacy
 Dropbox/Games/Empire Earth II/	Documents/Empire Earth II
@@ -144,24 +145,29 @@ Dropbox/Games/Fallout New Vegas/	Documents/My Games/FalloutNV
 Dropbox/Games/Fallout Tactics/	Library/Application Support/GOG.com/Fallout Tactics
 Dropbox/Games/Final Fantasy VII/	Documents/Square Enix/FINAL FANTASY VII
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
+Dropbox/Games/Freespace Open/	Library/FS2_Open
 Dropbox/Games/Freespace/	Library/Application Support/GOG.com/Freespace
 Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
+Dropbox/Games/Galcon Fusion/	Library/Application Support/Galcon Fusion
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
-Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
 Dropbox/Games/Geneforge 2/	Documents/Spiderweb Software/Geneforge 2 Saved Games
 Dropbox/Games/Geneforge 3/	Documents/Spiderweb Software/Geneforge 3 Saved Games
 Dropbox/Games/Geneforge 4/	Library/Application Support/GOG.com/Geneforge 4/Geneforge 4 Files
 Dropbox/Games/Geneforge 5/	Documents/Geneforge 5 Saved Games
+Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
 Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
+Dropbox/Games/Gratuitous Space Battles/	Library/Preferences/GratuitousSpaceBattles
 Dropbox/Games/Gray Matter/	Documents/GrayMatter
 Dropbox/Games/Grotesque-Tactics/	Documents/Grotesque-Tactics
+Dropbox/Games/Hammerfight/	Library/Application Support/Hammerfight
 Dropbox/Games/Harvest/	Library/Application Support/Harvest
 Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
 Dropbox/Games/Hotline Miami/	Library/Application Support/Hotline Miami
 Dropbox/Games/Inquisitor/	Documents/Inquisitor_SaveGames
 Dropbox/Games/Jack Keane/	Documents/Jack Keane
+Dropbox/Games/Jamestown/	Library/Application Support/Jamestown
 Dropbox/Games/Jurassic Park Episode 1/	Library/Application Support/Telltale Games/JurassicPark100
 Dropbox/Games/Jurassic Park Episode 2/	Library/Application Support/Telltale Games/JurassicPark101
 Dropbox/Games/Jurassic Park Episode 3/	Library/Application Support/Telltale Games/JurassicPark103
@@ -184,6 +190,7 @@ Dropbox/Games/MegaGlest/	.megaglest
 Dropbox/Games/Men of War - Condemned Heroes/	Documents/My Games/mow condemned heroes
 Dropbox/Games/Metro 2033/	Documents/4A Games/Metro 2033
 Dropbox/Games/Mirror's Edge/	Documents/EA Games/Mirror's Edge
+Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
 Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
 Dropbox/Games/Napoleon - Total War/	Documents/The Creative Assembly/Napoleon
 Dropbox/Games/Nestopia/	Library/Application Support/Bannister/Nestopia
@@ -207,6 +214,7 @@ Dropbox/Games/Puddle/	Library/Puddle
 Dropbox/Games/Puzzle Agent 2/	Library/Application Support/Telltale Games/Grickle102
 Dropbox/Games/Puzzle Agent/	Library/Application Support/Telltale Games/Puzzle Agent
 Dropbox/Games/QFI - Demo 2.0/	Documents/My Saved Games/QFI - Demo 2.0
+Dropbox/Games/Quake 2 (Yamagi)/	.yq2
 Dropbox/Games/Quake 3/	Library/Application Support/Quake3
 Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 VGA
 Dropbox/Games/RIFT/	Documents/RIFT
@@ -218,6 +226,7 @@ Dropbox/Games/ResidualVM/	Documents/ResidualVM Savegames
 Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferences
 Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
 Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
+Dropbox/Games/Rise of the Triad Dark War/	.rott
 Dropbox/Games/Risen/	Documents/Risen
 Dropbox/Games/Rosemary/	Documents/Rosemary
 Dropbox/Games/Rush/	Library/com.twotribes.rush
@@ -306,9 +315,10 @@ Dropbox/Games/Unknown Horizons/	.unknown-horizons
 Dropbox/Games/Unmechanical/	Documents/My Games/Unmechanical
 Dropbox/Games/Unreal Tournament 3/	Library/Application Support/Unreal Tournament 3
 Dropbox/Games/UnrealEngine3/	Documents/My Games/UnrealEngine3
+Dropbox/Games/Uplink/	Library/Application Support/Uplink
+Dropbox/Games/VVVVVV/	Documents/VVVVVV
 Dropbox/Games/Vega Strike 0.5.0/	.vegastrike-0.5.0
 Dropbox/Games/Volvo - The Game/	Documents/SimBin/Volvo - The Game
-Dropbox/Games/VVVVVV/	Documents/VVVVVV
 Dropbox/Games/Waking Mars/	Library/Application Support/Waking Mars
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 1/	Documents/Telltale Games/Episode 101 - Fright of the Bumblebees
 Dropbox/Games/Warlords Battlecry II/	Documents/Warlords Battlecry II
