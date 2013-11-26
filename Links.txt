@@ -162,6 +162,7 @@ Dropbox/Games/Gray Matter/	Documents/GrayMatter
 Dropbox/Games/Grotesque-Tactics/	Documents/Grotesque-Tactics
 Dropbox/Games/Hammerfight/	Library/Application Support/Hammerfight
 Dropbox/Games/Harvest/	Library/Application Support/Harvest
+Dropbox/Games/Hedgewars/	Library/Application Support/Hedgewars
 Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
 Dropbox/Games/Hotline Miami/	Library/Application Support/Hotline Miami
