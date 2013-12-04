@@ -72,6 +72,7 @@ Dropbox/Games/Broken Sword - Director's Cut/	Library/Application Support/Broken 
 Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
 Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
+Dropbox/Games/Broken Sword 5/	Library/Application Support/Broken Sword 5
 Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remastered
 Dropbox/Games/Brutal Legend/	Library/Application Support/Doublefine/BrutalLegend
 Dropbox/Games/Burning Monkey Solitaire 4/	Library/Application Support/BMS4
@@ -157,6 +158,7 @@ Dropbox/Games/Geneforge 4/	Library/Application Support/GOG.com/Geneforge 4/Genef
 Dropbox/Games/Geneforge 5/	Documents/Geneforge 5 Saved Games
 Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
+Dropbox/Games/Gish/	Library/Application Support/Gish
 Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
 Dropbox/Games/Gratuitous Space Battles/	Library/Preferences/GratuitousSpaceBattles
 Dropbox/Games/Gray Matter/	Documents/GrayMatter
@@ -190,7 +192,9 @@ Dropbox/Games/MataHari/	Documents/MataHari
 Dropbox/Games/Medal of Honor/	Documents/EA Games/Medal of Honor
 Dropbox/Games/MegaGlest/	.megaglest
 Dropbox/Games/Men of War - Condemned Heroes/	Documents/My Games/mow condemned heroes
+Dropbox/Games/Metal Planet/	Documents/MetalPlanet
 Dropbox/Games/Metro 2033/	Documents/4A Games/Metro 2033
+Dropbox/Games/Millennium 2/	Documents/MM2_Saves
 Dropbox/Games/Mirror's Edge/	Documents/EA Games/Mirror's Edge
 Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
 Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
@@ -222,6 +226,7 @@ Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 
 Dropbox/Games/RIFT/	Documents/RIFT
 Dropbox/Games/Rayman Origins/	Documents/My Games/Rayman Origins
 Dropbox/Games/Red Alert 3/	Documents/Red Alert 3
+Dropbox/Games/Red Eclipse/	Library/Application Support/redeclipse
 Dropbox/Games/RelicDownloader/	Documents/My Games/RelicDownloader
 Dropbox/Games/Residual/	Documents/Residual Savegames
 Dropbox/Games/ResidualVM/	Documents/ResidualVM Savegames
@@ -252,6 +257,7 @@ Dropbox/Games/Skyrim/	Documents/My Games/Skyrim
 Dropbox/Games/Snes9x/	Library/Application Support/Snes9x
 Dropbox/Games/Soul Reaver 2/	Documents/Soul Reaver 2
 Dropbox/Games/Space Quest 2 VGA/	Documents/My Saved Games/Space Quest 2 VGA
+Dropbox/Games/Space Quest Incinerations/	Documents/My Saved Games/Incinerations
 Dropbox/Games/SpaceChem/	Documents/Zachtronics Industries/SpaceChem
 Dropbox/Games/Spring/	.spring
 Dropbox/Games/Stacking/	Documents/Doublefine/Stacking
@@ -273,10 +279,15 @@ Dropbox/Games/Syberia 2/	Documents/Syberia 2 Saves
 Dropbox/Games/Syberia/	Documents/Syberia Saves
 Dropbox/Games/Symphony/	Documents/Empty Clip Studios/Symphony
 Dropbox/Games/Tales of Monkey Island Episode 1/	Library/Application Support/Telltale Games/Chapter 1 - Launch of the Screaming Narwhal
+Dropbox/Games/Tales of Monkey Island Episode 1/	Library/Application Support/Telltale Games/Tales of Monkey Island - Chapter 1 - Launch of the Screaming Narwhal
 Dropbox/Games/Tales of Monkey Island Episode 2/	Library/Application Support/Telltale Games/Chapter 2 - The Siege of Spinner Cay
+Dropbox/Games/Tales of Monkey Island Episode 2/	Library/Application Support/Telltale Games/Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay
 Dropbox/Games/Tales of Monkey Island Episode 3/	Library/Application Support/Telltale Games/Chapter 3 - Lair of the Leviathan
+Dropbox/Games/Tales of Monkey Island Episode 3/	Library/Application Support/Telltale Games/Tales of Monkey Island - Chapter 3 - Lair of the Leviathan
 Dropbox/Games/Tales of Monkey Island Episode 4/	Library/Application Support/Telltale Games/Chapter 4 - The Trial and Exectution of Guybrush Threepwood
+Dropbox/Games/Tales of Monkey Island Episode 4/	Library/Application Support/Telltale Games/Tales of Monkey Island - Chapter 4 - The Trial and Exectution of Guybrush Threepwood
 Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
+Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Tales of Monkey Island - Chapter 5 - Rise of the Pirate God
 Dropbox/Games/Terraria/	Documents/My Games/Terraria
 Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaconing
 Dropbox/Games/The Bard's Tale/	Library/Application Support/The Bard's Tale
@@ -299,6 +310,7 @@ Dropbox/Games/The Whispered World/	Library/Application Support/GOG.com/The Whisp
 Dropbox/Games/The Witcher 2/	Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2
 Dropbox/Games/The Witcher/	Documents/The Witcher
 Dropbox/Games/The Witcher/	Library/com.cdprojektred.TheWitcher/The Witcher
+Dropbox/Games/The Wolf Among Us/	Library/Application Support/Telltale Games/The Wolf Among Us
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
 Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
 Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
