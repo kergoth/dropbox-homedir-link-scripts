@@ -233,6 +233,7 @@ Dropbox/Games/ResidualVM/	Documents/ResidualVM Savegames
 Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferences
 Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
 Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
+Dropbox/Games/Rico - A Tale of Two Brothers/	.Rico
 Dropbox/Games/Rise of the Triad Dark War/	.rott
 Dropbox/Games/Risen/	Documents/Risen
 Dropbox/Games/Rosemary/	Documents/Rosemary
@@ -340,6 +341,7 @@ Dropbox/Games/Warlords Battlecry III/	Documents/Warlords Battlecry III
 Dropbox/Games/Warsow-1.0/	Library/Application Support/Warsow-1.0
 Dropbox/Games/Warzone 2100 3.1/	Library/Application Support/Warzone 2100 3.1
 Dropbox/Games/Wesnoth_1.10/	Library/Application Support/Wesnoth_1.10
+Dropbox/Games/Widelands/	.widelands
 Dropbox/Games/Wings of Prey/	Documents/My Games/Wings of Prey
 Dropbox/Games/World of Tanks/	Documents/Wargaming.net/WorldOfTanks
 Dropbox/Games/World of Warplanes/	Documents/Wargaming.net/World of Warplanes
