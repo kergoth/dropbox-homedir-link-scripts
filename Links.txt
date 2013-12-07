@@ -105,6 +105,7 @@ Dropbox/Games/Dead Island/	Documents/DeadIsland
 Dropbox/Games/Dead Space 3/	Documents/EA Games/Dead Space 3
 Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
+Dropbox/Games/Deus Ex/	Documents/Deus Ex
 Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Diablo III/	Documents/Diablo III
 Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
