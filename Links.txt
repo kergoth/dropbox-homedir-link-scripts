@@ -117,6 +117,7 @@ Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
 Dropbox/Games/Dragon Age/	Documents/BioWare/Dragon Age
 Dropbox/Games/Driftmoon/	Documents/Driftmoon
 Dropbox/Games/Dune Legacy/	Library/Application Support/Dune Legacy
+Dropbox/Games/Dungeon Keeper 2/	Documents/GOG/DungeonKeeper2
 Dropbox/Games/Dungeon Siege III/	Documents/My Games/Dungeon Siege III
 Dropbox/Games/Dungeon Siege LOA/	Documents/Dungeon Siege LOA
 Dropbox/Games/Dungeon Siege/	Documents/Dungeon Siege
