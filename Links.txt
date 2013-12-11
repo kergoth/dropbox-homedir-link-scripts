@@ -159,6 +159,7 @@ Dropbox/Games/Geneforge 3/	Documents/Spiderweb Software/Geneforge 3 Saved Games
 Dropbox/Games/Geneforge 4/	Library/Application Support/GOG.com/Geneforge 4/Geneforge 4 Files
 Dropbox/Games/Geneforge 5/	Documents/Geneforge 5 Saved Games
 Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
+Dropbox/Games/Ghost Master/	Documents/Ghost Master
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
 Dropbox/Games/Gish/	Library/Application Support/Gish
 Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
