@@ -248,6 +248,8 @@ Dropbox/Games/ScummVM/	Documents/ScummVM Savegames
 Dropbox/Games/ScummVMWrapper/	Library/Application Support/SVWrapper
 Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septerra Core
 Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septtera Core
+Dropbox/Games/Shadowrun Returns/	Documents/Shadowrun Returns
+Dropbox/Games/Shadowrun Returns/	Library/Application Support/Harebrained Schemes/Shadowrun Returns
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
 Dropbox/Games/Sherlock Holmes - Mystery of the Persian Carpet/	Documents/Games/mystery of the persian carpet
 Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
