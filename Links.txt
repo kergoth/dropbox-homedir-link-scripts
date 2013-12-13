@@ -2,6 +2,10 @@
 /System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
 /System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
 /System/Library/CoreServices/Wireless Diagnostics.app/		Applications/Wireless Diagnostics.app
+@Darwin@Dropbox/Games/SpaceChem/	Documents/Zachtronics Industries/SpaceChem
+@Darwin@Dropbox/Games/SpaceChem/	.local/share/Zachtronics Industries/SpaceChem
+@Linux@Dropbox/Games/SpaceChem/	.local/share/Zachtronics Industries/SpaceChem
+@Windows@Dropbox/Games/SpaceChem/	Local Settings/Application Data/Zachtronics Industries/SpaceChem
 @Darwin@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Documents/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
 @Linux@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Documents/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
 @Windows@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Local Settings/Application Data/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
