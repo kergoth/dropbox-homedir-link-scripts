@@ -253,6 +253,7 @@ Dropbox/Games/ScummVM/	Documents/ScummVM Savegames
 Dropbox/Games/ScummVMWrapper/	Library/Application Support/SVWrapper
 Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septerra Core
 Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septtera Core
+Dropbox/Games/Shadow Warrior Classic (JFSW)/	Library/Application Support/JFShadowWarrior
 Dropbox/Games/Shadow Warrior/	Documents/Shadow Warrior
 Dropbox/Games/Shadowrun Returns/	Documents/Shadowrun Returns
 Dropbox/Games/Shadowrun Returns/	Library/Application Support/Harebrained Schemes/Shadowrun Returns
