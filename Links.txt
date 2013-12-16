@@ -183,6 +183,7 @@ Dropbox/Games/Jurassic Park Episode 2/	Library/Application Support/Telltale Game
 Dropbox/Games/Jurassic Park Episode 3/	Library/Application Support/Telltale Games/JurassicPark103
 Dropbox/Games/Jurassic Park Episode 4/	Library/Application Support/Telltale Games/JurassicPark104
 Dropbox/Games/King's Bounty - The Legend/	Library/Application Support/King' s Bounty - The Legend
+Dropbox/Games/King's Bounty Crossworlds/	Documents/My Games/Kings Bounty Crossworlds
 Dropbox/Games/King's Quest IV Remake/	Documents/My Saved Games/King's Quest IV Remake
 Dropbox/Games/La-Mulana/	Documents/NIGORO/La-Mulana
 Dropbox/Games/Leisure Suit Larry 7/	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
