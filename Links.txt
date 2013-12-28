@@ -60,6 +60,9 @@ Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
 Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
+Dropbox/Games/Bioshock 2/com.feralinteractive.bioshock2.plist	Library/Preferences/com.feralinteractive.bioshock2.plist
+Dropbox/Games/BioShock 2/Licence.txt	/Users/Shared/Feral Interactive/BioShock 2/Licence.txt
+Dropbox/Games/BioShock 2/Serial.txt	/Users/Shared/Feral Interactive/BioShock 2/Serial.txt
 Dropbox/Games/Bioshock/	Documents/Bioshock
 Dropbox/Games/Blackwell Convergence/	Documents/My Saved Games/Blackwell Convergence
 Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
@@ -81,6 +84,7 @@ Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remaster
 Dropbox/Games/Brutal Legend/	Library/Application Support/Doublefine/BrutalLegend
 Dropbox/Games/Burning Monkey Solitaire 4/	Library/Application Support/BMS4
 Dropbox/Games/Burnout Paradise/	Documents/Criterion Games/Burnout Paradise
+Dropbox/Games/Capsized/	Library/Application Support/Capsized
 Dropbox/Games/Cave Story+/	Library/Application Support/Cave Story+
 Dropbox/Games/Ceville/	Documents/Ceville
 Dropbox/Games/Civilization IV/	Documents/Civilization IV
@@ -306,6 +310,7 @@ Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaco
 Dropbox/Games/The Bard's Tale/	Library/Application Support/The Bard's Tale
 Dropbox/Games/The Cat Lady/	Documents/My Saved Games/Cat Lady
 Dropbox/Games/The Cave/	Library/Application Support/Doublefine/TheCave
+Dropbox/Games/The Chronicles of Riddick - Assault on Dark Athena/	Documents/Documents/atari/The Chronicles of Riddick - Assault on Dark Athena
 Dropbox/Games/The Chronicles of Riddick - Assault on Dark Athena/	Documents/atari/The Chronicles of Riddick - Assault on Dark Athena
 Dropbox/Games/The Dark Eye - Chains of Satinav/	Documents/Daedalic Entertainment/Satinav
 Dropbox/Games/The Longest Journey/	Documents/The Longest Journey
@@ -349,6 +354,9 @@ Dropbox/Games/Vega Strike 0.5.0/	.vegastrike-0.5.0
 Dropbox/Games/Volvo - The Game/	Documents/SimBin/Volvo - The Game
 Dropbox/Games/Waking Mars/	Library/Application Support/Waking Mars
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 1/	Documents/Telltale Games/Episode 101 - Fright of the Bumblebees
+Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 2/	Documents/Telltale Games/The Last Resort
+Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 3/	Documents/Telltale Games/Muzzled
+Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 4/	Documents/Telltale Games/The Bogey Man
 Dropbox/Games/Warlords Battlecry II/	Documents/Warlords Battlecry II
 Dropbox/Games/Warlords Battlecry III/	Documents/Warlords Battlecry III
 Dropbox/Games/Warsow-1.0/	Library/Application Support/Warsow-1.0
@@ -356,15 +364,22 @@ Dropbox/Games/Warzone 2100 3.1/	Library/Application Support/Warzone 2100 3.1
 Dropbox/Games/Wesnoth_1.10/	Library/Application Support/Wesnoth_1.10
 Dropbox/Games/Widelands/	.widelands
 Dropbox/Games/Wings of Prey/	Documents/My Games/Wings of Prey
+Dropbox/Games/World of Goo/	Library/Application Support/WorldOfGoo
 Dropbox/Games/World of Tanks/	Documents/Wargaming.net/WorldOfTanks
 Dropbox/Games/World of Warplanes/	Documents/Wargaming.net/World of Warplanes
 Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
+Dropbox/Games/Zork - Grand Inquisitor/	Library/Application Support/Zork - Grand Inquisitor
+Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
 Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
+Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Extensions/	Dropbox/Apps/Textual/Extensions
+Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles/	Dropbox/Apps/Textual/Styles
+Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist	Dropbox/Apps/Textual/com.codeux.irc.textual.plist
 Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
 Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
+Library/Containers/de.daedalic.thenightoftherabbit/Data/Library/Application Support/Daedalic Entertainment/The Night of the Rabbit/	Dropbox/Games/The Night of the Rabbit
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
