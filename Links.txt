@@ -59,10 +59,10 @@ Dropbox/Games/Batman Arkham Asylum GOTY/	Documents/Square Enix/Batman Arkham Asy
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
-Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
-Dropbox/Games/Bioshock 2/com.feralinteractive.bioshock2.plist	Library/Preferences/com.feralinteractive.bioshock2.plist
 Dropbox/Games/BioShock 2/Licence.txt	/Users/Shared/Feral Interactive/BioShock 2/Licence.txt
 Dropbox/Games/BioShock 2/Serial.txt	/Users/Shared/Feral Interactive/BioShock 2/Serial.txt
+Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
+Dropbox/Games/Bioshock 2/com.feralinteractive.bioshock2.plist	Library/Preferences/com.feralinteractive.bioshock2.plist
 Dropbox/Games/Bioshock/	Documents/Bioshock
 Dropbox/Games/Blackwell Convergence/	Documents/My Saved Games/Blackwell Convergence
 Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
@@ -81,6 +81,7 @@ Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Applicatio
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
 Dropbox/Games/Broken Sword 5/	Library/Application Support/Broken Sword 5
 Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remastered
+Dropbox/Games/Brothers - A Tale of Two Sons/	Documents/Brothers - A Tale of Two Sons
 Dropbox/Games/Brutal Legend/	Library/Application Support/Doublefine/BrutalLegend
 Dropbox/Games/Burning Monkey Solitaire 4/	Library/Application Support/BMS4
 Dropbox/Games/Burnout Paradise/	Documents/Criterion Games/Burnout Paradise
@@ -176,6 +177,7 @@ Dropbox/Games/Gray Matter/	Documents/GrayMatter
 Dropbox/Games/Grotesque-Tactics/	Documents/Grotesque-Tactics
 Dropbox/Games/Hammerfight/	Library/Application Support/Hammerfight
 Dropbox/Games/Harvest/	Library/Application Support/Harvest
+Dropbox/Games/Haunted Memories/	Library/Caches/unity.MTG.HauntedMemories
 Dropbox/Games/Hedgewars/	Library/Application Support/Hedgewars
 Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
