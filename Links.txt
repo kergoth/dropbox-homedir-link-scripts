@@ -81,7 +81,7 @@ Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Applicatio
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
 Dropbox/Games/Broken Sword 5/	Library/Application Support/Broken Sword 5
 Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remastered
-Dropbox/Games/Brothers - A Tale of Two Sons/	Documents/Brothers - A Tale of Two Sons
+Dropbox/Games/Brothers - A Tale of Two Sons/	Documents/My Games/Brothers - A Tale of Two Sons
 Dropbox/Games/Brutal Legend/	Library/Application Support/Doublefine/BrutalLegend
 Dropbox/Games/Burning Monkey Solitaire 4/	Library/Application Support/BMS4
 Dropbox/Games/Burnout Paradise/	Documents/Criterion Games/Burnout Paradise
@@ -169,6 +169,7 @@ Dropbox/Games/Geneforge 4/	Library/Application Support/GOG.com/Geneforge 4/Genef
 Dropbox/Games/Geneforge 5/	Documents/Geneforge 5 Saved Games
 Dropbox/Games/Geneforge/	Documents/Spiderweb Software/Geneforge Saved Games
 Dropbox/Games/Ghost Master/	Documents/Ghost Master
+Dropbox/Games/Giana Sisters - Rise of the Owlverlord/	Documents/Giana Sisters - Rise of the Owlverlord
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
 Dropbox/Games/Gish/	Library/Application Support/Gish
 Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
