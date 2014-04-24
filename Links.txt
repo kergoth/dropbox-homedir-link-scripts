@@ -61,6 +61,7 @@ Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
 Dropbox/Games/BioShock 2/Licence.txt	/Users/Shared/Feral Interactive/BioShock 2/Licence.txt
 Dropbox/Games/BioShock 2/Serial.txt	/Users/Shared/Feral Interactive/BioShock 2/Serial.txt
+Dropbox/Games/BioShock Infinite/	Library/Application Support/BioShock Infinite
 Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
 Dropbox/Games/Bioshock 2/com.feralinteractive.bioshock2.plist	Library/Preferences/com.feralinteractive.bioshock2.plist
 Dropbox/Games/Bioshock/	Documents/Bioshock
@@ -108,17 +109,20 @@ Dropbox/Games/Crayon Physics Deluxe/	Library/Application Support/Crayon Physics 
 Dropbox/Games/Crysis 2/	Documents/Crysis2
 Dropbox/Games/D1X Rebirth/	Library/Preferences/D1X Rebirth
 Dropbox/Games/D2X Rebirth/	Library/Preferences/D2X Rebirth
+Dropbox/Games/Darksiders/	Documents/My Games/Darksiders
 Dropbox/Games/Darwinia/	Library/Application Support/Darwinia
 Dropbox/Games/Dawn of War 2/	Documents/My Games/Dawn of War 2
 Dropbox/Games/Dead Island/	Documents/DeadIsland
 Dropbox/Games/Dead Space 3/	Documents/EA Games/Dead Space 3
 Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
+Dropbox/Games/Dead Space/	Documents/Electrontic Arts/Dead Space
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
 Dropbox/Games/Deus Ex/	Documents/Deus Ex
 Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Diablo III/	Documents/Diablo III
 Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
 Dropbox/Games/Dink Smallwood HD/	Library/Application Support/Dink Smallwood HD
+Dropbox/Games/Dishonored/	Documents/My Games/Dishonored
 Dropbox/Games/Divine Divinity/	Library/Application Support/GOG.com/Divine Divinity
 Dropbox/Games/Divinity 2/	Documents/Divinity 2
 Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
@@ -137,6 +141,7 @@ Dropbox/Games/Earth 2160/	Documents/Earth 2160
 Dropbox/Games/Edge/	Library/com.twotribes.edge
 Dropbox/Games/Edna & Harvey - The Breakout/	Documents/EdnaSE
 Dropbox/Games/Edna & Harvey 2 - Harvey's New Eyes/	Documents/Daedalic Entertainment/Harvey
+Dropbox/Games/Edna & Harvey 2 - Harvey's New Eyes/	Library/Application Support/Daedalic Entertainment/Harvey
 Dropbox/Games/Elfsquad7/	Documents/SavedGames/Elfsquad7
 Dropbox/Games/Emerald City Confidential/	Library/Preferences/Emerald City Confidential
 Dropbox/Games/Empire - Total War/	Documents/The Creative Assembly/Empire
@@ -146,6 +151,7 @@ Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
 Dropbox/Games/Enclave/	Library/Application Support/GOG.com/Enclave
 Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
 Dropbox/Games/Eschalon Book 2/	Library/Application Support/Basilisk Games/Book 2 Saved Games
+Dropbox/Games/Ethan - Meteor Hunter/	Documents/EthanMeteorHunter
 Dropbox/Games/FEZ/	Library/Application Support/FEZ
 Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
 Dropbox/Games/Fable 3/	Documents/Fable 3
@@ -181,6 +187,7 @@ Dropbox/Games/Hammerfight/	Library/Application Support/Hammerfight
 Dropbox/Games/Harvest/	Library/Application Support/Harvest
 Dropbox/Games/Haunted Memories/	Library/Caches/unity.MTG.HauntedMemories
 Dropbox/Games/Hedgewars/	Library/Application Support/Hedgewars
+Dropbox/Games/Heroine's Quest/	Documents/My Saved Games/Heroine's Quest
 Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
 Dropbox/Games/Hotline Miami/	Library/Application Support/Hotline Miami
@@ -202,6 +209,7 @@ Dropbox/Games/Lost Horizon/	Documents/Lost Horizon
 Dropbox/Games/Lugaru/	Library/Application Support/Lugaru
 Dropbox/Games/Mage's Initiation Demo/	Documents/My Saved Games/Mage's Initiation Demo
 Dropbox/Games/Mage's Initiation/	Documents/My Saved Games/Mage's Initiation
+Dropbox/Games/Mark of the Ninja/	Documents/Klei/Ninja
 Dropbox/Games/Mass Effect 2/	Documents/BioWare/Mass Effect 2
 Dropbox/Games/Mass Effect/	Documents/BioWare/Mass Effect
 Dropbox/Games/MataHari/	Documents/MataHari
@@ -212,7 +220,9 @@ Dropbox/Games/Metal Planet/	Documents/MetalPlanet
 Dropbox/Games/Metro 2033/	Documents/4A Games/Metro 2033
 Dropbox/Games/Millennium 2/	Documents/MM2_Saves
 Dropbox/Games/Mirror's Edge/	Documents/EA Games/Mirror's Edge
+Dropbox/Games/Mitsurugi Kamui Hikae/	Documents/mitsurugi01
 Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
+Dropbox/Games/Mutant Blobs Attack/	Documents/Mutant Blobs Attack
 Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
 Dropbox/Games/Napoleon - Total War/	Documents/The Creative Assembly/Napoleon
 Dropbox/Games/Nestopia/	Library/Application Support/Bannister/Nestopia
@@ -228,6 +238,7 @@ Dropbox/Games/OpenTyrian/	Library/Application Support/OpenTyrian
 Dropbox/Games/Orcs Must Die/	Documents/Orcs Must Die
 Dropbox/Games/Overlord II/	Documents/My Games/Overlord II
 Dropbox/Games/Overlord/	Documents/Overlord
+Dropbox/Games/Paragon/	Documents/BipolarDesign/Paragon
 Dropbox/Games/Path of Exile/	Documents/My Games/Path of Exile
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
 Dropbox/Games/Primordia/	Documents/My Saved Games/Primordia
@@ -262,6 +273,7 @@ Dropbox/Games/ScummVM/	Documents/ScummVM Savegames
 Dropbox/Games/ScummVMWrapper/	Library/Application Support/SVWrapper
 Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septerra Core
 Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septtera Core
+Dropbox/Games/Sepulchre/	Documents/My Saved Games/Sepulchre
 Dropbox/Games/Shadow Warrior Classic (JFSW)/	Library/Application Support/JFShadowWarrior
 Dropbox/Games/Shadow Warrior/	Documents/Shadow Warrior
 Dropbox/Games/Shadowrun Returns/	Documents/Shadowrun Returns
@@ -269,9 +281,11 @@ Dropbox/Games/Shadowrun Returns/	Library/Application Support/Harebrained Schemes
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
 Dropbox/Games/Sherlock Holmes - Mystery of the Persian Carpet/	Documents/Games/mystery of the persian carpet
 Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
+Dropbox/Games/Shipwreck/	Documents/my games/Shipwreck
 Dropbox/Games/Sid Meier's Alpha Centauri/	Library/Application Support/GOG.com/Sid Meier's Alpha Centauri
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/Aspyr/Sid Meier's Civilization 5
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/My Games/Sid Meier's Civilization 5
+Dropbox/Games/Sid Meier's Civilization IV - Colonization/	Documents/Aspyr/Colonization
 Dropbox/Games/Sid Meier's Civilization iv/	Documents/My Games/Sid Meier's Civilization iv
 Dropbox/Games/SimCity 4/	Documents/SimCity 4
 Dropbox/Games/Skyrim/	Documents/My Games/Skyrim
@@ -294,6 +308,7 @@ Dropbox/Games/Strong Bad Episode 3/	Library/Application Support/Telltale Games/H
 Dropbox/Games/Strong Bad Episode 4/	Library/Application Support/Telltale Games/Homestar 404
 Dropbox/Games/Strong Bad Episode 5/	Library/Application Support/Telltale Games/Homestar 505
 Dropbox/Games/Supreme Commander 2/	Documents/My Games/Gas Powered Games/Supreme Commander 2
+Dropbox/Games/Supreme Commander 2/	Documents/My Games/SquareEnix/Supreme Commander 2
 Dropbox/Games/Supreme Commander Forged Alliance/	Documents/My Games/Gas Powered Games/Supreme Commander Forged Alliance
 Dropbox/Games/Supreme Commander/	Documents/Gas Powered Games/SupremeCommander
 Dropbox/Games/Syberia 2/	Documents/Syberia 2 Saves
@@ -317,9 +332,12 @@ Dropbox/Games/The Cave/	Library/Application Support/Doublefine/TheCave
 Dropbox/Games/The Chronicles of Riddick - Assault on Dark Athena/	Documents/Documents/atari/The Chronicles of Riddick - Assault on Dark Athena
 Dropbox/Games/The Chronicles of Riddick - Assault on Dark Athena/	Documents/atari/The Chronicles of Riddick - Assault on Dark Athena
 Dropbox/Games/The Dark Eye - Chains of Satinav/	Documents/Daedalic Entertainment/Satinav
+Dropbox/Games/The Inner World/	Documents/TheInnerWorld
 Dropbox/Games/The Longest Journey/	Documents/The Longest Journey
 Dropbox/Games/The Lost Inca Prophecy 2/	Documents/Seppia/LostInca2
 Dropbox/Games/The Misadventures of P.B. Winterbottom/	Documents/2K Play/The Misadventures of P.B. Winterbottom
+Dropbox/Games/The Sea Will Claim Everything/	Documents/The Sea Will Claim Everything
+Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/LucasArts/The Secret of Monkey Island Special Edition
 Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/The Secret of Monkey Island Special Edition
 Dropbox/Games/The Sims 3/	Documents/Electronic Arts/The Sims 3
 Dropbox/Games/The Ur-Quan Masters/	.uqm
@@ -335,6 +353,7 @@ Dropbox/Games/The Witcher/	Documents/The Witcher
 Dropbox/Games/The Witcher/	Library/com.cdprojektred.TheWitcher/The Witcher
 Dropbox/Games/The Wolf Among Us/	Library/Application Support/Telltale Games/The Wolf Among Us
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
+Dropbox/Games/To the Moon Holiday Special Minisode/	Documents/Siggy Holiday - Freebird Games
 Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
 Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
 Dropbox/Games/Tomb Raider - Anniversary/	Documents/Eidos/Tomb Raider - Anniversary
@@ -372,6 +391,7 @@ Dropbox/Games/World of Goo/	Library/Application Support/WorldOfGoo
 Dropbox/Games/World of Tanks/	Documents/Wargaming.net/WorldOfTanks
 Dropbox/Games/World of Warplanes/	Documents/Wargaming.net/World of Warplanes
 Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
+Dropbox/Games/XMoto/	Library/Application Support/xmoto
 Dropbox/Games/Zork - Grand Inquisitor/	Library/Application Support/Zork - Grand Inquisitor
 Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
