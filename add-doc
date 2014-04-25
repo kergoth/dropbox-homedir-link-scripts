@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if [ $# -lt 1 ]; then
+    echo >&2 "Usage: ${0##*/} DROPBOX_SUBDIR DOCUMENTS_SUBDIR"
+    exit 2
+fi
+
+dropboxdir="$1"
+docdir="${2:-$1}"
+
+exec "$(dirname "$0")/add" Dropbox/Games/"$dropboxdir"/ Documents/"$docdir"
