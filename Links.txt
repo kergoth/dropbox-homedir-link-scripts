@@ -65,6 +65,7 @@ Dropbox/Games/BioShock Infinite/	Library/Application Support/BioShock Infinite
 Dropbox/Games/Bioshock 2/	Library/Application Support/Feral Interactive/BioShock 2
 Dropbox/Games/Bioshock 2/com.feralinteractive.bioshock2.plist	Library/Preferences/com.feralinteractive.bioshock2.plist
 Dropbox/Games/Bioshock/	Documents/Bioshock
+Dropbox/Games/Blackthorne/	Library/Application Support/Blizzard/Blackthorne
 Dropbox/Games/Blackwell Convergence/	Documents/My Saved Games/Blackwell Convergence
 Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
 Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v1.6
