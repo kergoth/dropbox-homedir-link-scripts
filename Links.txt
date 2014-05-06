@@ -347,6 +347,7 @@ Dropbox/Games/The Walking Dead Episode 2/	Documents/Telltale Games/The Walking D
 Dropbox/Games/The Walking Dead Episode 3/	Documents/Telltale Games/The Walking Dead Episode 3
 Dropbox/Games/The Walking Dead Episode 4/	Documents/Telltale Games/The Walking Dead Episode 4
 Dropbox/Games/The Walking Dead Episode 5/	Documents/Telltale Games/The Walking Dead Episode 5
+Dropbox/Games/The Whispered World Special Edition/	Library/Application Support/Daedalic Entertainment GmbH/The Whispered World Special Edition
 Dropbox/Games/The Whispered World/	Documents/Daedalic Entertainment/The Whispered World
 Dropbox/Games/The Whispered World/	Library/Application Support/GOG.com/The Whispered World
 Dropbox/Games/The Witcher 2/	Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2
