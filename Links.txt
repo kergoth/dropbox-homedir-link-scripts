@@ -90,6 +90,7 @@ Dropbox/Games/Burnout Paradise/	Documents/Criterion Games/Burnout Paradise
 Dropbox/Games/Capsized/	Library/Application Support/Capsized
 Dropbox/Games/Cave Story+/	Library/Application Support/Cave Story+
 Dropbox/Games/Ceville/	Documents/Ceville
+Dropbox/Games/Children of the Nile/	Documents/Tilted Mill/Children of the Nile
 Dropbox/Games/Civilization IV/	Documents/Civilization IV
 Dropbox/Games/Cognition - Episode 1/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 1
 Dropbox/Games/Cognition - Episode 2/	Library/Caches/unity.Phoenix Online Studios.Cognition - Episode 2
@@ -263,6 +264,7 @@ Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
 Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
 Dropbox/Games/Rico - A Tale of Two Brothers/	.Rico
 Dropbox/Games/Rise of the Triad Dark War/	.rott
+Dropbox/Games/Risen 2/	Documents/Risen2
 Dropbox/Games/Risen/	Documents/Risen
 Dropbox/Games/Rosemary/	Documents/Rosemary
 Dropbox/Games/Rush/	Library/com.twotribes.rush
