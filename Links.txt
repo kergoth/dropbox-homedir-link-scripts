@@ -1,4 +1,3 @@
-#Dropbox/Games/Jack Keane/	Library/Application Support/RuneSoft/JackKeane
 /System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
 /System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
 /System/Library/CoreServices/Wireless Diagnostics.app/		Applications/Wireless Diagnostics.app
@@ -118,6 +117,8 @@ Dropbox/Games/Dead Island/	Documents/DeadIsland
 Dropbox/Games/Dead Space 3/	Documents/EA Games/Dead Space 3
 Dropbox/Games/Dead Space/	Documents/Electronic Arts/Dead Space
 Dropbox/Games/Dead Space/	Documents/Electrontic Arts/Dead Space
+Dropbox/Games/DeathSpank - Thongs of Virtue/	Documents/Hothead Games/DeathSpankTOV
+Dropbox/Games/DeathSpank - Thongs of Virtue/	Documents/SKIDROW/SAVES/18050
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
 Dropbox/Games/Deus Ex/	Documents/Deus Ex
 Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
@@ -130,6 +131,7 @@ Dropbox/Games/Divinity 2/	Documents/Divinity 2
 Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
 Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
 Dropbox/Games/Dragon Age/	Documents/BioWare/Dragon Age
+Dropbox/Games/Dreamfall/	Library/Application Support/Dreamfall
 Dropbox/Games/Driftmoon/	Documents/Driftmoon
 Dropbox/Games/Dune Legacy/	Library/Application Support/Dune Legacy
 Dropbox/Games/Dungeon Keeper 2/	Documents/GOG/DungeonKeeper2
@@ -190,11 +192,13 @@ Dropbox/Games/Harvest/	Library/Application Support/Harvest
 Dropbox/Games/Haunted Memories/	Library/Caches/unity.MTG.HauntedMemories
 Dropbox/Games/Hedgewars/	Library/Application Support/Hedgewars
 Dropbox/Games/Heroine's Quest/	Documents/My Saved Games/Heroine's Quest
+Dropbox/Games/Heroine's Quest/	Documents/My Saved Games/Heroine's Quest 1.2
 Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
 Dropbox/Games/Hotline Miami/	Library/Application Support/Hotline Miami
 Dropbox/Games/Inquisitor/	Documents/Inquisitor_SaveGames
 Dropbox/Games/Jack Keane/	Documents/Jack Keane
+Dropbox/Games/Jack Keane/	Library/Application Support/RuneSoft/JackKeane
 Dropbox/Games/Jamestown/	Library/Application Support/Jamestown
 Dropbox/Games/Jurassic Park Episode 1/	Library/Application Support/Telltale Games/JurassicPark100
 Dropbox/Games/Jurassic Park Episode 2/	Library/Application Support/Telltale Games/JurassicPark101
@@ -203,6 +207,7 @@ Dropbox/Games/Jurassic Park Episode 4/	Library/Application Support/Telltale Game
 Dropbox/Games/King's Bounty - The Legend/	Library/Application Support/King' s Bounty - The Legend
 Dropbox/Games/King's Bounty Crossworlds/	Documents/My Games/Kings Bounty Crossworlds
 Dropbox/Games/King's Quest IV Remake/	Documents/My Saved Games/King's Quest IV Remake
+Dropbox/Games/L.A. Noire/	Documents/Rockstar Games/L.A. Noire
 Dropbox/Games/La-Mulana/	Documents/NIGORO/La-Mulana
 Dropbox/Games/Leisure Suit Larry 7/	Library/Application Support/GOG.com/Larry 7/Sierra/Leisure Suit Larry 7
 Dropbox/Games/Leisure Suit Larry Reloaded/	Library/Caches/unity.N-Fusion Interactive.LarryReloaded
@@ -243,6 +248,7 @@ Dropbox/Games/Overlord/	Documents/Overlord
 Dropbox/Games/Paragon/	Documents/BipolarDesign/Paragon
 Dropbox/Games/Path of Exile/	Documents/My Games/Path of Exile
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
+Dropbox/Games/Planeshift/	Library/Application Support/Planeshift
 Dropbox/Games/Primordia/	Documents/My Saved Games/Primordia
 Dropbox/Games/Psychonauts/	Library/Application Support/Psychonauts
 Dropbox/Games/Puddle/	Library/Puddle
@@ -312,6 +318,7 @@ Dropbox/Games/Strong Bad Episode 4/	Library/Application Support/Telltale Games/H
 Dropbox/Games/Strong Bad Episode 5/	Library/Application Support/Telltale Games/Homestar 505
 Dropbox/Games/Supreme Commander 2/	Documents/My Games/Gas Powered Games/Supreme Commander 2
 Dropbox/Games/Supreme Commander 2/	Documents/My Games/SquareEnix/Supreme Commander 2
+Dropbox/Games/Supreme Commander Forged Alliance/	Documents/Gas Powered Games/Supreme Commander Forged Alliance
 Dropbox/Games/Supreme Commander Forged Alliance/	Documents/My Games/Gas Powered Games/Supreme Commander Forged Alliance
 Dropbox/Games/Supreme Commander/	Documents/Gas Powered Games/SupremeCommander
 Dropbox/Games/Syberia 2/	Documents/Syberia 2 Saves
