@@ -250,6 +250,7 @@ Dropbox/Games/Path of Exile/	Documents/My Games/Path of Exile
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
 Dropbox/Games/Planeshift/	Library/Application Support/Planeshift
 Dropbox/Games/Primordia/	Documents/My Saved Games/Primordia
+Dropbox/Games/Proteus/	Library/Application Support/Proteus
 Dropbox/Games/Psychonauts/	Library/Application Support/Psychonauts
 Dropbox/Games/Puddle/	Library/Puddle
 Dropbox/Games/Puzzle Agent 2/	Library/Application Support/Telltale Games/Grickle102
