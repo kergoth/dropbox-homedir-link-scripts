@@ -40,6 +40,7 @@ Dropbox/Games/Al Emmo and the Lost Dutchmans Mine/	Documents/My Saved Games/Al E
 Dropbox/Games/And Yet It Moves/	Library/Application Support/Broken Rules/And Yet It Moves
 Dropbox/Games/Anki/	Documents/Anki
 Dropbox/Games/Anomaly Korea/	Library/Application Support/Anomaly Korea
+Dropbox/Games/Anomaly Warzone Earth/	Library/Application Support/Anomaly Warzone Earth
 Dropbox/Games/Aquaria/	Library/Application Support/Aquaria
 Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
@@ -231,6 +232,7 @@ Dropbox/Games/Mitsurugi Kamui Hikae/	Documents/mitsurugi01
 Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
 Dropbox/Games/Mutant Blobs Attack/	Documents/Mutant Blobs Attack
 Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
+Dropbox/Games/My Nuclear Octopus/	Library/Application Support/mno.psychicparrotgames.com
 Dropbox/Games/Napoleon - Total War/	Documents/The Creative Assembly/Napoleon
 Dropbox/Games/Nestopia/	Library/Application Support/Bannister/Nestopia
 Dropbox/Games/Neverwinter Nights 2/	Documents/Neverwinter Nights 2
@@ -351,6 +353,7 @@ Dropbox/Games/The Sea Will Claim Everything/	Documents/The Sea Will Claim Everyt
 Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/LucasArts/The Secret of Monkey Island Special Edition
 Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/The Secret of Monkey Island Special Edition
 Dropbox/Games/The Sims 3/	Documents/Electronic Arts/The Sims 3
+Dropbox/Games/The Swapper/	Library/Application Support/Facepalm Games/The Swapper 1000
 Dropbox/Games/The Ur-Quan Masters/	.uqm
 Dropbox/Games/The Walking Dead Episode 1/	Documents/Telltale Games/The Walking Dead Episode 1
 Dropbox/Games/The Walking Dead Episode 2/	Documents/Telltale Games/The Walking Dead Episode 2
