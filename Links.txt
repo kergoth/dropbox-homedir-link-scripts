@@ -275,6 +275,7 @@ Dropbox/Games/Rico - A Tale of Two Brothers/	.Rico
 Dropbox/Games/Rise of the Triad Dark War/	.rott
 Dropbox/Games/Risen 2/	Documents/Risen2
 Dropbox/Games/Risen/	Documents/Risen
+Dropbox/Games/Rogue Legacy/	Library/Application Support/RogueLegacyStorageContainer
 Dropbox/Games/Rosemary/	Documents/Rosemary
 Dropbox/Games/Rush/	Library/com.twotribes.rush
 Dropbox/Games/Sacred 2/	Documents/Ascaron Entertainment/Sacred 2
