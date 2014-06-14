@@ -223,6 +223,7 @@ Dropbox/Games/Mass Effect/	Documents/BioWare/Mass Effect
 Dropbox/Games/MataHari/	Documents/MataHari
 Dropbox/Games/Medal of Honor/	Documents/EA Games/Medal of Honor
 Dropbox/Games/MegaGlest/	.megaglest
+Dropbox/Games/Memoria/	Library/Application Support/Daedalic Entertainment/Memoria
 Dropbox/Games/Men of War - Condemned Heroes/	Documents/My Games/mow condemned heroes
 Dropbox/Games/Metal Planet/	Documents/MetalPlanet
 Dropbox/Games/Metro 2033/	Documents/4A Games/Metro 2033
