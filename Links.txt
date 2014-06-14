@@ -141,6 +141,7 @@ Dropbox/Games/Dungeon Siege LOA/	Documents/Dungeon Siege LOA
 Dropbox/Games/Dungeon Siege/	Documents/Dungeon Siege
 Dropbox/Games/Dungeons of Dredmor/	Documents/Gaslamp Games/Dungeons of Dredmor
 Dropbox/Games/Dungeons of Dredmor/	Library/Application Support/Dungeons of Dredmor
+Dropbox/Games/Dynamite Jack/	Library/Application Support/Dynamite Jack
 Dropbox/Games/EDuke32/	Library/Application Support/EDuke32
 Dropbox/Games/Earth 2160/	Documents/Earth 2160
 Dropbox/Games/Edge/	Library/com.twotribes.edge
@@ -303,6 +304,7 @@ Dropbox/Games/Sid Meier's Civilization IV - Colonization/	Documents/Aspyr/Coloni
 Dropbox/Games/Sid Meier's Civilization iv/	Documents/My Games/Sid Meier's Civilization iv
 Dropbox/Games/SimCity 4/	Documents/SimCity 4
 Dropbox/Games/Skyrim/	Documents/My Games/Skyrim
+Dropbox/Games/Sleepwalker's Journey HD/	Library/Application Support/Sleepwalker's Journey HD NonAppstore
 Dropbox/Games/Snes9x/	Library/Application Support/Snes9x
 Dropbox/Games/Soul Reaver 2/	Documents/Soul Reaver 2
 Dropbox/Games/Space Quest 2 VGA/	Documents/My Saved Games/Space Quest 2 VGA
