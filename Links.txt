@@ -121,6 +121,8 @@ Dropbox/Games/Dead Space/	Documents/Electrontic Arts/Dead Space
 Dropbox/Games/DeathSpank - Thongs of Virtue/	Documents/Hothead Games/DeathSpankTOV
 Dropbox/Games/DeathSpank - Thongs of Virtue/	Documents/SKIDROW/SAVES/18050
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
+Dropbox/Games/Deponia 2/	Library/Application Support/Daedalic Entertainment/Deponia 2
+Dropbox/Games/Deponia 3/	Library/Application Support/Daedalic Entertainment/Deponia 3
 Dropbox/Games/Deus Ex/	Documents/Deus Ex
 Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Diablo III/	Documents/Diablo III
@@ -219,6 +221,7 @@ Dropbox/Games/Lost Horizon/	Documents/Lost Horizon
 Dropbox/Games/Lugaru/	Library/Application Support/Lugaru
 Dropbox/Games/Mage's Initiation Demo/	Documents/My Saved Games/Mage's Initiation Demo
 Dropbox/Games/Mage's Initiation/	Documents/My Saved Games/Mage's Initiation
+Dropbox/Games/Magrunner - Dark Pulse/	Documents/my games/Magrunner/YoshiGame
 Dropbox/Games/Mark of the Ninja/	Documents/Klei/Ninja
 Dropbox/Games/Mass Effect 2/	Documents/BioWare/Mass Effect 2
 Dropbox/Games/Mass Effect/	Documents/BioWare/Mass Effect
