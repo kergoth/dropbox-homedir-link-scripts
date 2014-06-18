@@ -206,6 +206,7 @@ Dropbox/Games/Jurassic Park Episode 1/	Library/Application Support/Telltale Game
 Dropbox/Games/Jurassic Park Episode 2/	Library/Application Support/Telltale Games/JurassicPark101
 Dropbox/Games/Jurassic Park Episode 3/	Library/Application Support/Telltale Games/JurassicPark103
 Dropbox/Games/Jurassic Park Episode 4/	Library/Application Support/Telltale Games/JurassicPark104
+Dropbox/Games/Kentucky Route Zero/	Documents/KentuckyRouteZero
 Dropbox/Games/King's Bounty - The Legend/	Library/Application Support/King' s Bounty - The Legend
 Dropbox/Games/King's Bounty Crossworlds/	Documents/My Games/Kings Bounty Crossworlds
 Dropbox/Games/King's Quest IV Remake/	Documents/My Saved Games/King's Quest IV Remake
@@ -292,8 +293,8 @@ Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septtera Core
 Dropbox/Games/Sepulchre/	Documents/My Saved Games/Sepulchre
 Dropbox/Games/Shadow Warrior Classic (JFSW)/	Library/Application Support/JFShadowWarrior
 Dropbox/Games/Shadow Warrior/	Documents/Shadow Warrior
-Dropbox/Games/Shadowgrounds/	Library/Shadowgrounds
 Dropbox/Games/Shadowgrounds Survivor/	Library/Survivor
+Dropbox/Games/Shadowgrounds/	Library/Shadowgrounds
 Dropbox/Games/Shadowrun Returns/	Documents/Shadowrun Returns
 Dropbox/Games/Shadowrun Returns/	Library/Application Support/Harebrained Schemes/Shadowrun Returns
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
