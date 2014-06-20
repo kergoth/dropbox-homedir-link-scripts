@@ -68,6 +68,7 @@ Dropbox/Games/Bioshock/	Documents/Bioshock
 Dropbox/Games/Blackthorne/	Library/Application Support/Blizzard/Blackthorne
 Dropbox/Games/Blackwell Convergence/	Documents/My Saved Games/Blackwell Convergence
 Dropbox/Games/Blackwell Deception/	Documents/My Saved Games/Blackwell Deception
+Dropbox/Games/Blackwell Epiphany/	Documents/My Saved Games/Blackwell Epiphany
 Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v1.6
 Dropbox/Games/Blackwell Legacy v1.7/	Documents/My Saved Games/Blackwell Legacy v1.7
 Dropbox/Games/Blackwell Unbound/	Documents/My Saved Games/Blackwell Unbound
@@ -156,10 +157,12 @@ Dropbox/Games/Empire - Total War/	Documents/The Creative Assembly/Empire
 Dropbox/Games/Empire Earth II The Art of Supremacy/	Documents/Empire Earth II The Art of Supremacy
 Dropbox/Games/Empire Earth II/	Documents/Empire Earth II
 Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
+Dropbox/Games/Empire Total War/	Library/Application Support/Feral Interactive/Empire Total War
 Dropbox/Games/Enclave/	Library/Application Support/GOG.com/Enclave
 Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
 Dropbox/Games/Eschalon Book 2/	Library/Application Support/Basilisk Games/Book 2 Saved Games
 Dropbox/Games/Ethan - Meteor Hunter/	Documents/EthanMeteorHunter
+Dropbox/Games/F1 2013/	Library/Application Support/Feral Interactive/F1 2013
 Dropbox/Games/FEZ/	Library/Application Support/FEZ
 Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
 Dropbox/Games/Fable 3/	Documents/Fable 3
@@ -241,6 +244,7 @@ Dropbox/Games/Mutant Blobs Attack/	Documents/Mutant Blobs Attack
 Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
 Dropbox/Games/My Nuclear Octopus/	Library/Application Support/mno.psychicparrotgames.com
 Dropbox/Games/Napoleon - Total War/	Documents/The Creative Assembly/Napoleon
+Dropbox/Games/Napoleon Total War/	Library/Application Support/Feral Interactive/Napoleon Total War
 Dropbox/Games/Nestopia/	Library/Application Support/Bannister/Nestopia
 Dropbox/Games/Neverwinter Nights 2/	Documents/Neverwinter Nights 2
 Dropbox/Games/Neverwinter Nights 2/	Library/Application Support/Neverwinter Nights 2
@@ -417,6 +421,7 @@ Dropbox/Games/World of Goo/	Library/Application Support/WorldOfGoo
 Dropbox/Games/World of Tanks/	Documents/Wargaming.net/WorldOfTanks
 Dropbox/Games/World of Warplanes/	Documents/Wargaming.net/World of Warplanes
 Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
+Dropbox/Games/XCOM Enemy Unknown/	Library/Application Support/Feral Interactive/XCOM Enemy Unknown
 Dropbox/Games/XMoto/	Library/Application Support/xmoto
 Dropbox/Games/Zork - Grand Inquisitor/	Library/Application Support/Zork - Grand Inquisitor
 Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
