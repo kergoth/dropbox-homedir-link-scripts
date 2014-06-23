@@ -75,6 +75,7 @@ Dropbox/Games/Blackwell Legacy v1.7/	Documents/My Saved Games/Blackwell Legacy v
 Dropbox/Games/Blackwell Unbound/	Documents/My Saved Games/Blackwell Unbound
 Dropbox/Games/Book of Unwritten Tales - Critter Chronicles/	Library/Application Support/Unwritten Tales - Critter Chronicles
 Dropbox/Games/Book of Unwritten Tales/	Library/Application Support/Book of Unwritten Tales
+Dropbox/Games/Borderlands 2/	Library/Application Support/Borderlands 2/WillowGame
 Dropbox/Games/Borderlands/	Documents/My Games/Borderlands
 Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Boxer/	Library/Application Support/Boxer
