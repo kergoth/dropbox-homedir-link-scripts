@@ -437,6 +437,7 @@ Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.ir
 Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
 Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
 Library/Containers/de.daedalic.thenightoftherabbit/Data/Library/Application Support/Daedalic Entertainment/The Night of the Rabbit/	Dropbox/Games/The Night of the Rabbit
+Library/Containers/com.11bitstudios.funkysmugglersmacother/Data/Library/Application Support/Funky Smugglers	Dropbox/Games/Funky Smugglers
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
