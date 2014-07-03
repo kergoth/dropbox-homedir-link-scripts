@@ -81,11 +81,11 @@ Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Boxer/	Library/Application Support/Boxer
 Dropbox/Games/Broken Sword - Director's Cut/	Documents/Broken Sword - Director's Cut
 Dropbox/Games/Broken Sword - Director's Cut/	Library/Application Support/Broken Sword - Director's Cut
-Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
+Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Documents/Broken Sword II - Remastered
 Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
+Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
 Dropbox/Games/Broken Sword 5/	Library/Application Support/Broken Sword 5
-Dropbox/Games/Broken Sword II - Remastered/	Documents/Broken Sword II - Remastered
 Dropbox/Games/Brothers - A Tale of Two Sons/	Documents/My Games/Brothers - A Tale of Two Sons
 Dropbox/Games/Brutal Legend/	Library/Application Support/Doublefine/BrutalLegend
 Dropbox/Games/Burning Monkey Solitaire 4/	Library/Application Support/BMS4
@@ -180,6 +180,7 @@ Dropbox/Games/FreeCol/	Library/FreeCol
 Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
 Dropbox/Games/Freespace Open/	Library/FS2_Open
 Dropbox/Games/Freespace/	Library/Application Support/GOG.com/Freespace
+Dropbox/Games/Frozen Synapse/	Library/Application Support/FrozenSynapse
 Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
 Dropbox/Games/Galcon Fusion/	Library/Application Support/Galcon Fusion
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
@@ -429,6 +430,7 @@ Dropbox/Games/Zork - Grand Inquisitor/	Library/Application Support/Zork - Grand 
 Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
+Library/Containers/com.11bitstudios.funkysmugglersmacother/Data/Library/Application Support/Funky Smugglers	Dropbox/Games/Funky Smugglers
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
 Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
 Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Extensions/	Dropbox/Apps/Textual/Extensions
@@ -437,7 +439,6 @@ Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.ir
 Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
 Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
 Library/Containers/de.daedalic.thenightoftherabbit/Data/Library/Application Support/Daedalic Entertainment/The Night of the Rabbit/	Dropbox/Games/The Night of the Rabbit
-Library/Containers/com.11bitstudios.funkysmugglersmacother/Data/Library/Application Support/Funky Smugglers	Dropbox/Games/Funky Smugglers
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
