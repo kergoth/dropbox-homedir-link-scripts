@@ -41,6 +41,8 @@ Dropbox/Games/And Yet It Moves/	Library/Application Support/Broken Rules/And Yet
 Dropbox/Games/Anki/	Documents/Anki
 Dropbox/Games/Anomaly Korea/	Library/Application Support/Anomaly Korea
 Dropbox/Games/Anomaly Warzone Earth/	Library/Application Support/Anomaly Warzone Earth
+Dropbox/Games/Antichamber/com.Demruth.Antichamber.plist	Library/Preferences/com.Demruth.Antichamber.plist
+Dropbox/Games/Antichamber/com.Demruth.Antichamber.savedState	Library/Saved Application State/com.Demruth.Antichamber.savedState
 Dropbox/Games/Aquaria/	Library/Application Support/Aquaria
 Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
@@ -81,10 +83,10 @@ Dropbox/Games/Botanicula/	Library/Application Support/Amanita Design/Botanicula
 Dropbox/Games/Boxer/	Library/Application Support/Boxer
 Dropbox/Games/Broken Sword - Director's Cut/	Documents/Broken Sword - Director's Cut
 Dropbox/Games/Broken Sword - Director's Cut/	Library/Application Support/Broken Sword - Director's Cut
+Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
 Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Documents/Broken Sword II - Remastered
 Dropbox/Games/Broken Sword - The Smoking Mirror - Remastered/	Library/Application Support/Broken Sword - The Smoking Mirror - Remastered
 Dropbox/Games/Broken Sword 2.5/	Documents/Broken Sword 2.5
-Dropbox/Games/Broken Sword - The Angel of Death/	Documents/Broken Sword - The Angel of Death
 Dropbox/Games/Broken Sword 5/	Library/Application Support/Broken Sword 5
 Dropbox/Games/Brothers - A Tale of Two Sons/	Documents/My Games/Brothers - A Tale of Two Sons
 Dropbox/Games/Brutal Legend/	Library/Application Support/Doublefine/BrutalLegend
@@ -170,6 +172,7 @@ Dropbox/Games/FTL/	Library/Application Support/FasterThanLight
 Dropbox/Games/Fable 3/	Documents/Fable 3
 Dropbox/Games/Fable 3/Saved Games/	Documents/My Saved Games/Lionhead Studios/Fable 3
 Dropbox/Games/Fable/	Documents/My Games/Fable
+Dropbox/Games/Face Noir/	Documents/Face Noir
 Dropbox/Games/Fahrenheit/	Documents/atari/Fahrenheit Profile
 Dropbox/Games/Fallout 2/	Library/Application Support/GOG.com/Fallout 2
 Dropbox/Games/Fallout 3/	Documents/My Games/Fallout3
@@ -284,6 +287,7 @@ Dropbox/Games/Residual/	Documents/Residual Savegames
 Dropbox/Games/ResidualVM/	Documents/ResidualVM Savegames
 Dropbox/Games/ResidualVM/residualvm.ini	Library/Preferences/ResidualVM Preferences
 Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
+Dropbox/Games/Resonance/	Library/Application Support/Resonance
 Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
 Dropbox/Games/Rico - A Tale of Two Brothers/	.Rico
 Dropbox/Games/Rise of the Triad Dark War/	.rott
