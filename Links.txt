@@ -42,7 +42,7 @@ Dropbox/Games/Anki/	Documents/Anki
 Dropbox/Games/Anomaly Korea/	Library/Application Support/Anomaly Korea
 Dropbox/Games/Anomaly Warzone Earth/	Library/Application Support/Anomaly Warzone Earth
 Dropbox/Games/Antichamber/com.Demruth.Antichamber.plist	Library/Preferences/com.Demruth.Antichamber.plist
-Dropbox/Games/Antichamber/com.Demruth.Antichamber.savedState	Library/Saved Application State/com.Demruth.Antichamber.savedState
+Dropbox/Games/Antichamber/com.Demruth.Antichamber.savedState/	Library/Saved Application State/com.Demruth.Antichamber.savedState
 Dropbox/Games/Aquaria/	Library/Application Support/Aquaria
 Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
@@ -187,6 +187,7 @@ Dropbox/Games/Frozen Synapse/	Library/Application Support/FrozenSynapse
 Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
 Dropbox/Games/Galcon Fusion/	Library/Application Support/Galcon Fusion
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
+Dropbox/Games/Gemini Rue/	Library/Application Support/Gemini Rue
 Dropbox/Games/Geneforge 2/	Documents/Spiderweb Software/Geneforge 2 Saved Games
 Dropbox/Games/Geneforge 3/	Documents/Spiderweb Software/Geneforge 3 Saved Games
 Dropbox/Games/Geneforge 4/	Library/Application Support/GOG.com/Geneforge 4/Geneforge 4 Files
