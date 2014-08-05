@@ -432,6 +432,7 @@ Dropbox/Games/World of Warplanes/	Documents/Wargaming.net/World of Warplanes
 Dropbox/Games/Worms Reloaded/	Documents/Team17/WormsReloaded
 Dropbox/Games/XCOM Enemy Unknown/	Library/Application Support/Feral Interactive/XCOM Enemy Unknown
 Dropbox/Games/XMoto/	Library/Application Support/xmoto
+Dropbox/Games/Yesterday/	Documents/Pendulo Studios/Yesterday
 Dropbox/Games/Zork - Grand Inquisitor/	Library/Application Support/Zork - Grand Inquisitor
 Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
