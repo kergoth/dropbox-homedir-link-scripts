@@ -403,6 +403,9 @@ Dropbox/Games/Torchlight/	Library/Application Support/runic games/torchlight
 Dropbox/Games/Total Annihilation Kingdoms/	Library/Application Support/GOG.com/Total Annihilation Kingdoms
 Dropbox/Games/Total Annihilation/	Library/Application Support/GOG.com/Total Annihilation
 Dropbox/Games/Tremulous/	Library/Application Support/Tremulous
+Dropbox/Games/Tropico 4/Preferences Data	Library/Application Support/Feral Interactive/Tropico 4/Preferences Data
+Dropbox/Games/Tropico 4/AppData	Library/Application Support/Feral Interactive/Tropico 4/AppData
+Dropbox/Games/Tropico 4/AppData	Documents/tropico 4
 Dropbox/Games/Two Worlds/Players/	Documents/Reality Pump/Two Worlds Files/Players
 Dropbox/Games/Two Worlds/Saves/	Documents/Two Worlds Saves
 Dropbox/Games/UFO - Alien Invasion 2.4/	Documents/UFOAI-2.4
