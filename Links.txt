@@ -128,6 +128,7 @@ Dropbox/Games/DeathSpank - Thongs of Virtue/	Documents/SKIDROW/SAVES/18050
 Dropbox/Games/Deathspank/	Library/Application Support/com.hotheadgames.deathspank
 Dropbox/Games/Deponia 2/	Library/Application Support/Daedalic Entertainment/Deponia 2
 Dropbox/Games/Deponia 3/	Library/Application Support/Daedalic Entertainment/Deponia 3
+Dropbox/Games/Depression Quest/	Library/Application Support/Depression Quest
 Dropbox/Games/Deus Ex/	Documents/Deus Ex
 Dropbox/Games/Dhewm 3/	Library/Application Support/dhewm3
 Dropbox/Games/Diablo III/	Documents/Diablo III
@@ -280,7 +281,9 @@ Dropbox/Games/Quake 2 (Yamagi)/	.yq2
 Dropbox/Games/Quake 3/	Library/Application Support/Quake3
 Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 VGA
 Dropbox/Games/Quest for Infamy/	Documents/My Saved Games/Quest for Infamy
+Dropbox/Games/RACE 07/	Documents/my games/SimBin/RACE 07
 Dropbox/Games/RIFT/	Documents/RIFT
+Dropbox/Games/RaceRoom Racing Experience/	Documents/my games/SimBin/RaceRoom Racing Experience
 Dropbox/Games/Rayman Origins/	Documents/My Games/Rayman Origins
 Dropbox/Games/Red Alert 3/	Documents/Red Alert 3
 Dropbox/Games/Red Eclipse/	Library/Application Support/redeclipse
@@ -292,6 +295,8 @@ Dropbox/Games/Resonance/	Documents/My Saved Games/Resonance
 Dropbox/Games/Resonance/	Library/Application Support/Resonance
 Dropbox/Games/Return to Castle Wolfenstein/	Documents/rtcwcoop
 Dropbox/Games/Rico - A Tale of Two Brothers/	.Rico
+Dropbox/Games/Rise of Nations/	Documents/my games/Rise of Nations
+Dropbox/Games/Rise of Nations/AppData	Documents/Microsoft Games/Rise of Nations
 Dropbox/Games/Rise of the Triad Dark War/	.rott
 Dropbox/Games/Risen 2/	Documents/Risen2
 Dropbox/Games/Risen/	Documents/Risen
@@ -403,9 +408,9 @@ Dropbox/Games/Torchlight/	Library/Application Support/runic games/torchlight
 Dropbox/Games/Total Annihilation Kingdoms/	Library/Application Support/GOG.com/Total Annihilation Kingdoms
 Dropbox/Games/Total Annihilation/	Library/Application Support/GOG.com/Total Annihilation
 Dropbox/Games/Tremulous/	Library/Application Support/Tremulous
-Dropbox/Games/Tropico 4/Preferences Data	Library/Application Support/Feral Interactive/Tropico 4/Preferences Data
-Dropbox/Games/Tropico 4/AppData	Library/Application Support/Feral Interactive/Tropico 4/AppData
 Dropbox/Games/Tropico 4/AppData	Documents/tropico 4
+Dropbox/Games/Tropico 4/AppData	Library/Application Support/Feral Interactive/Tropico 4/AppData
+Dropbox/Games/Tropico 4/Preferences Data	Library/Application Support/Feral Interactive/Tropico 4/Preferences Data
 Dropbox/Games/Two Worlds/Players/	Documents/Reality Pump/Two Worlds Files/Players
 Dropbox/Games/Two Worlds/Saves/	Documents/Two Worlds Saves
 Dropbox/Games/UFO - Alien Invasion 2.4/	Documents/UFOAI-2.4
