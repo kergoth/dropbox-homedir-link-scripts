@@ -37,6 +37,7 @@ Dropbox/Games/APOX/	Documents/APOX
 Dropbox/Games/Aarklash Legacy/	Documents/Aarklash Legacy
 Dropbox/Games/Age of Empires 3/	Documents/My Games/Age of Empires 3
 Dropbox/Games/Al Emmo and the Lost Dutchmans Mine/	Documents/My Saved Games/Al Emmo and the Lost Dutchmans Mine
+Dropbox/Games/Amber: Journeys Beyond/	Documents/Amber
 Dropbox/Games/And Yet It Moves/	Library/Application Support/Broken Rules/And Yet It Moves
 Dropbox/Games/Anki/	Documents/Anki
 Dropbox/Games/Anomaly Korea/	Library/Application Support/Anomaly Korea
@@ -316,6 +317,7 @@ Dropbox/Games/Shadow Warrior Classic (JFSW)/	Library/Application Support/JFShado
 Dropbox/Games/Shadow Warrior/	Documents/Shadow Warrior
 Dropbox/Games/Shadowgrounds Survivor/	Library/Survivor
 Dropbox/Games/Shadowgrounds/	Library/Shadowgrounds
+Dropbox/Games/Shadowrun Dragonfall Director's Cut/	Library/Application Support/Harebrained Schemes/Shadowrun Dragonfall
 Dropbox/Games/Shadowrun Returns/	Documents/Shadowrun Returns
 Dropbox/Games/Shadowrun Returns/	Library/Application Support/Harebrained Schemes/Shadowrun Returns
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
