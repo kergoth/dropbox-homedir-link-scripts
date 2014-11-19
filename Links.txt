@@ -27,6 +27,7 @@ Dropbox/Apps/Reader/	Documents/My Books/Reader
 Dropbox/Apps/Sametime/Transcripts/	Documents/SametimeTranscripts
 Dropbox/Apps/ScreenFlow/	Library/Application Support/Telestream/ScreenFlow
 Dropbox/Apps/Textual/	Library/Application Support/Textual
+Dropbox/Apps/TorBrowser/	Library/Application Support/TorBrowser
 Dropbox/Apps/WebEx/	Documents/WebEx
 Dropbox/Apps/WriteRoom/	Library/Application Support/WriteRoom
 Dropbox/Apps/doc2dash/	Library/Application Support/doc2dash
@@ -37,6 +38,7 @@ Dropbox/Games/APOX/	Documents/APOX
 Dropbox/Games/Aarklash Legacy/	Documents/Aarklash Legacy
 Dropbox/Games/Age of Empires 3/	Documents/My Games/Age of Empires 3
 Dropbox/Games/Al Emmo and the Lost Dutchmans Mine/	Documents/My Saved Games/Al Emmo and the Lost Dutchmans Mine
+Dropbox/Games/Alien Versus Predator Classic 2000/	Documents/Rebellion/AvP Classic
 Dropbox/Games/Amber: Journeys Beyond/	Documents/Amber
 Dropbox/Games/And Yet It Moves/	Library/Application Support/Broken Rules/And Yet It Moves
 Dropbox/Games/Anki/	Documents/Anki
@@ -110,6 +112,7 @@ Dropbox/Games/Command & Conquer 3 Tiberium Wars/	Documents/My Saved Games/Comman
 Dropbox/Games/Command & Conquer Generals Zero Hour/	Documents/Command and Conquer Generals Zero Hour Data
 Dropbox/Games/Command & Conquer Generals/	Documents/Command and Conquer Generals Data
 Dropbox/Games/Company of Heroes/	Documents/My Games/company of heroes
+Dropbox/Games/Contraption Maker/	Documents/contraptionmaker
 Dropbox/Games/CorsixTH/	.config/CorsixTH
 Dropbox/Games/Costume Quest/	Documents/Doublefine/CostumeQuest
 Dropbox/Games/Costume Quest/	Library/Application Support/Doublefine/CostumeQuest
@@ -248,6 +251,7 @@ Dropbox/Games/Millennium 2/	Documents/MM2_Saves
 Dropbox/Games/Mirror's Edge/	Documents/EA Games/Mirror's Edge
 Dropbox/Games/Mitsurugi Kamui Hikae/	Documents/mitsurugi01
 Dropbox/Games/Moebius/	Library/Caches/unity.Phoenix Online Studios.Moebius
+Dropbox/Games/Mount and Blade/Saved Games/	Documents/Mount&Blade Savegames
 Dropbox/Games/Mudlarks/	Documents/My Saved Games/Mudlarks
 Dropbox/Games/Mutant Blobs Attack/	Documents/Mutant Blobs Attack
 Dropbox/Games/Mutant Mudds/	Documents/Renegade Kid/Mutant Mudds
@@ -397,6 +401,7 @@ Dropbox/Games/The Whispered World/	Library/Application Support/GOG.com/The Whisp
 Dropbox/Games/The Witcher 2/	Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2
 Dropbox/Games/The Witcher/	Documents/The Witcher
 Dropbox/Games/The Witcher/	Library/com.cdprojektred.TheWitcher/The Witcher
+Dropbox/Games/The Witcher/	Library/Application Support/com.cdprojektred.TheWitcher/GameDocuments/The Witcher
 Dropbox/Games/The Wolf Among Us/	Library/Application Support/Telltale Games/The Wolf Among Us
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
 Dropbox/Games/To the Moon Holiday Special Minisode/	Documents/Siggy Holiday - Freebird Games
