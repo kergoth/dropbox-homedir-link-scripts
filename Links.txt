@@ -328,6 +328,7 @@ Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
 Dropbox/Games/Sherlock Holmes - Mystery of the Persian Carpet/	Documents/Games/mystery of the persian carpet
 Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
 Dropbox/Games/Shipwreck/	Documents/my games/Shipwreck
+Dropbox/Games/Shovel Knight/	Library/Application Support/Yacht Club Games/Shovel Knight
 Dropbox/Games/Sid Meier's Alpha Centauri/	Library/Application Support/GOG.com/Sid Meier's Alpha Centauri
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/Aspyr/Sid Meier's Civilization 5
 Dropbox/Games/Sid Meier's Civilization 5/	Documents/My Games/Sid Meier's Civilization 5
@@ -400,8 +401,8 @@ Dropbox/Games/The Whispered World/	Documents/Daedalic Entertainment/The Whispere
 Dropbox/Games/The Whispered World/	Library/Application Support/GOG.com/The Whispered World
 Dropbox/Games/The Witcher 2/	Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2
 Dropbox/Games/The Witcher/	Documents/The Witcher
-Dropbox/Games/The Witcher/	Library/com.cdprojektred.TheWitcher/The Witcher
 Dropbox/Games/The Witcher/	Library/Application Support/com.cdprojektred.TheWitcher/GameDocuments/The Witcher
+Dropbox/Games/The Witcher/	Library/com.cdprojektred.TheWitcher/The Witcher
 Dropbox/Games/The Wolf Among Us/	Library/Application Support/Telltale Games/The Wolf Among Us
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
 Dropbox/Games/To the Moon Holiday Special Minisode/	Documents/Siggy Holiday - Freebird Games
