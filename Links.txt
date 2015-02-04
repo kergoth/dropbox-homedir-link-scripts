@@ -411,6 +411,7 @@ Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
 Dropbox/Games/Tomb Raider - Anniversary/	Documents/Eidos/Tomb Raider - Anniversary
 Dropbox/Games/Tomb Raider - Underworld/	Documents/Eidos/Tomb Raider - Underworld
 Dropbox/Games/Torchlight 2/	Documents/My Games/Runic Games/Torchlight 2
+Dropbox/Games/Torchlight 2/	Library/Application Support/runic games/Torchlight 2
 Dropbox/Games/Torchlight/	Documents/My Saved Games/Torchlight
 Dropbox/Games/Torchlight/	Library/Application Support/runic games/torchlight
 Dropbox/Games/Total Annihilation Kingdoms/	Library/Application Support/GOG.com/Total Annihilation Kingdoms
