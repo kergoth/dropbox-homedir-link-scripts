@@ -347,6 +347,7 @@ Dropbox/Games/Space Quest 2 VGA/	Documents/My Saved Games/Space Quest 2 VGA
 Dropbox/Games/Space Quest Incinerations/	Documents/My Saved Games/Incinerations
 Dropbox/Games/SpaceChem/	Documents/Zachtronics Industries/SpaceChem
 Dropbox/Games/Spring/	.spring
+Dropbox/Games/Squishy the Suicidal Pig/	Library/Application Support/com.yoyogames.macyoyorunner
 Dropbox/Games/Stacking/	Documents/Doublefine/Stacking
 Dropbox/Games/Stacking/	Library/Application Support/Doublefine/Stacking
 Dropbox/Games/StarCraft II/	Documents/StarCraft II
