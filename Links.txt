@@ -17,6 +17,7 @@ Dropbox/Apps/Colloquy/Transcripts/	Documents/Colloquy Transcripts
 Dropbox/Apps/CoverScout 3/com.equinux.CoverScout3.plist	Library/Preferences/com.equinux.CoverScout3.plist
 Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
 Dropbox/Apps/Digital Editions/	Documents/Digital Editions
+Dropbox/Apps/Dropzone 3/	Library/Application Support/Dropzone 3
 Dropbox/Apps/ForkLift/	Library/Application Support/ForkLift
 Dropbox/Apps/Messages/	Documents/iChats
 Dropbox/Apps/Neat/	Documents/Neat Data
@@ -140,6 +141,7 @@ Dropbox/Games/Diablo III/	Library/Application Support/Blizzard/Diablo III
 Dropbox/Games/Dink Smallwood HD/	Library/Application Support/Dink Smallwood HD
 Dropbox/Games/Dishonored/	Documents/My Games/Dishonored
 Dropbox/Games/Divine Divinity/	Library/Application Support/GOG.com/Divine Divinity
+Dropbox/Games/Divinity - Original Sin/	Documents/Larian Studios/Divinity Original Sin
 Dropbox/Games/Divinity 2/	Documents/Divinity 2
 Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
 Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
@@ -204,6 +206,7 @@ Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted 
 Dropbox/Games/Gish/	Library/Application Support/Gish
 Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
 Dropbox/Games/Gratuitous Space Battles/	Library/Preferences/GratuitousSpaceBattles
+Dropbox/Games/Gravity Ghost/	Library/Application Support/unity.Ivy Games.Gravity Ghost
 Dropbox/Games/Gray Matter/	Documents/GrayMatter
 Dropbox/Games/Grotesque-Tactics/	Documents/Grotesque-Tactics
 Dropbox/Games/Hammerfight/	Library/Application Support/Hammerfight
@@ -339,6 +342,7 @@ Dropbox/Games/Skyrim/	Documents/My Games/Skyrim
 Dropbox/Games/Sleepwalker's Journey HD/	Library/Application Support/Sleepwalker's Journey HD NonAppstore
 Dropbox/Games/Snes9x/	Library/Application Support/Snes9x
 Dropbox/Games/Soul Reaver 2/	Documents/Soul Reaver 2
+Dropbox/Games/South Park - The Stick of Truth/	Documents/my games/South Park - The Stick of Truth
 Dropbox/Games/Space Quest 2 VGA/	Documents/My Saved Games/Space Quest 2 VGA
 Dropbox/Games/Space Quest Incinerations/	Documents/My Saved Games/Incinerations
 Dropbox/Games/SpaceChem/	Documents/Zachtronics Industries/SpaceChem
