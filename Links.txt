@@ -17,7 +17,10 @@ Dropbox/Apps/Colloquy/Transcripts/	Documents/Colloquy Transcripts
 Dropbox/Apps/CoverScout 3/com.equinux.CoverScout3.plist	Library/Preferences/com.equinux.CoverScout3.plist
 Dropbox/Apps/Curse Client/	Documents/My Curse/Curse Client
 Dropbox/Apps/Digital Editions/	Documents/Digital Editions
-Dropbox/Apps/Dropzone 3/	Library/Application Support/Dropzone 3
+Dropbox/Apps/Dropzone 3/Actions/	Library/Application Support/Dropzone 3/Actions
+Dropbox/Apps/Dropzone 3/Actions.dzdb	Library/Application Support/Dropzone 3/Actions.dzdb
+Dropbox/Apps/Dropzone 3/MASReceipts/	Library/Application Support/Dropzone 3/MASReceipts
+Dropbox/Apps/Dropzone 3/Icons/	Library/Application Support/Dropzone 3/Icons
 Dropbox/Apps/ForkLift/	Library/Application Support/ForkLift
 Dropbox/Apps/Messages/	Documents/iChats
 Dropbox/Apps/Neat/	Documents/Neat Data
