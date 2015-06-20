@@ -65,6 +65,7 @@ Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale
 Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
 Dropbox/Games/Baldur's Gate II - Enhanced Edition/	Documents/Baldur's Gate II - Enhanced Edition
 Dropbox/Games/Batman Arkham Asylum GOTY/	Documents/Square Enix/Batman Arkham Asylum GOTY
+Dropbox/Games/Battle Block Theater/	Library/Application Support/BattleBlockTheater
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
@@ -221,7 +222,9 @@ Dropbox/Games/Heroine's Quest/	Documents/My Saved Games/Heroine's Quest 1.2
 Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
 Dropbox/Games/Hotline Miami/	Library/Application Support/Hotline Miami
+Dropbox/Games/Infested Planet/	Library/Application Support/Rocket Bear Games/Infested Planet
 Dropbox/Games/Inquisitor/	Documents/Inquisitor_SaveGames
+Dropbox/Games/Invisible, Inc./	Documents/Klei/InvisibleInc
 Dropbox/Games/Jack Keane/	Documents/Jack Keane
 Dropbox/Games/Jack Keane/	Library/Application Support/RuneSoft/JackKeane
 Dropbox/Games/Jamestown/	Library/Application Support/Jamestown
@@ -294,6 +297,7 @@ Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 
 Dropbox/Games/Quest for Infamy/	Documents/My Saved Games/Quest for Infamy
 Dropbox/Games/RACE 07/	Documents/my games/SimBin/RACE 07
 Dropbox/Games/RIFT/	Documents/RIFT
+Dropbox/Games/Race Driver GRID/	Documents/Codemasters/GRID
 Dropbox/Games/RaceRoom Racing Experience/	Documents/my games/SimBin/RaceRoom Racing Experience
 Dropbox/Games/Rayman Origins/	Documents/My Games/Rayman Origins
 Dropbox/Games/Red Alert 3/	Documents/Red Alert 3
@@ -325,6 +329,7 @@ Dropbox/Games/Septerra Core/	Library/Application Support/GOG.com/Septtera Core
 Dropbox/Games/Sepulchre/	Documents/My Saved Games/Sepulchre
 Dropbox/Games/Shadow Warrior Classic (JFSW)/	Library/Application Support/JFShadowWarrior
 Dropbox/Games/Shadow Warrior/	Documents/Shadow Warrior
+Dropbox/Games/Shadow Warrior/	Library/Application Support/Flying Wild Hog/Shadow Warrior
 Dropbox/Games/Shadowgate/	Documents/Zojoi/Shadowgate
 Dropbox/Games/Shadowgrounds Survivor/	Library/Survivor
 Dropbox/Games/Shadowgrounds/	Library/Shadowgrounds
@@ -391,9 +396,11 @@ Dropbox/Games/The Chronicles of Riddick - Assault on Dark Athena/	Documents/Docu
 Dropbox/Games/The Chronicles of Riddick - Assault on Dark Athena/	Documents/atari/The Chronicles of Riddick - Assault on Dark Athena
 Dropbox/Games/The Dark Eye - Chains of Satinav/	Documents/Daedalic Entertainment/Satinav
 Dropbox/Games/The Inner World/	Documents/TheInnerWorld
+Dropbox/Games/The Jackbox Party Pack/	Library/Application Support/TheJackboxPartyPack
 Dropbox/Games/The Longest Journey/	Documents/The Longest Journey
 Dropbox/Games/The Lost Inca Prophecy 2/	Documents/Seppia/LostInca2
 Dropbox/Games/The Misadventures of P.B. Winterbottom/	Documents/2K Play/The Misadventures of P.B. Winterbottom
+Dropbox/Games/The Samaritan Paradox/	Documents/My Saved Games/The Samaritan Paradox
 Dropbox/Games/The Sea Will Claim Everything/	Documents/The Sea Will Claim Everything
 Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/LucasArts/The Secret of Monkey Island Special Edition
 Dropbox/Games/The Secret of Monkey Island Special Edition/	Documents/The Secret of Monkey Island Special Edition
@@ -428,6 +435,7 @@ Dropbox/Games/Total Annihilation/	Library/Application Support/GOG.com/Total Anni
 Dropbox/Games/Tremulous/	Library/Application Support/Tremulous
 Dropbox/Games/Tropico 4/AppData	Documents/tropico 4
 Dropbox/Games/Tropico 4/AppData	Library/Application Support/Feral Interactive/Tropico 4/AppData
+Dropbox/Games/Tropico 4/AppData	Library/Application Support/tropico 4
 Dropbox/Games/Tropico 4/Preferences Data	Library/Application Support/Feral Interactive/Tropico 4/Preferences Data
 Dropbox/Games/Two Worlds/Players/	Documents/Reality Pump/Two Worlds Files/Players
 Dropbox/Games/Two Worlds/Saves/	Documents/Two Worlds Saves
@@ -463,6 +471,7 @@ Dropbox/Games/Zork - Grand Inquisitor/	Library/Application Support/Zork - Grand 
 Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
+Library/Caches/Race the Sun/CachedCommunityWorlds/	Documents/RaceTheSunWorlds/CachedCommunityWorlds
 Library/Containers/com.11bitstudios.funkysmugglersmacother/Data/Library/Application Support/Funky Smugglers	Dropbox/Games/Funky Smugglers
 Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
 Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
