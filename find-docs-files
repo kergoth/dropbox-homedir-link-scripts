@@ -1,3 +1,3 @@
 #!/bin/sh
 
-find ~/Documents/ \( -name \$RECYCLE.BIN -o -name RECYCLER -o -name \*.localized -o -name .prl_\* -prune \) -o \( -type f -not -name .DS_Store -not -name desktop.ini -not -name Thumbs.db -not -name \*.strings -print \)
+find ~/Documents/ \( -iname \$RECYCLE.BIN -o -iname RECYCLER -o -iname \*.localized -o -iname .prl_\* -prune \) -o \( -type f -not -iname .DS_Store -not -iname desktop.ini -not -iname Thumbs.db -not -iname \*.strings -not -iname \*.log -not -iname \*log.txt -print \)
