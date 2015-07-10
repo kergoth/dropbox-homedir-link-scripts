@@ -423,6 +423,7 @@ Dropbox/Games/The Wolf Among Us/	Library/Application Support/Telltale Games/The 
 Dropbox/Games/Thief - Deadly Shadows/	Documents/Thief - Deadly Shadows
 Dropbox/Games/To the Moon Holiday Special Minisode/	Documents/Siggy Holiday - Freebird Games
 Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
+Dropbox/Games/To the Moon/	Library/Application Support/freebirdgames/tothemoon
 Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
 Dropbox/Games/Tomb Raider - Anniversary/	Documents/Eidos/Tomb Raider - Anniversary
 Dropbox/Games/Tomb Raider - Underworld/	Documents/Eidos/Tomb Raider - Underworld
