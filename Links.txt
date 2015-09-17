@@ -43,6 +43,7 @@ Dropbox/Games/Aarklash Legacy/	Documents/Aarklash Legacy
 Dropbox/Games/Age of Empires 3/	Documents/My Games/Age of Empires 3
 Dropbox/Games/Al Emmo and the Lost Dutchmans Mine/	Documents/My Saved Games/Al Emmo and the Lost Dutchmans Mine
 Dropbox/Games/Alien Versus Predator Classic 2000/	Documents/Rebellion/AvP Classic
+Dropbox/Games/Aliens versus Predator/	Documents/my games/Aliens versus Predator
 Dropbox/Games/Amber: Journeys Beyond/	Documents/Amber
 Dropbox/Games/And Yet It Moves/	Library/Application Support/Broken Rules/And Yet It Moves
 Dropbox/Games/Anki/	Documents/Anki
@@ -64,7 +65,11 @@ Dropbox/Games/Back to the Future Episode 4/	Documents/Telltale Games/back to the
 Dropbox/Games/Back to the Future Episode 4/	Library/Application Support/Telltale Games/BackToTheFuture104
 Dropbox/Games/Baldur's Gate - Enhanced Edition/	Documents/Baldur's Gate - Enhanced Edition
 Dropbox/Games/Baldur's Gate II - Enhanced Edition/	Documents/Baldur's Gate II - Enhanced Edition
+Dropbox/Games/Banished/	Documents/Banished
 Dropbox/Games/Batman Arkham Asylum GOTY/	Documents/Square Enix/Batman Arkham Asylum GOTY
+Dropbox/Games/Batman Arkham Asylum GOTY/MacInit	Library/Application Support/Feral Interactive/Batman Arkham Asylum GOTY/MacInit
+Dropbox/Games/Batman Arkham Asylum GOTY/Preferences Data	Library/Application Support/Feral Interactive/Batman Arkham Asylum GOTY/Preferences Data
+Dropbox/Games/Batman Arkham Asylum GOTY/SaveData	Library/Application Support/Feral Interactive/Batman Arkham Asylum GOTY/SaveData
 Dropbox/Games/Battle Block Theater/	Library/Application Support/BattleBlockTheater
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
@@ -208,11 +213,13 @@ Dropbox/Games/Ghost Master/	Documents/Ghost Master
 Dropbox/Games/Giana Sisters - Rise of the Owlverlord/	Documents/Giana Sisters - Rise of the Owlverlord
 Dropbox/Games/Giana Sisters - Twisted Dreams/	Documents/Giana Sisters - Twisted Dreams
 Dropbox/Games/Gish/	Library/Application Support/Gish
+Dropbox/Games/Gods Will Be Watching/	Library/Application Support/com.deconstructeam.godswillbewatching
 Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
 Dropbox/Games/Gratuitous Space Battles/	Library/Preferences/GratuitousSpaceBattles
 Dropbox/Games/Gravity Ghost/	Library/Application Support/unity.Ivy Games.Gravity Ghost
 Dropbox/Games/Gray Matter/	Documents/GrayMatter
 Dropbox/Games/Grotesque-Tactics/	Documents/Grotesque-Tactics
+Dropbox/Games/Halfway/	.halfway
 Dropbox/Games/Hammerfight/	Library/Application Support/Hammerfight
 Dropbox/Games/Harvest/	Library/Application Support/Harvest
 Dropbox/Games/Haunted Memories/	Library/Caches/unity.MTG.HauntedMemories
@@ -243,6 +250,7 @@ Dropbox/Games/Leisure Suit Larry Reloaded/	Library/Caches/unity.N-Fusion Interac
 Dropbox/Games/Loom/	Documents/My Saved Games/Loom
 Dropbox/Games/Lost Horizon/	Documents/Lost Horizon
 Dropbox/Games/Lugaru/	Library/Application Support/Lugaru
+Dropbox/Games/Lumino City/	Library/Application Support/com.stateofplaygames.LuminoCity
 Dropbox/Games/Mage's Initiation Demo/	Documents/My Saved Games/Mage's Initiation Demo
 Dropbox/Games/Mage's Initiation/	Documents/My Saved Games/Mage's Initiation
 Dropbox/Games/Magrunner - Dark Pulse/	Documents/my games/Magrunner/YoshiGame
@@ -337,6 +345,7 @@ Dropbox/Games/Shadowrun Dragonfall Director's Cut/	Library/Application Support/H
 Dropbox/Games/Shadowrun Returns/	Documents/Shadowrun Returns
 Dropbox/Games/Shadowrun Returns/	Library/Application Support/Harebrained Schemes/Shadowrun Returns
 Dropbox/Games/Shatter/	Library/Application Support/Sidhe/Shatter
+Dropbox/Games/Shelter/	.config/Might and Delight/Shelter
 Dropbox/Games/Sherlock Holmes - Mystery of the Persian Carpet/	Documents/Games/mystery of the persian carpet
 Dropbox/Games/Sherlock Holmes - Nemesis/	Documents/Games/sherlock holmes nemesis
 Dropbox/Games/Shipwreck/	Documents/my games/Shipwreck
@@ -427,6 +436,8 @@ Dropbox/Games/To the Moon/	Library/Application Support/freebirdgames/tothemoon
 Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
 Dropbox/Games/Tomb Raider - Anniversary/	Documents/Eidos/Tomb Raider - Anniversary
 Dropbox/Games/Tomb Raider - Underworld/	Documents/Eidos/Tomb Raider - Underworld
+Dropbox/Games/Tomb Raider/Preferences Data	Library/Application Support/Feral Interactive/Tomb Raider/Preferences Data
+Dropbox/Games/Tomb Raider/SaveData	Library/Application Support/Feral Interactive/Tomb Raider/SaveData
 Dropbox/Games/Torchlight 2/	Documents/My Games/Runic Games/Torchlight 2
 Dropbox/Games/Torchlight 2/	Library/Application Support/runic games/Torchlight 2
 Dropbox/Games/Torchlight/	Documents/My Saved Games/Torchlight
@@ -434,6 +445,7 @@ Dropbox/Games/Torchlight/	Library/Application Support/runic games/torchlight
 Dropbox/Games/Total Annihilation Kingdoms/	Library/Application Support/GOG.com/Total Annihilation Kingdoms
 Dropbox/Games/Total Annihilation/	Library/Application Support/GOG.com/Total Annihilation
 Dropbox/Games/Tremulous/	Library/Application Support/Tremulous
+Dropbox/Games/Tribes Ascend/	Documents/my games/Tribes Ascend
 Dropbox/Games/Tropico 4/AppData	Documents/tropico 4
 Dropbox/Games/Tropico 4/AppData	Library/Application Support/Feral Interactive/Tropico 4/AppData
 Dropbox/Games/Tropico 4/AppData	Library/Application Support/tropico 4
