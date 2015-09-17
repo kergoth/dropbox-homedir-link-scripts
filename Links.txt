@@ -292,6 +292,7 @@ Dropbox/Games/Paragon/	Documents/BipolarDesign/Paragon
 Dropbox/Games/Path of Exile/	Documents/My Games/Path of Exile
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
 Dropbox/Games/Planeshift/	Library/Application Support/Planeshift
+Dropbox/Games/Planetary Annihilation/	Library/Application Support/Uber Entertainment/Planetary Annihilation
 Dropbox/Games/Primordia/	Documents/My Saved Games/Primordia
 Dropbox/Games/Proteus/	Library/Application Support/Proteus
 Dropbox/Games/Psychonauts/	Library/Application Support/Psychonauts
@@ -370,6 +371,7 @@ Dropbox/Games/Stacking/	Documents/Doublefine/Stacking
 Dropbox/Games/Stacking/	Library/Application Support/Doublefine/Stacking
 Dropbox/Games/StarCraft II/	Documents/StarCraft II
 Dropbox/Games/StarCraft II/	Library/Application Support/Blizzard/StarCraft II
+Dropbox/Games/Stasis/	Library/Application Support/The Brotherhood/Stasis
 Dropbox/Games/Still Life/	Library/Application Support/GOG.com/Still Life
 Dropbox/Games/Stratagus/	Documents/Stratagus
 Dropbox/Games/Stratagus/	Library/Stratagus
@@ -397,6 +399,7 @@ Dropbox/Games/Tales of Monkey Island Episode 4/	Library/Application Support/Tell
 Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
 Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Tales of Monkey Island - Chapter 5 - Rise of the Pirate God
 Dropbox/Games/Terraria/	Documents/My Games/Terraria
+Dropbox/Games/TeslaEffect/	Library/Application Support/[I]<TeslaEffect>[/I]/BigFinishGames/TeslaEffect
 Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaconing
 Dropbox/Games/The Bard's Tale/	Library/Application Support/The Bard's Tale
 Dropbox/Games/The Cat Lady/	Documents/My Saved Games/Cat Lady
