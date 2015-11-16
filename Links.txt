@@ -1,3 +1,4 @@
+#Dropbox/Games/TeslaEffect/	Library/Application Support/[I]<TeslaEffect>[/I]/BigFinishGames/TeslaEffect
 /System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
 /System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
 /System/Library/CoreServices/Wireless Diagnostics.app/		Applications/Wireless Diagnostics.app
@@ -45,6 +46,7 @@ Dropbox/Games/Al Emmo and the Lost Dutchmans Mine/	Documents/My Saved Games/Al E
 Dropbox/Games/Alien Versus Predator Classic 2000/	Documents/Rebellion/AvP Classic
 Dropbox/Games/Aliens versus Predator/	Documents/my games/Aliens versus Predator
 Dropbox/Games/Amber: Journeys Beyond/	Documents/Amber
+Dropbox/Games/Anachronox/	Documents/Anachronox
 Dropbox/Games/And Yet It Moves/	Library/Application Support/Broken Rules/And Yet It Moves
 Dropbox/Games/Anki/	Documents/Anki
 Dropbox/Games/Anomaly Korea/	Library/Application Support/Anomaly Korea
@@ -52,6 +54,7 @@ Dropbox/Games/Anomaly Warzone Earth/	Library/Application Support/Anomaly Warzone
 Dropbox/Games/Antichamber/com.Demruth.Antichamber.plist	Library/Preferences/com.Demruth.Antichamber.plist
 Dropbox/Games/Antichamber/com.Demruth.Antichamber.savedState/	Library/Saved Application State/com.Demruth.Antichamber.savedState
 Dropbox/Games/Aquaria/	Library/Application Support/Aquaria
+Dropbox/Games/Arcanum/	Documents/Arcanum
 Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/Gaijin Games/BIT.TRIP RUNNER
@@ -74,6 +77,7 @@ Dropbox/Games/Battle Block Theater/	Library/Application Support/BattleBlockTheat
 Dropbox/Games/Bejeweled 3/	Library/Application Support/PopCap/Bejeweled3
 Dropbox/Games/Betrayal in Antara/	Documents/Sierra/Betrayal in Antara
 Dropbox/Games/Betrayer/	Documents/My Games/Betrayer
+Dropbox/Games/Better Touch Tool/	Library/Application Support/BetterTouchTool
 Dropbox/Games/BioShock 2/Licence.txt	/Users/Shared/Feral Interactive/BioShock 2/Licence.txt
 Dropbox/Games/BioShock 2/Serial.txt	/Users/Shared/Feral Interactive/BioShock 2/Serial.txt
 Dropbox/Games/BioShock Infinite/	Library/Application Support/BioShock Infinite
@@ -228,6 +232,7 @@ Dropbox/Games/Heroine's Quest/	Documents/My Saved Games/Heroine's Quest
 Dropbox/Games/Heroine's Quest/	Documents/My Saved Games/Heroine's Quest 1.2
 Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
+Dropbox/Games/Homeworld Remastered Collection/	Library/Application Support/Homeworld Remastered Collection
 Dropbox/Games/Hotline Miami/	Library/Application Support/Hotline Miami
 Dropbox/Games/Infested Planet/	Library/Application Support/Rocket Bear Games/Infested Planet
 Dropbox/Games/Inquisitor/	Documents/Inquisitor_SaveGames
@@ -385,6 +390,7 @@ Dropbox/Games/Supreme Commander 2/	Documents/My Games/SquareEnix/Supreme Command
 Dropbox/Games/Supreme Commander Forged Alliance/	Documents/Gas Powered Games/Supreme Commander Forged Alliance
 Dropbox/Games/Supreme Commander Forged Alliance/	Documents/My Games/Gas Powered Games/Supreme Commander Forged Alliance
 Dropbox/Games/Supreme Commander/	Documents/Gas Powered Games/SupremeCommander
+Dropbox/Games/Sword of the Stars - The Pit/	Documents/Sword of the Stars - The Pit
 Dropbox/Games/Syberia 2/	Documents/Syberia 2 Saves
 Dropbox/Games/Syberia/	Documents/Syberia Saves
 Dropbox/Games/Symphony/	Documents/Empty Clip Studios/Symphony
@@ -399,7 +405,6 @@ Dropbox/Games/Tales of Monkey Island Episode 4/	Library/Application Support/Tell
 Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Chapter 5 - Rise of the Pirate God
 Dropbox/Games/Tales of Monkey Island Episode 5/	Library/Application Support/Telltale Games/Tales of Monkey Island - Chapter 5 - Rise of the Pirate God
 Dropbox/Games/Terraria/	Documents/My Games/Terraria
-Dropbox/Games/TeslaEffect/	Library/Application Support/[I]<TeslaEffect>[/I]/BigFinishGames/TeslaEffect
 Dropbox/Games/The Baconing/	Library/Application Support/com.hotheadgames.thebaconing
 Dropbox/Games/The Bard's Tale/	Library/Application Support/The Bard's Tale
 Dropbox/Games/The Cat Lady/	Documents/My Saved Games/Cat Lady
@@ -438,6 +443,7 @@ Dropbox/Games/To the Moon/	Documents/To the Moon - Freebird Games
 Dropbox/Games/To the Moon/	Library/Application Support/freebirdgames/tothemoon
 Dropbox/Games/Toki Tori/	Library/com.twotribes.tokitorimac
 Dropbox/Games/Tomb Raider - Anniversary/	Documents/Eidos/Tomb Raider - Anniversary
+Dropbox/Games/Tomb Raider - Anniversary/	Library/Application Support/Feral Interactive/Tomb Raider Anniversary/profiles
 Dropbox/Games/Tomb Raider - Underworld/	Documents/Eidos/Tomb Raider - Underworld
 Dropbox/Games/Tomb Raider/Preferences Data	Library/Application Support/Feral Interactive/Tomb Raider/Preferences Data
 Dropbox/Games/Tomb Raider/SaveData	Library/Application Support/Feral Interactive/Tomb Raider/SaveData
