@@ -1,4 +1,13 @@
 #Dropbox/Games/TeslaEffect/	Library/Application Support/[I]<TeslaEffect>[/I]/BigFinishGames/TeslaEffect
+#Library/Containers/com.11bitstudios.funkysmugglersmacother/Data/Library/Application Support/Funky Smugglers	Dropbox/Games/Funky Smugglers
+#Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
+#Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
+#Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Extensions/	Dropbox/Apps/Textual/Extensions
+#Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles/	Dropbox/Apps/Textual/Styles
+#Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist	Dropbox/Apps/Textual/com.codeux.irc.textual.plist
+#Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
+#Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
+#Library/Containers/de.daedalic.thenightoftherabbit/Data/Library/Application Support/Daedalic Entertainment/The Night of the Rabbit/	Dropbox/Games/The Night of the Rabbit
 /System/Library/CoreServices/Network Diagnostics.app/		Applications/Network Diagnostics.app
 /System/Library/CoreServices/Screen Sharing.app/		Applications/Screen Sharing.app
 /System/Library/CoreServices/Wireless Diagnostics.app/		Applications/Wireless Diagnostics.app
@@ -494,15 +503,6 @@ Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
 Library/Caches/Race the Sun/CachedCommunityWorlds/	Documents/RaceTheSunWorlds/CachedCommunityWorlds
-Library/Containers/com.11bitstudios.funkysmugglersmacother/Data/Library/Application Support/Funky Smugglers	Dropbox/Games/Funky Smugglers
-Library/Containers/com.amazon.Kindle/Data/Library/Application Support/Kindle/My Kindle Content/	My Kindle Content
-Library/Containers/com.apple.iChat/Data/Library/Messages/Archive/	Dropbox/Apps/Messages
-Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Extensions/	Dropbox/Apps/Textual/Extensions
-Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles/	Dropbox/Apps/Textual/Styles
-Library/Containers/com.codeux.irc.textual/Data/Library/Preferences/com.codeux.irc.textual.plist	Dropbox/Apps/Textual/com.codeux.irc.textual.plist
-Library/Containers/com.dotemu.mac.anotherworld/Data/Documents/	Dropbox/Games/Another World (20th Anniversary Edition)
-Library/Containers/de.Daedalic.Deponia/Data/Library/Application Support/Daedalic Entertainment/Deponia/	Dropbox/Games/Deponia
-Library/Containers/de.daedalic.thenightoftherabbit/Data/Library/Application Support/Daedalic Entertainment/The Night of the Rabbit/	Dropbox/Games/The Night of the Rabbit
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
