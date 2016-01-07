@@ -170,6 +170,7 @@ Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
 Dropbox/Games/Dragon Age/	Documents/BioWare/Dragon Age
 Dropbox/Games/Dreamfall/	Library/Application Support/Dreamfall
 Dropbox/Games/Driftmoon/	Documents/Driftmoon
+Dropbox/Games/Duke Nukem - Manhattan Project/	Library/Application Support/GOG.com/Duke Nukem - Manhattan Project
 Dropbox/Games/Dune Legacy/	Library/Application Support/Dune Legacy
 Dropbox/Games/Dungeon Keeper 2/	Documents/GOG/DungeonKeeper2
 Dropbox/Games/Dungeon Siege III/	Documents/My Games/Dungeon Siege III
@@ -297,6 +298,7 @@ Dropbox/Games/Oblivion/	Documents/My Games/Oblivion
 Dropbox/Games/Oddworld/	Documents/Oddworld
 Dropbox/Games/OpenArena/	Library/Application Support/OpenArena
 Dropbox/Games/OpenRA/	Library/Application Support/OpenRA
+Dropbox/Games/OpenRCT2/	Documents/OpenRCT2
 Dropbox/Games/OpenTTD/	Documents/OpenTTD
 Dropbox/Games/OpenTyrian/	Library/Application Support/OpenTyrian
 Dropbox/Games/Orcs Must Die/	Documents/Orcs Must Die
@@ -371,6 +373,7 @@ Dropbox/Games/Sid Meier's Civilization 5/	Documents/My Games/Sid Meier's Civiliz
 Dropbox/Games/Sid Meier's Civilization IV - Colonization/	Documents/Aspyr/Colonization
 Dropbox/Games/Sid Meier's Civilization iv/	Documents/My Games/Sid Meier's Civilization iv
 Dropbox/Games/SimCity 4/	Documents/SimCity 4
+Dropbox/Games/Skullgirls/	Library/Application Support/Skullgirls
 Dropbox/Games/Skyrim/	Documents/My Games/Skyrim
 Dropbox/Games/Sleepwalker's Journey HD/	Library/Application Support/Sleepwalker's Journey HD NonAppstore
 Dropbox/Games/Snes9x/	Library/Application Support/Snes9x
@@ -394,6 +397,7 @@ Dropbox/Games/Strong Bad Episode 2/	Library/Application Support/Telltale Games/H
 Dropbox/Games/Strong Bad Episode 3/	Library/Application Support/Telltale Games/Homestar 303
 Dropbox/Games/Strong Bad Episode 4/	Library/Application Support/Telltale Games/Homestar 404
 Dropbox/Games/Strong Bad Episode 5/	Library/Application Support/Telltale Games/Homestar 505
+Dropbox/Games/Super Meat Boy/	Library/Application Support/Super Meat Boy
 Dropbox/Games/Supreme Commander 2/	Documents/My Games/Gas Powered Games/Supreme Commander 2
 Dropbox/Games/Supreme Commander 2/	Documents/My Games/SquareEnix/Supreme Commander 2
 Dropbox/Games/Supreme Commander Forged Alliance/	Documents/Gas Powered Games/Supreme Commander Forged Alliance
