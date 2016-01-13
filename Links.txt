@@ -50,6 +50,7 @@ Dropbox/Games/0ad/	Library/Application Support/0ad
 Dropbox/Games/A New Beginning/	Library/Application Support/Daedalic Entertainment/A New Beginning
 Dropbox/Games/APOX/	Documents/APOX
 Dropbox/Games/Aarklash Legacy/	Documents/Aarklash Legacy
+Dropbox/Games/Abuse/	.abuse
 Dropbox/Games/Age of Empires 3/	Documents/My Games/Age of Empires 3
 Dropbox/Games/Al Emmo and the Lost Dutchmans Mine/	Documents/My Saved Games/Al Emmo and the Lost Dutchmans Mine
 Dropbox/Games/Alien Versus Predator Classic 2000/	Documents/Rebellion/AvP Classic
@@ -232,6 +233,7 @@ Dropbox/Games/Grand Theft Auto IV/	Documents/Rockstar Games/GTA IV
 Dropbox/Games/Gratuitous Space Battles/	Library/Preferences/GratuitousSpaceBattles
 Dropbox/Games/Gravity Ghost/	Library/Application Support/unity.Ivy Games.Gravity Ghost
 Dropbox/Games/Gray Matter/	Documents/GrayMatter
+Dropbox/Games/Grim Fandango Remastered/	Library/Application Support/doublefine/GrimFandango
 Dropbox/Games/Grotesque-Tactics/	Documents/Grotesque-Tactics
 Dropbox/Games/Halfway/	.halfway
 Dropbox/Games/Hammerfight/	Library/Application Support/Hammerfight
