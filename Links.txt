@@ -68,6 +68,7 @@ Dropbox/Games/Arcanum/	Documents/Arcanum
 Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/Gaijin Games/BIT.TRIP RUNNER
+Dropbox/Games/BZFlag/	Library/Application Support/BZFlag/2.4
 Dropbox/Games/Back to the Future Episode 1/	Documents/Telltale Games/back to the future 101
 Dropbox/Games/Back to the Future Episode 1/	Library/Application Support/Telltale Games/Backtothefuture
 Dropbox/Games/Back to the Future Episode 2/	Documents/Telltale Games/back to the future 102
@@ -166,6 +167,7 @@ Dropbox/Games/Dishonored/	Documents/My Games/Dishonored
 Dropbox/Games/Divine Divinity/	Library/Application Support/GOG.com/Divine Divinity
 Dropbox/Games/Divinity - Original Sin/	Documents/Larian Studios/Divinity Original Sin
 Dropbox/Games/Divinity 2/	Documents/Divinity 2
+Dropbox/Games/Dolphin Emulator/	Library/Application Support/Dolphin
 Dropbox/Games/Doomsday/	Library/Application Support/Doomsday Engine
 Dropbox/Games/Dragon Age 2/	Documents/BioWare/Dragon Age 2
 Dropbox/Games/Dragon Age/	Documents/BioWare/Dragon Age
@@ -215,6 +217,7 @@ Dropbox/Games/FreeOrion/	Library/Application Support/FreeOrion
 Dropbox/Games/Freespace Open/	Library/FS2_Open
 Dropbox/Games/Freespace/	Library/Application Support/GOG.com/Freespace
 Dropbox/Games/Frozen Synapse/	Library/Application Support/FrozenSynapse
+Dropbox/Games/GZDoom/	Library/Application Support/GZDoom
 Dropbox/Games/Galactic Civilizations II - Twilight of the Arnor/	Documents/My Games/GC2TwilightArnor
 Dropbox/Games/Galcon Fusion/	Library/Application Support/Galcon Fusion
 Dropbox/Games/Gemini Rue/	Documents/My Saved Games/Gemini Rue
@@ -275,6 +278,7 @@ Dropbox/Games/Mark of the Ninja/	Documents/Klei/Ninja
 Dropbox/Games/Mass Effect 2/	Documents/BioWare/Mass Effect 2
 Dropbox/Games/Mass Effect/	Documents/BioWare/Mass Effect
 Dropbox/Games/MataHari/	Documents/MataHari
+Dropbox/Games/MechWarrior Online/	Documents/MechWarrior Online
 Dropbox/Games/Medal of Honor/	Documents/EA Games/Medal of Honor
 Dropbox/Games/MegaGlest/	.megaglest
 Dropbox/Games/Memoria/	Library/Application Support/Daedalic Entertainment/Memoria
@@ -299,6 +303,7 @@ Dropbox/Games/Nox/	Library/Application Support/GOG.com/Nox
 Dropbox/Games/Oblivion/	Documents/My Games/Oblivion
 Dropbox/Games/Oddworld/	Documents/Oddworld
 Dropbox/Games/OpenArena/	Library/Application Support/OpenArena
+Dropbox/Games/OpenMW/	Library/Application Support/openmw
 Dropbox/Games/OpenRA/	Library/Application Support/OpenRA
 Dropbox/Games/OpenRCT2/	Documents/OpenRCT2
 Dropbox/Games/OpenTTD/	Documents/OpenTTD
@@ -309,6 +314,7 @@ Dropbox/Games/Overlord/	Documents/Overlord
 Dropbox/Games/Paragon/	Documents/BipolarDesign/Paragon
 Dropbox/Games/Path of Exile/	Documents/My Games/Path of Exile
 Dropbox/Games/Pid/	Documents/Library/Application Support/Might and Delight/Pid
+Dropbox/Games/Pillars of Eternity/	Library/Application Support/Pillars of Eternity
 Dropbox/Games/Planeshift/	Library/Application Support/Planeshift
 Dropbox/Games/Planetary Annihilation/	Library/Application Support/Uber Entertainment/Planetary Annihilation
 Dropbox/Games/Primordia/	Documents/My Saved Games/Primordia
@@ -322,6 +328,7 @@ Dropbox/Games/Quake 2 (Yamagi)/	.yq2
 Dropbox/Games/Quake 3/	Library/Application Support/Quake3
 Dropbox/Games/Quest for Glory 1 VGA/	Documents/My Saved Games/Quest for Glory 1 VGA
 Dropbox/Games/Quest for Infamy/	Documents/My Saved Games/Quest for Infamy
+Dropbox/Games/RACE 07/	Documents/SimBin/RACE 07
 Dropbox/Games/RACE 07/	Documents/my games/SimBin/RACE 07
 Dropbox/Games/RIFT/	Documents/RIFT
 Dropbox/Games/Race Driver GRID/	Documents/Codemasters/GRID
