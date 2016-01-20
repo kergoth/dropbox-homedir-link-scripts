@@ -196,6 +196,7 @@ Dropbox/Games/Empire Earth II/	Documents/Empire Earth II
 Dropbox/Games/Empire Earth III/	Documents/Empire Earth III
 Dropbox/Games/Empire Total War/	Library/Application Support/Feral Interactive/Empire Total War
 Dropbox/Games/Enclave/	Library/Application Support/GOG.com/Enclave
+Dropbox/Games/Enemy Mind/	Library/Application Support/EnemyMind
 Dropbox/Games/Eschalon Book 1/	Documents/Eschalon Book 1 Saved Games
 Dropbox/Games/Eschalon Book 2/	Library/Application Support/Basilisk Games/Book 2 Saved Games
 Dropbox/Games/Ethan - Meteor Hunter/	Documents/EthanMeteorHunter
@@ -306,6 +307,7 @@ Dropbox/Games/OpenArena/	Library/Application Support/OpenArena
 Dropbox/Games/OpenMW/	Library/Application Support/openmw
 Dropbox/Games/OpenRA/	Library/Application Support/OpenRA
 Dropbox/Games/OpenRCT2/	Documents/OpenRCT2
+Dropbox/Games/OpenRCT2/	Library/Application Support/OpenRCT2
 Dropbox/Games/OpenTTD/	Documents/OpenTTD
 Dropbox/Games/OpenTyrian/	Library/Application Support/OpenTyrian
 Dropbox/Games/Orcs Must Die/	Documents/Orcs Must Die
