@@ -521,8 +521,9 @@ Dropbox/Games/Zork - Grand Inquisitor/	Library/Application Support/Zork - Grand 
 Dropbox/Games/Zork - Nemesis/	Library/Application Support/Zork - Nemesis
 Dropbox/Games/darkplaces/	Library/Application Support/darkplaces
 Dropbox/Games/xonotic/	Library/Application Support/xonotic
-Library/Caches	.cache
+Library/Caches/	.cache
 Library/Caches/Race the Sun/CachedCommunityWorlds/	Documents/RaceTheSunWorlds/CachedCommunityWorlds
+Library/Caches/tldr/	.tldr
 Library/Fonts/	Dropbox/Apps/OSX/Fonts
 Movies/	Documents/My Videos
 Music/	Documents/My Music
