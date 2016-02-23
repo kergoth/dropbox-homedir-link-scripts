@@ -270,6 +270,7 @@ Dropbox/Games/Leisure Suit Larry 7/	Library/Application Support/GOG.com/Larry 7/
 Dropbox/Games/Leisure Suit Larry Reloaded/	Library/Caches/unity.N-Fusion Interactive.LarryReloaded
 Dropbox/Games/Loom/	Documents/My Saved Games/Loom
 Dropbox/Games/Lost Horizon/	Documents/Lost Horizon
+Dropbox/Games/Luftrausers/	.LUFTRAUSERS
 Dropbox/Games/Lugaru/	Library/Application Support/Lugaru
 Dropbox/Games/Lumino City/	Library/Application Support/com.stateofplaygames.LuminoCity
 Dropbox/Games/Mage's Initiation Demo/	Documents/My Saved Games/Mage's Initiation Demo
@@ -336,6 +337,7 @@ Dropbox/Games/RIFT/	Documents/RIFT
 Dropbox/Games/Race Driver GRID/	Documents/Codemasters/GRID
 Dropbox/Games/RaceRoom Racing Experience/	Documents/my games/SimBin/RaceRoom Racing Experience
 Dropbox/Games/Rayman Origins/	Documents/My Games/Rayman Origins
+Dropbox/Games/Read Only Memories/	Library/Application Support/unity.MidBoss.Read Only Memories
 Dropbox/Games/Red Alert 3/	Documents/Red Alert 3
 Dropbox/Games/Red Eclipse/	Library/Application Support/redeclipse
 Dropbox/Games/RelicDownloader/	Documents/My Games/RelicDownloader
@@ -351,6 +353,7 @@ Dropbox/Games/Rise of Nations/AppData	Documents/Microsoft Games/Rise of Nations
 Dropbox/Games/Rise of the Triad Dark War/	.rott
 Dropbox/Games/Risen 2/	Documents/Risen2
 Dropbox/Games/Risen/	Documents/Risen
+Dropbox/Games/Risk of Rain/	Library/Application Support/com.riskofrain.riskofrain
 Dropbox/Games/Rogue Legacy/	Library/Application Support/RogueLegacyStorageContainer
 Dropbox/Games/Rosemary/	Documents/Rosemary
 Dropbox/Games/Rush/	Library/com.twotribes.rush
