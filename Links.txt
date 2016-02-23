@@ -357,6 +357,7 @@ Dropbox/Games/Risk of Rain/	Library/Application Support/com.riskofrain.riskofrai
 Dropbox/Games/Rogue Legacy/	Library/Application Support/RogueLegacyStorageContainer
 Dropbox/Games/Rosemary/	Documents/Rosemary
 Dropbox/Games/Rush/	Library/com.twotribes.rush
+Dropbox/Games/SEGA Genesis Classics/	Documents/SEGA Genesis Classics
 Dropbox/Games/Sacred 2/	Documents/Ascaron Entertainment/Sacred 2
 Dropbox/Games/Sacred Citadel/	Documents/Sacred Citadel
 Dropbox/Games/Saints Row 2/	Documents/THQ/Saints Row 2
