@@ -19,6 +19,7 @@
 @Windows@Dropbox/Games/Fester Mudd - Curse of the Gold Episode 1/	Local Settings/Application Data/Prank Ltd/Fester Mudd_ Curse of the Gold _ Episode 1
 @Windows@Dropbox/Games/SpaceChem/	Local Settings/Application Data/Zachtronics Industries/SpaceChem
 Documents/My Videos/	Documents/My Video
+Dropbox/App Data/Little Flocker/kergoth.littleflocker.rc	/Users/Shared/Little Flocker/kergoth.littleflocker.rc
 Dropbox/Apps/Alcohol 52%/	Documents/Alcohol 52%
 Dropbox/Apps/Amazon Downloader/Logs/	Documents/Amazon Downloader Logs
 Dropbox/Apps/Amazon MP3 Uploader/	Documents/Amazon MP3 Uploader
@@ -65,6 +66,7 @@ Dropbox/Games/Antichamber/com.Demruth.Antichamber.plist	Library/Preferences/com.
 Dropbox/Games/Antichamber/com.Demruth.Antichamber.savedState/	Library/Saved Application State/com.Demruth.Antichamber.savedState
 Dropbox/Games/Aquaria/	Library/Application Support/Aquaria
 Dropbox/Games/Arcanum/	Documents/Arcanum
+Dropbox/Games/Arcanum/	Documents/Arcanum - Of Steamworks and Magick Obscura
 Dropbox/Games/Avadon/	Documents/Spiderweb Software/Avadon Saved Games
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/BIT.TRIP RUNNER
 Dropbox/Games/BIT.TRIP RUNNER/	Documents/Gaijin Games/BIT.TRIP RUNNER
@@ -103,6 +105,7 @@ Dropbox/Games/Blackwell Epiphany/	Documents/My Saved Games/Blackwell Epiphany
 Dropbox/Games/Blackwell Legacy v1.6/	Documents/My Saved Games/Blackwell Legacy v1.6
 Dropbox/Games/Blackwell Legacy v1.7/	Documents/My Saved Games/Blackwell Legacy v1.7
 Dropbox/Games/Blackwell Unbound/	Documents/My Saved Games/Blackwell Unbound
+Dropbox/Games/Bolt Riley/	Library/Application Support/unity.Adventure Mob.Bolt Riley
 Dropbox/Games/Book of Unwritten Tales - Critter Chronicles/	Library/Application Support/Unwritten Tales - Critter Chronicles
 Dropbox/Games/Book of Unwritten Tales/	Library/Application Support/Book of Unwritten Tales
 Dropbox/Games/Borderlands 2/	Library/Application Support/Borderlands 2/WillowGame
@@ -250,6 +253,7 @@ Dropbox/Games/Hexen 2/	Library/Application Support/Hexen2
 Dropbox/Games/Hitchhiker's Guide to the Galaxy Remake/	Documents/My Saved Games/Hitchhiker's Guide to the Galaxy Remake
 Dropbox/Games/Homeworld Remastered Collection/	Library/Application Support/Homeworld Remastered Collection
 Dropbox/Games/Hotline Miami/	Library/Application Support/Hotline Miami
+Dropbox/Games/Indiana Jones and the Fate of Atlantis/	Documents/Indiana Jones and the Fate of Atlantis
 Dropbox/Games/Infested Planet/	Library/Application Support/Rocket Bear Games/Infested Planet
 Dropbox/Games/Inquisitor/	Documents/Inquisitor_SaveGames
 Dropbox/Games/Invisible, Inc./	Documents/Klei/InvisibleInc
@@ -490,6 +494,7 @@ Dropbox/Games/Tropico 4/Preferences Data	Library/Application Support/Feral Inter
 Dropbox/Games/Two Worlds/Players/	Documents/Reality Pump/Two Worlds Files/Players
 Dropbox/Games/Two Worlds/Saves/	Documents/Two Worlds Saves
 Dropbox/Games/UFO - Alien Invasion 2.4/	Documents/UFOAI-2.4
+Dropbox/Games/Undertale/	Library/Application Support/com.tobyfox.undertale
 Dropbox/Games/Unknown Horizons/	.unknown-horizons
 Dropbox/Games/Unmechanical/	Documents/My Games/Unmechanical
 Dropbox/Games/Unreal Tournament 3/	Library/Application Support/Unreal Tournament 3
@@ -497,10 +502,12 @@ Dropbox/Games/UnrealEngine3/	Documents/My Games/UnrealEngine3
 Dropbox/Games/Uplink/	Library/Application Support/Uplink
 Dropbox/Games/VVVVVV/	Documents/VVVVVV
 Dropbox/Games/Vega Strike 0.5.0/	.vegastrike-0.5.0
+Dropbox/Games/Victor Vran/	Library/Application Support/com.haemimontgames.victorvran.steam
 Dropbox/Games/Volvo - The Game/	Documents/SimBin/Volvo - The Game
 Dropbox/Games/Waking Mars/	Library/Application Support/Waking Mars
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 1/	Documents/Telltale Games/Episode 101 - Fright of the Bumblebees
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 2/	Documents/Telltale Games/The Last Resort
+Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 2/	Documents/Telltale Games/WaG - The Last Resort
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 3/	Documents/Telltale Games/Muzzled
 Dropbox/Games/Wallace & Gromit's Grand Adventures Episode 4/	Documents/Telltale Games/The Bogey Man
 Dropbox/Games/Warlords Battlecry II/	Documents/Warlords Battlecry II
